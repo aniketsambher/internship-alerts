@@ -7,7 +7,7 @@ Environment:
   NTFY_TOPIC   required, the ntfy topic your phone is subscribed to
   NTFY_SERVER  default https://ntfy.sh
   CATEGORY     default Software
-  TERM_NAME    default Summer 2027
+  TERM_NAME    default Summer 2027 (roles with no term listed are included too)
   GITHUB_TOKEN optional, raises the GitHub API rate limit (set automatically in Actions)
 """
 import json
@@ -21,9 +21,8 @@ REPO = "SimplifyJobs/Summer2027-Internships"
 LISTINGS_PATH = ".github/scripts/listings.json"
 LIST_PAGE = "https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles"
 SEEN_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "seen.txt")
-# Written by watch_direct.py: SmartRecruiters posting IDs already alerted on from the careers page.
+# Written by watch_direct.py: careers-site posting IDs already alerted on.
 DIRECT_SEEN_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "seen_direct.txt")
-SMARTRECRUITERS_ID = re.compile(r"smartrecruiters\.com/[^/]+/(\d+)")
 MAX_ALERTS = 4  # beyond this, send the newest few plus one summary
 
 NTFY_TOPIC = os.environ["NTFY_TOPIC"].strip()
@@ -76,10 +75,11 @@ def main():
     print("reading", url)
     with urllib.request.urlopen(url, timeout=60) as r:
         listings = json.load(r)
-    roles = [
-        l for l in listings
-        if l.get("active") and l.get("is_visible") and l.get("category") == CATEGORY and TERM in (l.get("terms") or [])
-    ]
+    # Simplify leaves some roles without a term (e.g. Meta's and Uber's 2027 SWE interns), so count those too.
+    def term_ok(l):
+        terms = [t for t in (l.get("terms") or []) if t != "N/A"]
+        return TERM in terms or not terms
+    roles = [l for l in listings if l.get("active") and l.get("is_visible") and l.get("category") == CATEGORY and term_ok(l)]
 
     first_run = not os.path.exists(SEEN_FILE)
     seen = set()
@@ -94,8 +94,9 @@ def main():
         with open(DIRECT_SEEN_FILE, encoding="utf-8") as f:
             direct_seen = {line.strip() for line in f if line.strip()}
     def already_alerted(role):
-        m = SMARTRECRUITERS_ID.search(role["url"])
-        return bool(m) and m.group(1) in direct_seen
+        # Careers-site IDs (Greenhouse job IDs, Workday R-numbers, Ashby UUIDs...) appear inside the apply URL.
+        tokens = set(re.split(r"[^A-Za-z0-9-]+", role["url"])) | set(re.split(r"[^A-Za-z0-9]+", role["url"]))
+        return any(len(t) >= 6 and t in direct_seen for t in tokens)
     to_alert = [r for r in new if not already_alerted(r)]
     for role in new:
         if role not in to_alert:
