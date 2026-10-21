@@ -12,6 +12,7 @@ Environment:
 """
 import json
 import os
+import re
 import urllib.request
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
@@ -20,6 +21,9 @@ REPO = "SimplifyJobs/Summer2027-Internships"
 LISTINGS_PATH = ".github/scripts/listings.json"
 LIST_PAGE = "https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles"
 SEEN_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "seen.txt")
+# Written by watch_direct.py: SmartRecruiters posting IDs already alerted on from the careers page.
+DIRECT_SEEN_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "seen_direct.txt")
+SMARTRECRUITERS_ID = re.compile(r"smartrecruiters\.com/[^/]+/(\d+)")
 MAX_ALERTS = 4  # beyond this, send the newest few plus one summary
 
 NTFY_TOPIC = os.environ["NTFY_TOPIC"].strip()
@@ -84,17 +88,30 @@ def main():
             seen = {line.strip() for line in f if line.strip()}
     new = sorted((r for r in roles if r["id"] not in seen), key=lambda r: r["date_posted"])
 
+    # Roles watch_direct.py already alerted on get recorded as seen without a second alert.
+    direct_seen = set()
+    if os.path.exists(DIRECT_SEEN_FILE):
+        with open(DIRECT_SEEN_FILE, encoding="utf-8") as f:
+            direct_seen = {line.strip() for line in f if line.strip()}
+    def already_alerted(role):
+        m = SMARTRECRUITERS_ID.search(role["url"])
+        return bool(m) and m.group(1) in direct_seen
+    to_alert = [r for r in new if not already_alerted(r)]
+    for role in new:
+        if role not in to_alert:
+            print(f"already alerted from careers page: {role['company_name']} - {role['title']}")
+
     if first_run:
         send("Cloud internship alerts are on",
              f"Tracking {len(roles)} open {CATEGORY} roles. These alerts keep coming when your laptop is off.", LIST_PAGE)
-    elif new:
-        for role in new[-MAX_ALERTS:]:
+    elif to_alert:
+        for role in to_alert[-MAX_ALERTS:]:
             send_role(role)
-        if len(new) > MAX_ALERTS:
-            send(f"{len(new)} new {CATEGORY} internships", f"Showing the newest {MAX_ALERTS}. See the full list.", LIST_PAGE)
-        for role in new:
+        if len(to_alert) > MAX_ALERTS:
+            send(f"{len(to_alert)} new {CATEGORY} internships", f"Showing the newest {MAX_ALERTS}. See the full list.", LIST_PAGE)
+        for role in to_alert:
             print(f"new: {role['company_name']} - {role['title']}  {role['url']}")
-    else:
+    elif not new:
         print(f"no new roles ({len(roles)} tracked)")
 
     # Only reached if every alert went out, so a failed send is retried next run.
