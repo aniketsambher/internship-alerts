@@ -1,0 +1,35 @@
+name: Internship alerts
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # GitHub's minimum; runs often start a few minutes late
+  workflow_dispatch:
+
+permissions:
+  contents: write  # to commit seen.txt
+
+concurrency:
+  group: internship-alerts
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check for new roles
+        run: python3 check.py
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: https://ntfy-me.com
+
+      # These commits also keep the repo active, so GitHub doesn't pause the schedule after 60 days.
+      - name: Save roles already alerted on
+        run: |
+          git add seen.txt
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Record new roles"
+          git push
