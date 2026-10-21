@@ -8,6 +8,7 @@ Environment:
   NTFY_SERVER  default https://ntfy.sh
   CATEGORY     default Software
   TERM_NAME    default Summer 2027
+  GITHUB_TOKEN optional, raises the GitHub API rate limit (set automatically in Actions)
 """
 import json
 import os
@@ -15,7 +16,8 @@ import urllib.request
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
-LISTINGS_URL = "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json"
+REPO = "SimplifyJobs/Summer2027-Internships"
+LISTINGS_PATH = ".github/scripts/listings.json"
 LIST_PAGE = "https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README.md#-software-engineering-internship-roles"
 SEEN_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "seen.txt")
 MAX_ALERTS = 4  # beyond this, send the newest few plus one summary
@@ -47,8 +49,28 @@ def send_role(role):
     send(f"{role['company_name']}: {role['title']}", message, role["url"], f"https://simplify.jobs/p/{role['id']}")
 
 
+def listings_url():
+    """URL of listings.json at the newest commit on dev.
+
+    The branch URL is served from a cache that can be up to 5 minutes old; a URL
+    pinned to a commit SHA never is. Falls back to the branch URL if the API fails.
+    """
+    headers = {"Accept": "application/vnd.github.sha"}
+    if os.environ.get("GITHUB_TOKEN"):
+        headers["Authorization"] = "Bearer " + os.environ["GITHUB_TOKEN"]
+    ref = "dev"
+    try:
+        req = urllib.request.Request(f"https://api.github.com/repos/{REPO}/commits/dev", headers=headers)
+        ref = urllib.request.urlopen(req, timeout=30).read().decode().strip()
+    except Exception as e:
+        print(f"couldn't get latest commit, using cached branch copy: {e}")
+    return f"https://raw.githubusercontent.com/{REPO}/{ref}/{LISTINGS_PATH}"
+
+
 def main():
-    with urllib.request.urlopen(LISTINGS_URL, timeout=60) as r:
+    url = listings_url()
+    print("reading", url)
+    with urllib.request.urlopen(url, timeout=60) as r:
         listings = json.load(r)
     roles = [
         l for l in listings
