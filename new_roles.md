@@ -1,5 +1,21 @@
 # New internships, newest first
 
+## Oct 23, 06:35 PM ET
+
+- **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) - Toronto, ON, Canada _(Simplify)_
+- **Amazon**: [Software Engineer Intern](https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) - Redmond, WA _(Simplify)_
+- **Multiply Labs**: [Software Intern](https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b/apply) - SF _(Simplify)_
+- **Epic Games**: [Tools Programmer Intern - Graphics](https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004) - Cary, NC _(Simplify)_
+- **KLA**: [Software Engineer Intern - AI/ML for Diagnostics & Calibration](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1) - Milpitas, CA _(Simplify)_
+- **KLA Corporation**: [Software Engineer Intern - AI/ML for Diagnostics & Calibration](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129) - Milpitas, CA _(Simplify)_
+- **KLA Corporation**: [Software Engineer Intern - C++ - Linux](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878) - Milpitas, CA _(Simplify)_
+- **TELUS Digital**: [Software Engineering Intern Co-op](https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application?embed=true) - Vancouver, BC, Canada _(Simplify)_
+- **American Family Insurance Group**: [AI Platform Engineering Intern](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462) - Madison, WI _(Simplify)_
+- **Copart**: [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111861) - Dallas, TX _(Simplify)_
+- **Thales**: [Tools and Process Development Intern](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-en-dveloppement-outils---processus-outill_R0343987-1) - Montreal, QC, Canada _(Simplify)_
+- **Sun Life**: [Software Engineer Co-op](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Software-Engineer--Winter-2027-_JR00127612) - Waterloo, ON, Canada _(Simplify)_
+- **Goldman Sachs**: [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171565?type=students) - Salt Lake City, UT _(Simplify)_
+
 ## Oct 23, 01:35 PM ET
 
 - **MongoDB**: [Software Engineer Intern](https://www.mongodb.com/careers/job/?gh_jid=8209134) - Palo Alto, CA / Seattle, WA / SF / Austin, TX / NYC _(Simplify)_
