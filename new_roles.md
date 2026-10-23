@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 23, 12:35 PM ET
+
+- **Walgreens**: [Mobile App Developer Intern](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1950723) - Deerfield, IL _(Simplify)_
+
 ## Oct 23, 10:35 AM ET
 
 - **Waymo**: [Depot Automation Intern](https://careers.withwaymo.com/jobs?gh_jid=8234553) - SF _(Simplify)_
