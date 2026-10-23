@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 23, 10:31 AM ET
+
+- **IBM**: [Data Scientist Intern: 2027](https://careers.ibm.com/careers/JobDetail?jobId=138202) - Armonk, US _(careers page)_
+
 ## Oct 23, 10:05 AM ET
 
 - **Macy's**: [Summer Internship - Technology](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92293) - Johns Creek, GA _(Simplify)_
