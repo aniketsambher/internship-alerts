@@ -13,6 +13,7 @@ Environment:
 import json
 import os
 import re
+import time
 import urllib.request
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
@@ -23,7 +24,11 @@ LIST_PAGE = "https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/REA
 SEEN_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "seen.txt")
 # Written by watch_direct.py: careers-site posting IDs already alerted on.
 DIRECT_SEEN_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "seen_direct.txt")
-MAX_ALERTS = 4  # beyond this, send the newest few plus one summary
+MAX_ALERTS = 4  # beyond this, send the newest few plus one summary that names the rest
+# Every alerted role, newest first, with apply links; the summary alert opens it.
+NEW_ROLES_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "new_roles.md")
+NEW_ROLES_PAGE = f"https://github.com/{os.environ.get('GITHUB_REPOSITORY', 'aniketsambher/internship-alerts')}/blob/main/new_roles.md"
+NEW_ROLES_KEEP = 1500  # lines
 
 NTFY_TOPIC = os.environ["NTFY_TOPIC"].strip()
 NTFY_SERVER = os.environ.get("NTFY_SERVER", "https://ntfy.sh").strip().rstrip("/")
@@ -41,7 +46,36 @@ def send(title, message, apply_url, simplify_url=None):
         "actions": actions, "tags": ["briefcase"], "priority": 4,
     }).encode("utf-8")
     req = urllib.request.Request(NTFY_SERVER + "/", data=body, headers={"Content-Type": "application/json"})
-    urllib.request.urlopen(req, timeout=30).read()
+    urlopen_retry(req, 30).read()
+
+
+def urlopen_retry(req, timeout, attempts=3):
+    """urlopen that retries brief network errors, which otherwise fail the whole run."""
+    for i in range(attempts):
+        try:
+            return urllib.request.urlopen(req, timeout=timeout)
+        except Exception as e:
+            if i == attempts - 1:
+                raise
+            print(f"retrying after error: {e}")
+            time.sleep(5 * (i + 1))
+
+
+def log_new_roles(rows):
+    """Prepend a dated section to new_roles.md. rows: (company, title, location, url, source)."""
+    if not rows:
+        return
+    esc = lambda s: s.replace("[", "(").replace("]", ")")
+    lines = [f"## {datetime.now(LOCAL_TZ).strftime('%b %d, %I:%M %p ET')}\n", "\n"]
+    lines += [f"- **{esc(c)}**: [{esc(t)}]({u}){' - ' + l if l else ''} _({s})_\n" for c, t, l, u, s in rows]
+    lines.append("\n")
+    old = []
+    if os.path.exists(NEW_ROLES_FILE):
+        with open(NEW_ROLES_FILE, encoding="utf-8") as f:
+            old = f.readlines()[2:]  # drop the header
+    with open(NEW_ROLES_FILE, "w", encoding="utf-8") as f:
+        f.write("# New internships, newest first\n\n")
+        f.writelines((lines + old)[:NEW_ROLES_KEEP])
 
 
 def send_role(role):
@@ -64,7 +98,7 @@ def listings_url():
     ref = "dev"
     try:
         req = urllib.request.Request(f"https://api.github.com/repos/{REPO}/commits/dev", headers=headers)
-        ref = urllib.request.urlopen(req, timeout=30).read().decode().strip()
+        ref = urlopen_retry(req, 30).read().decode().strip()
     except Exception as e:
         print(f"couldn't get latest commit, using cached branch copy: {e}")
     return f"https://raw.githubusercontent.com/{REPO}/{ref}/{LISTINGS_PATH}"
@@ -73,7 +107,7 @@ def listings_url():
 def main():
     url = listings_url()
     print("reading", url)
-    with urllib.request.urlopen(url, timeout=60) as r:
+    with urlopen_retry(url, 60) as r:
         listings = json.load(r)
     # Simplify leaves some roles without a term (e.g. Meta's and Uber's 2027 SWE interns), so count those too.
     def term_ok(l):
@@ -108,8 +142,20 @@ def main():
     elif to_alert:
         for role in to_alert[-MAX_ALERTS:]:
             send_role(role)
-        if len(to_alert) > MAX_ALERTS:
-            send(f"{len(to_alert)} new {CATEGORY} internships", f"Showing the newest {MAX_ALERTS}. See the full list.", LIST_PAGE)
+        rest = to_alert[:-MAX_ALERTS]
+        if rest:
+            # Name every other role in the summary (ntfy caps a message at 4096 bytes); tapping it opens new_roles.md.
+            body, shown = "", 0
+            for r in reversed(rest):
+                line = f"• {r['company_name']}: {r['title']} ({' / '.join(r.get('locations') or [])})\n"
+                if len((body + line).encode("utf-8")) > 3600:
+                    break
+                body, shown = body + line, shown + 1
+            if shown < len(rest):
+                body += f"…and {len(rest) - shown} more"
+            send(f"{len(rest)} more new {CATEGORY} internships", body.strip() + "\nTap for apply links.", NEW_ROLES_PAGE)
+        log_new_roles([(r["company_name"], r["title"], " / ".join(r.get("locations") or []), r["url"], "Simplify")
+                       for r in reversed(to_alert)])
         for role in to_alert:
             print(f"new: {role['company_name']} - {role['title']}  {role['url']}")
     elif not new:

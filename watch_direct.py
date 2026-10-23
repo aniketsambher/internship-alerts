@@ -13,7 +13,7 @@ import urllib.request
 from collections import namedtuple
 from datetime import datetime, timedelta, timezone
 
-from check import LOCAL_TZ, send
+from check import LOCAL_TZ, log_new_roles, send
 
 Job = namedtuple("Job", "id title location url posted")
 
@@ -211,7 +211,7 @@ def main():
                 elif line:
                     seen.add(line)
 
-    record, newly_seeded, failed = [], [], []
+    record, newly_seeded, failed, alerted = [], [], [], []
     for company, reader, args in COMPANIES:
         try:
             jobs = reader(*args)
@@ -240,10 +240,12 @@ def main():
                 when = ("\nPosted " + (posted.astimezone(LOCAL_TZ).strftime("%b %d, %I:%M %p ET") if has_time
                                        else posted.strftime("%b %d"))) if posted else ""
                 send(f"{company} careers: {j.title}", f"{j.location or 'See posting for location'}{when}", j.url)
+                alerted.append((company, j.title, j.location, j.url, "careers page"))
                 print(f"new: {company} - {j.title}  {j.url}")
         record += [j.id for j in new]
         seen.update(j.id for j in new)
 
+    log_new_roles(alerted)
     if newly_seeded:
         send("Careers page alerts are on", "Now watching: " + ", ".join(newly_seeded) + ". You'll get an alert for each new US tech internship.",
              "https://github.com/SimplifyJobs/Summer2027-Internships")
