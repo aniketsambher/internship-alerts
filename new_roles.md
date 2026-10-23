@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Oct 23, 08:05 AM ET
+
+- **JP Morgan Chase**: [Software Engineer Intern - Immersion Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813) - Glasgow, UK _(Simplify)_
+- **JP Morgan Chase**: [Software Engineer Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738) - London, UK / Glasgow, UK _(Simplify)_
+
 ## Oct 23, 05:05 AM ET
 
 - **Appian**: [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237) - McLean, VA _(Simplify)_
