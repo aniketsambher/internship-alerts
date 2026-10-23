@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 23, 01:30 AM ET
+
+- **IBM**: [IBM Research/Research Software - Intern](https://careers.ibm.com/careers/JobDetail?jobId=137471) - Multiple Cities _(careers page)_
+
 ## Oct 21, 08:45 PM ET (the batch of 24; 2 Goldman Sachs roles have since closed)
 
 - **ManTech**: [AI Workflow Intern](https://mantech.avature.net/en_US/careers/JobDetail/66705) - Remote in USA / Stafford, VA _(Simplify)_
