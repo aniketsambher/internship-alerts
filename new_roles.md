@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 23, 01:05 PM ET
+
+- **Adobe**: [AI & Architecture Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) - San Jose, CA _(Simplify)_
+
 ## Oct 23, 12:35 PM ET
 
 - **Walgreens**: [Mobile App Developer Intern](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1950723) - Deerfield, IL _(Simplify)_
