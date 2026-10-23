@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Oct 23, 01:35 PM ET
+
+- **MongoDB**: [Software Engineer Intern](https://www.mongodb.com/careers/job/?gh_jid=8209134) - Palo Alto, CA / Seattle, WA / SF / Austin, TX / NYC _(Simplify)_
+- **Citi**: [Technology Placement Analyst Intern - Application Development](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology---Application-Development--Placement-Analyst--Belfast-2027_261002927) - Belfast, UK _(Simplify)_
+
 ## Oct 23, 01:05 PM ET
 
 - **Adobe**: [AI & Architecture Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) - San Jose, CA _(Simplify)_
