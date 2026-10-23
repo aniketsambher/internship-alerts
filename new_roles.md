@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 23, 09:35 AM ET
+
+- **LSEG**: [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389-1) - London, UK _(Simplify)_
+
 ## Oct 23, 09:05 AM ET
 
 - **Aramco Americas**: [Research and Development Intern - Boston Research Center - 2027 Summer Student Program](https://aramcoservices.applytojob.com/apply/rnpFdnTdYb/Research-And-Development-Boston-Research-Center-2027-Summer-Student-Program) - Cambridge, MA _(Simplify)_
