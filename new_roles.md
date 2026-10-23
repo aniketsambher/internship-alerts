@@ -1,5 +1,16 @@
 # New internships, newest first
 
+## Oct 23, 10:05 AM ET
+
+- **Macy's**: [Summer Internship - Technology](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92293) - Johns Creek, GA _(Simplify)_
+- **CAE**: [Software Developer Intern - Operating System Image & Configuration](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-055---Dveloppeur-Logiciel--Systme-d-exploitation---Configuration--_123657-1) - Montreal, QC, Canada _(Simplify)_
+- **ACI Worldwide**: [Technology Intern](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19943) - Norcross, GA _(Simplify)_
+- **LSEG**: [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-1) - Boston, MA _(Simplify)_
+- **LSEG**: [Engineering Intern](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569-1) - NYC _(Simplify)_
+- **LSEG**: [Engineering Intern](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569) - NYC _(Simplify)_
+- **LSEG**: [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-2) - Boston, MA _(Simplify)_
+- **CoStar Group**: [Associate Software Engineer Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736) - Irvine, CA _(Simplify)_
+
 ## Oct 23, 09:35 AM ET
 
 - **LSEG**: [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389-1) - London, UK _(Simplify)_
