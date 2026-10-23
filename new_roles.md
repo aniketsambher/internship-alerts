@@ -1,5 +1,15 @@
 # New internships, newest first
 
+## Oct 23, 10:35 AM ET
+
+- **Waymo**: [Depot Automation Intern](https://careers.withwaymo.com/jobs?gh_jid=8234553) - SF _(Simplify)_
+- **NatWest Group**: [Engineering Intern](https://rbs.wd3.myworkdayjobs.com/rbs/job/Manchester/Engineering----Internship_R-00285731) - Manchester, UK _(Simplify)_
+- **NatWest Group**: [Engineering Intern](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Engineering----Internship_R-00285734) - London, UK _(Simplify)_
+- **NatWest Group**: [Engineering Intern](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bristol/Engineering----Internship_R-00285732) - Bristol, UK _(Simplify)_
+- **Astranis**: [Software Developer Associate - Network Software](https://job-boards.greenhouse.io/astranis/jobs/4705617006) - SF _(Simplify)_
+- **Synchrony Financial**: [Digital Technology Center Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661) - Stamford, CT _(Simplify)_
+- **CACI**: [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999) - Remote in USA / Sterling, VA / Denver, CO _(Simplify)_
+
 ## Oct 23, 10:31 AM ET
 
 - **IBM**: [Data Scientist Intern: 2027](https://careers.ibm.com/careers/JobDetail?jobId=138202) - Armonk, US _(careers page)_
