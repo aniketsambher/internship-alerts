@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 23, 09:05 AM ET
+
+- **Aramco Americas**: [Research and Development Intern - Boston Research Center - 2027 Summer Student Program](https://aramcoservices.applytojob.com/apply/rnpFdnTdYb/Research-And-Development-Boston-Research-Center-2027-Summer-Student-Program) - Cambridge, MA _(Simplify)_
+
 ## Oct 23, 08:35 AM ET
 
 - **Ernst & Young**: [Vector Capitalization Intern - Multiple Teams](https://eyglobal.yello.co/jobs/LBmQQDFgzrEW53QwXVMXLw?job_board_id=c1riT--B2O-KySgYWsZO1Q) - Houston, TX / Dallas, TX / Atlanta, GA _(Simplify)_
