@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Oct 24, 08:05 AM ET
+
+- **Aptiv**: [Cloud Software Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704365) - Kanata, Ottawa, ON, Canada _(Simplify)_
+- **Aptiv**: [Cloud Software Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704364) - Kanata, Ottawa, ON, Canada _(Simplify)_
+
 ## Oct 24, 07:35 AM ET
 
 - **Aptiv**: [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704357) - Kanata, Ottawa, ON, Canada _(Simplify)_
