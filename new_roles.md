@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 23, 10:05 PM ET
+
+- **Goldman Sachs**: [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/171553?type=students) - Dallas, TX _(Simplify)_
+
 ## Oct 23, 09:35 PM ET
 
 - **Aptiv**: [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693010) - Kanata, Ottawa, ON, Canada _(Simplify)_
