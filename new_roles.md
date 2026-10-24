@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Oct 24, 07:05 AM ET
+
+- **Aptiv**: [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704367) - Kanata, Ottawa, ON, Canada _(Simplify)_
+- **Aptiv**: [Cloud Software Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704366) - Kanata, Ottawa, ON, Canada _(Simplify)_
+- **Leidos**: [Business Systems AI Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327) - Remote in USA _(Simplify)_
+
 ## Oct 24, 06:05 AM ET
 
 - **Electronic Arts**: [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251) - Orlando, FL _(Simplify)_
