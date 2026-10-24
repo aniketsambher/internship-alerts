@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 24, 06:05 AM ET
+
+- **Electronic Arts**: [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251) - Orlando, FL _(Simplify)_
+
 ## Oct 24, 05:05 AM ET
 
 - **KRAFTON**: [UI Programming Intern](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002) - Montreal, QC, Canada _(Simplify)_
