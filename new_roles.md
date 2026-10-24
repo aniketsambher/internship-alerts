@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 24, 05:05 AM ET
+
+- **KRAFTON**: [UI Programming Intern](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002) - Montreal, QC, Canada _(Simplify)_
+
 ## Oct 23, 10:05 PM ET
 
 - **Goldman Sachs**: [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/171553?type=students) - Dallas, TX _(Simplify)_
