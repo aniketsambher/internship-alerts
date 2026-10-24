@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Oct 23, 09:35 PM ET
+
+- **Aptiv**: [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693010) - Kanata, Ottawa, ON, Canada _(Simplify)_
+- **Sardine**: [Engineering Intern](https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application?embed=true) - Remote in USA / Remote in Canada _(Simplify)_
+
 ## Oct 23, 07:05 PM ET
 
 - **Microsoft**: [Software Engineer Intern - Security & Identity](https://apply.careers.microsoft.com/careers/job/1970393557044771) - United States _(Simplify)_
