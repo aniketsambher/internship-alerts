@@ -1,5 +1,15 @@
 # New internships, newest first
 
+## Oct 26, 11:05 AM ET
+
+- **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114-1) - Toronto, ON, Canada _(Simplify)_
+- **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199) - Vancouver, BC, Canada _(Simplify)_
+- **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1) - Calgary, AB, Canada _(Simplify)_
+- **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196-1) - Bedford, NS, Canada _(Simplify)_
+- **Royal Bank of Canada**: [Developer Intern - RBC Amplify](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1) - Montreal, QC, Canada _(Simplify)_
+- **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1) - Toronto, ON, Canada _(Simplify)_
+- **General Dynamics Information Technology**: [Software Developer Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643) - Egg Harbor Township, NJ _(Simplify)_
+
 ## Oct 26, 10:40 AM ET
 
 - **PTC**: [Software Engineer Intern](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943) - Boston, MA _(Simplify)_
