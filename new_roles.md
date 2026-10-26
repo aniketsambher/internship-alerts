@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Oct 26, 10:30 AM ET
+
+- **IBM**: [Back End Developer Intern 2027 - Poughkeepsie](https://careers.ibm.com/careers/JobDetail?jobId=129781) - POUGHKEEPSIE, US _(careers page)_
+- **IBM**: [Back End Developer Intern 2027 - RTP](https://careers.ibm.com/careers/JobDetail?jobId=129782) - Multiple Cities _(careers page)_
+
 ## Oct 26, 04:05 AM ET
 
 - **Vigil Labs**: [Software Engineer Intern](https://simplify.jobs/p/4712ce89-b48c-4c1c-9db2-5b03917f8bb2) - Palo Alto, CA _(Simplify)_
