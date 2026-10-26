@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 26, 04:30 PM ET
+
+- **IBM**: [Software Engineering Intern - Quantum Information Science 2027](https://careers.ibm.com/careers/JobDetail?jobId=137674) - Multiple Cities _(careers page)_
+
 ## Oct 26, 11:05 AM ET
 
 - **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114-1) - Toronto, ON, Canada _(Simplify)_
