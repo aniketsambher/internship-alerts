@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 26, 04:05 AM ET
+
+- **Vigil Labs**: [Software Engineer Intern](https://simplify.jobs/p/4712ce89-b48c-4c1c-9db2-5b03917f8bb2) - Palo Alto, CA _(Simplify)_
+
 ## Oct 24, 08:05 AM ET
 
 - **Aptiv**: [Cloud Software Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704365) - Kanata, Ottawa, ON, Canada _(Simplify)_
