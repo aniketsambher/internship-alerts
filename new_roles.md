@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 26, 07:30 PM ET
+
+- **IBM**: [Firmware Developer Intern - Poughkeepsie - 2027](https://careers.ibm.com/careers/JobDetail?jobId=129907) - POUGHKEEPSIE, US _(careers page)_
+
 ## Oct 26, 07:05 PM ET
 
 - **Space Dynamics Laboratory**: [Software Engineer Intern](https://spacedynamicslaboratory.applytojob.com/apply/Xb4whC202X/Student-Software-Engineer) - Logan, UT _(Simplify)_
