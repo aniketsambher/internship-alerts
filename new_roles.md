@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Oct 26, 10:40 AM ET
+
+- **PTC**: [Software Engineer Intern](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943) - Boston, MA _(Simplify)_
+- **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2) - Vancouver, BC, Canada _(Simplify)_
+- **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196) - Halifax Regional Municipality, NS, Canada _(Simplify)_
+- **Tencent**: [Game UI Intern - AI Focus](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Game-UI---Tools-Intern--AI-Focus-_R108251) - London, UK _(Simplify)_
+
 ## Oct 26, 10:30 AM ET
 
 - **IBM**: [Back End Developer Intern 2027 - Poughkeepsie](https://careers.ibm.com/careers/JobDetail?jobId=129781) - POUGHKEEPSIE, US _(careers page)_
