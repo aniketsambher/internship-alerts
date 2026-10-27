@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Oct 26, 09:35 PM ET
+
+- **Altera**: [Software Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382) - Toronto, ON, Canada _(Simplify)_
+- **Niantic Spatial**: [Software Engineer Intern - Native SDK & Mobile Platforms](https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43/application?embed=true) - SF _(Simplify)_
+- **Lawrence Livermore National Laboratory (LLNL)**: [Defense Science and Technology Intern](https://jobs.smartrecruiters.com/LLNL/3743990015740565) - Livermore, CA _(Simplify)_
+- **GE Vernova**: [Project Engineer Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-1) - Bellevue, WA _(Simplify)_
+- **LPL Financial Holdings**: [Software Engineer Intern](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921) - Austin, TX / Fort Mill, SC / Charlotte, NC _(Simplify)_
+
 ## Oct 26, 07:30 PM ET
 
 - **IBM**: [Firmware Developer Intern - Poughkeepsie - 2027](https://careers.ibm.com/careers/JobDetail?jobId=129907) - POUGHKEEPSIE, US _(careers page)_
