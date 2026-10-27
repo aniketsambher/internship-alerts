@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Oct 26, 10:05 PM ET
+
+- **Aurora Innovation**: [AI Engineer Intern](https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c/application?embed=true) - Seattle, WA / Pittsburgh, PA / Mountain View, CA _(Simplify)_
+- **Aurora Innovation**: [Core Autonomy Software Intern - C++](https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12/application?embed=true) - Pittsburgh, PA / Mountain View, CA _(Simplify)_
+- **Aurora Innovation**: [Simulation Engineering Intern](https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd/application?embed=true) - SF / Mountain View, CA _(Simplify)_
+- **Aurora Innovation**: [Full Stack Engineer Intern](https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true) - Pittsburgh, PA / Mountain View, CA _(Simplify)_
+- **GE Vernova**: [Project Engineer Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-2) - Bellevue, WA _(Simplify)_
+
 ## Oct 26, 09:35 PM ET
 
 - **Altera**: [Software Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382) - Toronto, ON, Canada _(Simplify)_
