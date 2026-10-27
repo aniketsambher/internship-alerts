@@ -1,5 +1,21 @@
 # New internships, newest first
 
+## Oct 27, 06:35 PM ET
+
+- **Emerson Electric**: [Software Engineer Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010630) - Austin, TX _(Simplify)_
+- **Commonwealth Fusion Systems**: [Scientific Software Engineer Intern](https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619/apply) - Devens, MA _(Simplify)_
+- **Amazon**: [Database Engineer Intern](https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027) - Seattle, WA / East Palo Alto, CA _(Simplify)_
+- **Keysight Technologies**: [Application Development Intern](https://jobs.keysight.com/jobs/55157?icims=1) - Santa Rosa, CA _(Simplify)_
+- **Salesforce**: [Forward Deployed Engineer Intern - Global Public Sector](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1) - Arkansas / Ohio _(Simplify)_
+- **Micron Technology**: [Product Yield Enhancement Software Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864) - Boise, ID _(Simplify)_
+- **ASML**: [Imaging Product Engineer Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Imaging-product-engineer_J-00355220) - San Jose, CA _(Simplify)_
+- **ASML**: [Frontend Developer Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852) - San Jose, CA _(Simplify)_
+- **Northrop Grumman**: [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803) - Colorado Springs, CO _(Simplify)_
+- **Northrop Grumman**: [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798) - Boulder, CO _(Simplify)_
+- **Northrop Grumman**: [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903) - Azusa, CA _(Simplify)_
+- **Texas Instruments**: [Web Marketing Intern - Front-end Developer](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753) - Dallas, TX _(Simplify)_
+- **Sikich**: [Intelligence Transformation Intern](https://jobs.jobvite.com/sikichcareers/job/oGOPAfwD?nl=1&nl=1&fr=false) - Remote in USA _(Simplify)_
+
 ## Oct 27, 04:35 PM ET
 
 - **IBM**: [Software and Go-To-Market Strategy Summer Intern](https://careers.ibm.com/careers/JobDetail?jobId=138967) - Cambridge, US _(careers page)_
