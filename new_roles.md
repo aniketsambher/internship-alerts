@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 27, 04:30 PM ET
+
+- **IBM**: [QA/Test Engineer Intern-Tucson, AZ](https://careers.ibm.com/careers/JobDetail?jobId=130074) - TUCSON, US _(careers page)_
+
 ## Oct 27, 11:06 AM ET
 
 - **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01885074) - Cedar Rapids, IA _(Simplify)_
