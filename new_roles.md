@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 27, 04:35 PM ET
+
+- **IBM**: [Software and Go-To-Market Strategy Summer Intern](https://careers.ibm.com/careers/JobDetail?jobId=138967) - Cambridge, US _(careers page)_
+
 ## Oct 27, 04:30 PM ET
 
 - **IBM**: [QA/Test Engineer Intern-Tucson, AZ](https://careers.ibm.com/careers/JobDetail?jobId=130074) - TUCSON, US _(careers page)_
