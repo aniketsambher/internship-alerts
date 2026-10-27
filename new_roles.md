@@ -1,5 +1,15 @@
 # New internships, newest first
 
+## Oct 27, 07:05 PM ET
+
+- **Uber**: [Software Engineer Intern](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) - Toronto, ON, Canada _(Simplify)_
+- **Nomad GCS**: [Software Engineer Intern](https://nomadgcs.bamboohr.com/careers/506/) - Columbia Falls, MT _(Simplify)_
+- **CACI**: [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618) - Sarasota, FL _(Simplify)_
+- **Delta Dental**: [Application Development Intern - Application Development](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101510) - Okemos, MI _(Simplify)_
+- **Great American Insurance Company**: [Claims Lab Developer Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803) - Cincinnati, OH _(Simplify)_
+- **Great American Insurance Company**: [Data Application Engineer Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Application-Development-Intern---Summer-2027_R9796) - Cincinnati, OH _(Simplify)_
+- **Salesforce**: [Forward Deployed Engineer Intern - Global Public Sector](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026) - Arkansas / Ohio _(Simplify)_
+
 ## Oct 27, 06:35 PM ET
 
 - **Emerson Electric**: [Software Engineer Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010630) - Austin, TX _(Simplify)_
