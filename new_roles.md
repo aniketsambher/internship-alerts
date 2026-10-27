@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 27, 10:30 AM ET
+
+- **IBM**: [Intern Software Engineer / Agent Engineer - EDA - Poughkeepsie 2027](https://careers.ibm.com/careers/JobDetail?jobId=130716) - POUGHKEEPSIE, US _(careers page)_
+
 ## Oct 26, 10:05 PM ET
 
 - **Aurora Innovation**: [AI Engineer Intern](https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c/application?embed=true) - Seattle, WA / Pittsburgh, PA / Mountain View, CA _(Simplify)_
