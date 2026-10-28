@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Oct 28, 06:05 AM ET
+
+- **RosaicLabs**: [Software Engineering Intern](https://jobs.lever.co/rosaiclabs/740b53d3-dd36-41fb-b49c-ab7f97505aa8/apply) - Austin, TX / Santa Clara, CA _(Simplify)_
+- **Axiom Math**: [Member of Technical Staff Intern](https://jobs.ashbyhq.com/axiommath/bc494f2d-64d0-4f8e-a18a-3c9059d5940e/application?embed=true) - Palo Alto, CA / London, UK _(Simplify)_
+- **Sycamore**: [Engineer Intern](https://jobs.ashbyhq.com/sycamore/20c06fdf-9aa4-44b0-9cd1-4e21707a16f3/application?embed=true) - Palo Alto, CA _(Simplify)_
+- **Latent Defense**: [Software Engineer Intern](https://jobs.ashbyhq.com/latent%20defense/54841e7d-d80a-4c2f-8c44-d492fe8eb487/application?embed=true) - NYC _(Simplify)_
+
 ## Oct 28, 04:05 AM ET
 
 - **Serval**: [Software Engineer Intern](https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b/application?embed=true) - SF _(Simplify)_
