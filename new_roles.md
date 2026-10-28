@@ -1,5 +1,17 @@
 # New internships, newest first
 
+## Oct 28, 02:35 AM ET
+
+- **VSP Vision**: [Software Engineer Intern - Technology Innovation](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020) - Remote in USA _(Simplify)_
+- **VSP Vision**: [Software Engineer Intern](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068) - Remote in USA _(Simplify)_
+- **Shield AI**: [Software Engineer Intern](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true) - San Diego, CA _(Simplify)_
+- **Ixian Robotics**: [Software Intern](https://jobs.ashbyhq.com/ixianrobotics/23738c13-3881-402e-9919-85683052d233/application?embed=true) - SF _(Simplify)_
+- **General Magic**: [Design Engineer Co-op](https://jobs.ashbyhq.com/generalmagic/5c0e1614-de0c-4a8a-b37a-86af8f92b506/application?embed=true) - Toronto, ON, Canada _(Simplify)_
+- **General Magic**: [Backend Engineer Co-op](https://jobs.ashbyhq.com/generalmagic/76c162b0-9fd6-42bb-93d5-9ab7ad3f569b/application?embed=true) - Toronto, ON, Canada _(Simplify)_
+- **General Magic**: [AI Engineer Co-op](https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6/application?embed=true) - Toronto, ON, Canada _(Simplify)_
+- **Shield AI**: [Software Engineer Intern](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true) - San Diego, CA _(Simplify)_
+- **Laminar**: [Technical Intern](https://jobs.ashbyhq.com/laminar-jobs/b8bf92af-a213-4f50-a22c-4a2413c4ab87/application?embed=true) - SF _(Simplify)_
+
 ## Oct 27, 10:05 PM ET
 
 - **NUVACORE**: [CPU Software Intern](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply) - Markham, ON, Canada _(Simplify)_
