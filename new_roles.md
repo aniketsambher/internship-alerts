@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 28, 04:05 AM ET
+
+- **Serval**: [Software Engineer Intern](https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b/application?embed=true) - SF _(Simplify)_
+
 ## Oct 28, 03:05 AM ET
 
 - **Certa**: [Frontend Engineer Intern](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true) - London, UK / Remote in India / SF / Jaipur, Rajasthan, India _(Simplify)_
