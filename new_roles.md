@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 28, 10:25 AM ET
+
+- **IBM**: [SW Developer Intern | AI Center of Excellence - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131176) - Austin, US _(careers page)_
+
 ## Oct 28, 08:35 AM ET
 
 - **VSP Vision**: [Software Engineer Intern](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046) - Remote in USA _(Simplify)_
