@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 28, 05:55 PM ET
+
+- **LinkedIn**: [Software Engineer Intern (First Play)  - Summer 2027 (Mountain View, CA) ](https://jobs.smartrecruiters.com/LinkedIn3/744000158394370) - Mountain View, CA, United States _(careers page)_
+
 ## Oct 28, 01:25 PM ET
 
 - **IBM**: [Site Reliability Engineer Intern - OneIT - Poughkeepsie, NY](https://careers.ibm.com/careers/JobDetail?jobId=132880) - POUGHKEEPSIE, US _(careers page)_
