@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Oct 28, 11:05 AM ET
+
+- **Autodesk**: [Software Engineer Intern - Javascript](https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--Javascript----12-months_26WD101691-2) - Sheffield, UK _(Simplify)_
+- **RTX**: [Software Engineer Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371) - Marlborough, MA / Tewksbury, MA _(Simplify)_
+- **Ace Hardware**: [IT Associate Software Engineer Intern](https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797) - Oak Brook, IL _(Simplify)_
+- **WebFX**: [Web Developer Intern](https://jobs.ashbyhq.com/webfx/3851a96a-34d2-41df-8da2-0f12ab5c396d/application?embed=true) - Harrisburg, PA _(Simplify)_
+
 ## Oct 28, 10:35 AM ET
 
 - **Infleqtion**: [Quantum Software Intern - Quantum Software](https://apply.workable.com/coldquanta/j/EB77DE8198/apply) - Chicago, IL _(Simplify)_
