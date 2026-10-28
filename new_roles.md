@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Oct 28, 10:35 AM ET
+
+- **Infleqtion**: [Quantum Software Intern - Quantum Software](https://apply.workable.com/coldquanta/j/EB77DE8198/apply) - Chicago, IL _(Simplify)_
+- **Allegion**: [Software Systems Engineering Intern](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1) - Golden, CO _(Simplify)_
+
 ## Oct 28, 10:30 AM ET
 
 - **IBM**: [Site Reliability Engineer Intern - OneIT - Rochester, MN](https://careers.ibm.com/careers/JobDetail?jobId=132822) - ROCHESTER, US _(careers page)_
