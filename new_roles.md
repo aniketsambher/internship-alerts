@@ -1,5 +1,18 @@
 # New internships, newest first
 
+## Oct 28, 06:35 PM ET
+
+- **Clean Harbors**: [Software & Field Technology Intern IS](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672) - Deer Park, TX _(Simplify)_
+- **Lila Sciences**: [Finance Co-op](https://job-boards.greenhouse.io/lilasciences/jobs/4469146009) - Cambridge, MA _(Simplify)_
+- **Autodesk**: [Software Engineer Intern - C++/.Net](https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD101693-2) - Sheffield, UK _(Simplify)_
+- **T-Mobile**: [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441) - Overland Park, KS _(Simplify)_
+- **Pennsylvania State University**: [Research and Development Engineer Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000083854-1) - State College, PA _(Simplify)_
+- **Subtotal**: [Software Engineer Intern](https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801/application?embed=true) - Remote in USA _(Simplify)_
+- **TD Bank**: [Technology Intern](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241) - Belfast, UK _(Simplify)_
+- **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169) - Sterling, VA _(Simplify)_
+- **FormFactor**: [Electrical Design Automation Intern - AI & EDA Automation](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Electrical-Design-Automation-Intern---AI---EDA-Automation_JR101304) - Livermore, CA _(Simplify)_
+- **Genesis Molecular AI**: [Software Engineer Intern](https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99/application?embed=true) - San Mateo, CA / NYC _(Simplify)_
+
 ## Oct 28, 05:55 PM ET
 
 - **LinkedIn**: [Software Engineer Intern (First Play)  - Summer 2027 (Mountain View, CA) ](https://jobs.smartrecruiters.com/LinkedIn3/744000158394370) - Mountain View, CA, United States _(careers page)_
