@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 28, 10:30 AM ET
+
+- **IBM**: [Site Reliability Engineer Intern - OneIT - Rochester, MN](https://careers.ibm.com/careers/JobDetail?jobId=132822) - ROCHESTER, US _(careers page)_
+
 ## Oct 28, 10:25 AM ET
 
 - **IBM**: [SW Developer Intern | AI Center of Excellence - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131176) - Austin, US _(careers page)_
