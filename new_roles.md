@@ -1,5 +1,14 @@
 # New internships, newest first
 
+## Oct 27, 10:05 PM ET
+
+- **NUVACORE**: [CPU Software Intern](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply) - Markham, ON, Canada _(Simplify)_
+- **Perspective Therapeutics**: [AI Innovation Intern](https://perspectivetherapeutics.applytojob.com/apply/W9dIXxB2Qe/AI-Innovation-Intern) - Seattle, WA _(Simplify)_
+- **Samsung**: [Power-Thermal Simulation Software Engineer Intern](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003) - San Jose, CA _(Simplify)_
+- **DriveWealth**: [AI Consulting Associate Program Product Owner Intern](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true) - Chicago, IL _(Simplify)_
+- **DriveWealth**: [AI Consulting Associate Program – AI Engineer Intern](https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true) - Chicago, IL _(Simplify)_
+- **Relling**: [Robotics Software Engineer Intern](https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e/application?embed=true) - SF _(Simplify)_
+
 ## Oct 27, 09:35 PM ET
 
 - **FUTO**: [Software Engineer Intern](https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply) - Austin, TX _(Simplify)_
