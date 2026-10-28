@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Oct 28, 03:05 AM ET
+
+- **Certa**: [Frontend Engineer Intern](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true) - London, UK / Remote in India / SF / Jaipur, Rajasthan, India _(Simplify)_
+- **Quadric**: [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52/application?embed=true) - Burlingame, CA _(Simplify)_
+
 ## Oct 28, 02:35 AM ET
 
 - **VSP Vision**: [Software Engineer Intern - Technology Innovation](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020) - Remote in USA _(Simplify)_
