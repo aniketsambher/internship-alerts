@@ -1,5 +1,14 @@
 # New internships, newest first
 
+## Oct 28, 07:05 PM ET
+
+- **Javelin Global Commodities**: [Software Engineering Intern](https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/apply) - London, UK _(Simplify)_
+- **Schonfeld**: [AI Enablement Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171694) - NYC _(Simplify)_
+- **AMD**: [Masters AI Training Software & Performance Co-op](https://careers.amd.com/jobs/93476?icims=1) - San Jose, CA _(Simplify)_
+- **Regeneron Pharmaceuticals**: [IT and Systems Intern - Industrial Operations and Product Supply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-IT---Systems--IOPS-_R51822) - Rensselaer, NY _(Simplify)_
+- **Sonos**: [Software Engineer Intern](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1) - Boston, MA _(Simplify)_
+- **Virtu Financial**: [Frontend Developer Internship](https://job-boards.greenhouse.io/virtu/jobs/8657500002) - NYC _(Simplify)_
+
 ## Oct 28, 06:35 PM ET
 
 - **Clean Harbors**: [Software & Field Technology Intern IS](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672) - Deer Park, TX _(Simplify)_
