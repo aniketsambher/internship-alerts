@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 28, 08:35 AM ET
+
+- **VSP Vision**: [Software Engineer Intern](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046) - Remote in USA _(Simplify)_
+
 ## Oct 28, 08:05 AM ET
 
 - **VSP Vision**: [Software Engineer Intern](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071) - Remote in USA _(Simplify)_
