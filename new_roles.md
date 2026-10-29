@@ -1,5 +1,22 @@
 # New internships, newest first
 
+## Oct 29, 07:05 PM ET
+
+- **Overland AI**: [Software Engineering Intern](https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e) - Seattle, WA _(Simplify)_
+- **Waggoner Financial**: [Software Engineer Intern](https://apply.workable.com/waggoner-financial/j/FA0B644142/apply) - Lansing, MI _(Simplify)_
+- **Samsung**: [Systems Software Engineer Intern](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003) - San Jose, CA _(Simplify)_
+- **Genius AI**: [Engineering Intern](https://jobs.ashbyhq.com/geniusai/06198681-5c9d-40fa-aa68-ac92b65227c4/application?embed=true) - NYC _(Simplify)_
+- **Baker Hughes**: [Software Engineer Intern](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R171503) - Cramlington, UK _(Simplify)_
+- **SOTI**: [Software Developer Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611) - Mississauga, ON, Canada _(Simplify)_
+- **Leidos**: [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829) - Annapolis Junction, MD _(Simplify)_
+- **PTC**: [Arena Engineering Intern](https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Mateo-CA/Arena-Engineering-Intern_JR112955) - San Mateo, CA _(Simplify)_
+- **Great American Insurance Company**: [Content Publishing Developer Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813) - Cincinnati, OH _(Simplify)_
+- **Great American Insurance Company**: [Extreme Programming Engineer Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Extreme-Programming-Engineer-Intern---Summer-2027_R9821) - Cincinnati, OH _(Simplify)_
+- **Great American Insurance Company**: [DevOps Developer Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826) - Cincinnati, OH _(Simplify)_
+- **NVIDIA**: [AI Systems Software Engineer Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170) - Austin, TX _(Simplify)_
+- **NVIDIA**: [Compiler Software Engineer Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607) - Redmond, WA _(Simplify)_
+- **Garda Capital Partners**: [Software Engineer Intern - C#](https://job-boards.greenhouse.io/gardacp/jobs/6238021004) - Wayzata, MN _(Simplify)_
+
 ## Oct 29, 06:35 PM ET
 
 - **Qualcomm**: [AI Software Systems Co-op Intern](https://qualcomm.eightfold.ai/careers/job/446721862430) - Toronto, ON, Canada _(Simplify)_
