@@ -1,5 +1,14 @@
 # New internships, newest first
 
+## Oct 29, 11:05 AM ET
+
+- **Two Six Technologies**: [Systems Software Engineer Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004) - Arlington County, Arlington, VA _(Simplify)_
+- **OLIX**: [Software Engineer Intern](https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e/application?embed=true) - London, UK _(Simplify)_
+- **Burns Engineering**: [Software Engineer Intern](https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009) - Pittsburgh, PA _(Simplify)_
+- **Qube Research & Technologies**: [Technology Intern](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002) - Chicago, IL / NYC _(Simplify)_
+- **OneEthos**: [Research and Development Intern](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) - Remote in USA _(Simplify)_
+- **Netcraft**: [Software Engineer Intern](https://job-boards.eu.greenhouse.io/netcraft/jobs/4975674101) - London, UK / Bath, UK / Manchester, UK _(Simplify)_
+
 ## Oct 29, 10:35 AM ET
 
 - **JM Family**: [Software Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158) - Deerfield Beach, FL _(Simplify)_
