@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 29, 05:35 AM ET
+
+- **Capital de Recherche Tower**: [Software Developer Intern](https://www.tower-research.ca/postes-vacants/?gh_jid=8212194) - Montreal, QC, Canada _(Simplify)_
+
 ## Oct 29, 05:05 AM ET
 
 - **West Monroe**: [Software Engineering Consultant Intern - AI Concentration](https://westmonroe.com/careers/job-details-students?gh_jid=6181199004) - NYC _(Simplify)_
