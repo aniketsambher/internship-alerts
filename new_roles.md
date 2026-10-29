@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 29, 06:35 AM ET
+
+- **KLA**: [Software Engineer Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721) - Milpitas, CA _(Simplify)_
+
 ## Oct 29, 05:35 AM ET
 
 - **Capital de Recherche Tower**: [Software Developer Intern](https://www.tower-research.ca/postes-vacants/?gh_jid=8212194) - Montreal, QC, Canada _(Simplify)_
