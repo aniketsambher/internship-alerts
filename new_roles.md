@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Oct 28, 09:35 PM ET
+
+- **HP Inc.**: [Software Quality Assurance Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802) - SF _(Simplify)_
+- **HP Inc.**: [Software Systems Intern - IQ](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801) - SF _(Simplify)_
+- **Graphcore**: [Software Engineer Intern - AI Compute Libraries & Performance](https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902325002) - Bristol, UK _(Simplify)_
+- **Graphcore**: [Software Engineer Intern - Drivers and Utilities](https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902141002) - Bristol, UK _(Simplify)_
+- **New York ISO**: [Software Engineering Co-op - Software Engineering](https://job-boards.greenhouse.io/nyisocoops/jobs/5236034007) - Rensselaer, NY _(Simplify)_
+
 ## Oct 28, 07:05 PM ET
 
 - **Javelin Global Commodities**: [Software Engineering Intern](https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/apply) - London, UK _(Simplify)_
