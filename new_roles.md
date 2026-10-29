@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Oct 29, 10:35 AM ET
+
+- **JM Family**: [Software Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158) - Deerfield Beach, FL _(Simplify)_
+- **Riverlane**: [PhD Research Intern](https://www.riverlane.com/jobs?gh_jid=5001381101#vacancies) - Cambridge, UK _(Simplify)_
+- **Riverlane**: [Software Engineering Intern](https://www.riverlane.com/jobs?gh_jid=5000786101#vacancies) - Cambridge, UK _(Simplify)_
+- **Advanced Space**: [Software Engineer Intern](https://job-boards.greenhouse.io/advancedspace/jobs/4324855009) - Westminster, CO _(Simplify)_
+- **Quantiq**: [Software Developer Intern](https://job-boards.greenhouse.io/quantiq/jobs/4287936009) - Austin, TX _(Simplify)_
+
 ## Oct 29, 09:35 AM ET
 
 - **Adobe**: [Technical Support Consultant Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172786) - San Jose, CA _(Simplify)_
