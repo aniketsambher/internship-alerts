@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Oct 29, 09:35 AM ET
+
+- **Adobe**: [Technical Support Consultant Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172786) - San Jose, CA _(Simplify)_
+- **Adobe**: [Technical Support Consultant Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785) - San Jose, CA _(Simplify)_
+
 ## Oct 29, 08:35 AM ET
 
 - **KLA Corporation**: [Software Engineer Intern](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1) - Milpitas, CA _(Simplify)_
