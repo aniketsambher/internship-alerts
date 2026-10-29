@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Oct 29, 05:05 AM ET
+
+- **West Monroe**: [Software Engineering Consultant Intern - AI Concentration](https://westmonroe.com/careers/job-details-students?gh_jid=6181199004) - NYC _(Simplify)_
+- **Qualcomm**: [Design Automation & Quality Assurance Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721349404) - Toronto, ON, Canada _(Simplify)_
+
 ## Oct 29, 04:35 AM ET
 
 - **Philips**: [AI & Analytics Analyst Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012) - Nashville, TN _(Simplify)_
