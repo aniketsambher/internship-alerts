@@ -1,5 +1,22 @@
 # New internships, newest first
 
+## Oct 29, 06:35 PM ET
+
+- **Qualcomm**: [AI Software Systems Co-op Intern](https://qualcomm.eightfold.ai/careers/job/446721862430) - Toronto, ON, Canada _(Simplify)_
+- **Qualcomm**: [AI Software Engineering Co-op Intern](https://qualcomm.eightfold.ai/careers/job/446721862429) - Toronto, ON, Canada _(Simplify)_
+- **Golden Analytics**: [Software Engineer Intern](https://ats.rippling.com/golden/jobs/2ba326f7-9259-47df-9f54-bef4ce5c5fb5) - Bellevue, WA _(Simplify)_
+- **Interco**: [Software Development Intern - Software Development - React](https://jobs.smartrecruiters.com/Interco/744000158581114) - St. Louis, MO _(Simplify)_
+- **Centene**: [AI Engineer Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Engineer-Intern--Undergraduate---Summer-2027-_1667739) - Missouri _(Simplify)_
+- **KLA**: [Software Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642700-1) - Milpitas, CA _(Simplify)_
+- **Schweitzer Engineering Laboratories**: [Software Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-23468) - Charlotte, NC _(Simplify)_
+- **Valeris**: [IT Intern](https://valeris.wd108.myworkdayjobs.com/Valeris/job/Remote-Kentucky/Intern--IT_JR971) - Kentucky _(Simplify)_
+- **General Motors**: [AI/ML Engineer Intern - Autonomous Vehicles](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439) - Seattle, WA / Sunnyvale, CA _(Simplify)_
+- **Danaher**: [Application Integration Developer Intern](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Brea-California-United-States/Intern---Application-Integration-Developer_R1316677) - Brea, CA _(Simplify)_
+- **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885791) - Sterling, VA _(Simplify)_
+- **KLA Corporation**: [Software Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Intern_2642700) - Milpitas, CA _(Simplify)_
+- **Altera**: [Software Engineer Intern - Factory Apps](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384) - Toronto, ON, Canada _(Simplify)_
+- **Tyler Technologies**: [Software Development Intern](https://jobs.jobvite.com/tylertech/job/oQFRAfwG?nl=1&nl=1&fr=false) - Troy, MI / Overland Park, KS _(Simplify)_
+
 ## Oct 29, 11:05 AM ET
 
 - **Two Six Technologies**: [Systems Software Engineer Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004) - Arlington County, Arlington, VA _(Simplify)_
