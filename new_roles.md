@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Oct 29, 04:35 AM ET
+
+- **Philips**: [AI & Analytics Analyst Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012) - Nashville, TN _(Simplify)_
+- **Booz Allen**: [Software Developer Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138) - Atlanta, GA _(Simplify)_
+
 ## Oct 29, 02:35 AM ET
 
 - **Boston Scientific**: [AI Solutions Engineering Intern](https://bostonscientific.eightfold.ai/careers/job/563602813547675) - Arden Hills, MN _(Simplify)_
