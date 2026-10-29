@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Oct 29, 02:35 AM ET
+
+- **Boston Scientific**: [AI Solutions Engineering Intern](https://bostonscientific.eightfold.ai/careers/job/563602813547675) - Arden Hills, MN _(Simplify)_
+- **HP Inc.**: [Software Engineer Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806) - SF _(Simplify)_
+
 ## Oct 28, 10:05 PM ET
 
 - **HP Inc.**: [Software Quality Assurance Intern](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1) - SF _(Simplify)_
