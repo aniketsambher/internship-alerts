@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Oct 28, 10:05 PM ET
+
+- **HP Inc.**: [Software Quality Assurance Intern](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1) - SF _(Simplify)_
+- **HP Inc.**: [Software Systems Intern - IQ](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1) - SF _(Simplify)_
+- **HP Inc.**: [Software Engineer Intern](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1) - SF _(Simplify)_
+- **HPS Investment Partners**: [Technology Intern - App Dev](https://job-boards.greenhouse.io/hpsinterns/jobs/4739898005) - NYC _(Simplify)_
+- **General Dynamics Information Technology**: [AI/ML Software Development and Engineering Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939) - Bossier City, LA _(Simplify)_
+
 ## Oct 28, 09:35 PM ET
 
 - **HP Inc.**: [Software Quality Assurance Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802) - SF _(Simplify)_
