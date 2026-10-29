@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 29, 08:35 AM ET
+
+- **KLA Corporation**: [Software Engineer Intern](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1) - Milpitas, CA _(Simplify)_
+
 ## Oct 29, 06:35 AM ET
 
 - **KLA**: [Software Engineer Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721) - Milpitas, CA _(Simplify)_
