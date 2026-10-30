@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Oct 29, 09:35 PM ET
+
+- **Apple**: [Swift Runtime Engineer Intern - Swift Runtimes](https://jobs.apple.com/en-us/details/200692438) - London, UK _(Simplify)_
+- **Dee Zee**: [Software Development Intern](https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471) - Des Moines, IA _(Simplify)_
+
 ## Oct 29, 08:05 PM ET
 
 - **Pennsylvania State University**: [Research and Development Engineer Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1) - University Park, State College, PA _(Simplify)_
