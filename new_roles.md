@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Oct 30, 02:35 AM ET
+
+- **Ncino**: [Software Engineer Intern](https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009) - Lehi, UT _(Simplify)_
+- **F&G**: [IT Software Engineer Intern - Summer](https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003) - Des Moines, IA _(Simplify)_
+- **C3.ai**: [Software Engineer Intern](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) - Redwood City, CA _(Simplify)_
+- **RTX**: [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129) - Cedar Rapids, IA _(Simplify)_
+
 ## Oct 29, 10:05 PM ET
 
 - **Axon**: [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003) - Seattle, WA / Arlington County, Arlington, VA _(Simplify)_
