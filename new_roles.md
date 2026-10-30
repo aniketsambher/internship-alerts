@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 30, 01:35 PM ET
+
+- **IBM**: [Supply Chain Software Engineer Intern](https://careers.ibm.com/careers/JobDetail?jobId=139797) - San Jose, US _(careers page)_
+
 ## Oct 30, 10:35 AM ET
 
 - **PTC**: [Software Engineering Intern](https://ptc.wd1.myworkdayjobs.com/ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998) - Cambridge, UK _(Simplify)_
