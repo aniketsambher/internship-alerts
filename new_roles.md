@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Oct 29, 08:05 PM ET
+
+- **Pennsylvania State University**: [Research and Development Engineer Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1) - University Park, State College, PA _(Simplify)_
+
 ## Oct 29, 07:05 PM ET
 
 - **Overland AI**: [Software Engineering Intern](https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e) - Seattle, WA _(Simplify)_
