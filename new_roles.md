@@ -1,5 +1,23 @@
 # New internships, newest first
 
+## Oct 30, 06:35 PM ET
+
+- **Amazon**: [Software Engineer Intern - Machine Learning/Automated Reasoning](https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) - Boston, MA / Seattle, WA / Austin, TX / Irvine, CA / Arlington County, Arlington, VA / NYC / Bellevue, WA / Sunnyvale, CA / San Diego, CA _(Simplify)_
+- **Nokia**: [Software Engineer Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41339) - United States _(Simplify)_
+- **Sophinea**: [Mobile App Developer Intern](https://apply.workable.com/sophinea/j/B392177653/apply) - Manassas, VA _(Simplify)_
+- **Obsidian Entertainment**: [Gameplay Engineer Intern](https://obsidian.applytojob.com/apply/zxhj1ePGcR/Gameplay-Engineer-2027-Summer-Internship) - Irvine, CA _(Simplify)_
+- **The New York Times**: [Backend Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005) - NYC _(Simplify)_
+- **Revvity**: [Full-stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045795) - Ontario, Canada _(Simplify)_
+- **Revvity**: [Full-stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045791) - Ontario, Canada _(Simplify)_
+- **Revvity**: [Full-stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045793) - Ontario, Canada _(Simplify)_
+- **Revvity**: [Full-stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045794) - Ontario, Canada _(Simplify)_
+- **Revvity**: [Full-stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045792) - Ontario, Canada _(Simplify)_
+- **Dow Jones**: [Software Engineer Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55892) - NYC _(Simplify)_
+- **Protagonist**: [Software Engineer Intern](https://job-boards.greenhouse.io/protagonist/jobs/6236620004) - Washington, DC _(Simplify)_
+- **Royal Bank of Canada**: [Capital Markets Intern - Quantitative Technology Services](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/8081-ARCO-CORPORATE-DRIVERALEIGH/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer--Raleigh_R-0000189675) - Raleigh, NC _(Simplify)_
+- **Brain Co.**: [AI Platform Engineer Intern](https://jobs.ashbyhq.com/brainco/2db4339e-79c8-4e97-9c94-92753b49e20a/application?embed=true) - SF _(Simplify)_
+- **Brain Co.**: [AI Product Intern](https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b/application?embed=true) - SF _(Simplify)_
+
 ## Oct 30, 01:35 PM ET
 
 - **IBM**: [Supply Chain Software Engineer Intern](https://careers.ibm.com/careers/JobDetail?jobId=139797) - San Jose, US _(careers page)_
