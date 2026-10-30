@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Oct 30, 10:35 AM ET
+
+- **PTC**: [Software Engineering Intern](https://ptc.wd1.myworkdayjobs.com/ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998) - Cambridge, UK _(Simplify)_
+- **Gearset**: [Software Engineer Intern](https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f/application?embed=true) - Cambridge, UK _(Simplify)_
+
 ## Oct 30, 06:05 AM ET
 
 - **Voyager Technologies**: [Software Engineer Intern](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009) - Long Beach, CA _(Simplify)_
