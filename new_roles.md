@@ -1,5 +1,14 @@
 # New internships, newest first
 
+## Oct 30, 07:05 PM ET
+
+- **Amazon**: [Software Development Engineer Intern](https://amazon.jobs/en/jobs/10593872/software-development-engineer) - Cupertino, CA _(Simplify)_
+- **VSP Vision**: [AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072) - Remote in USA _(Simplify)_
+- **Hewlett Packard Enterprise**: [Software Engineer Intern](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146) - Sunnyvale, CA _(Simplify)_
+- **Altera**: [FPGA Development Tools Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools---Intern_R03394) - Toronto, ON, Canada _(Simplify)_
+- **AiDash**: [Software Engineer Intern - Backend](https://job-boards.greenhouse.io/aidashinc/jobs/4436057009) - Palo Alto, CA _(Simplify)_
+- **Farmers Mutual Hail**: [Software Developer Intern](https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4403596009) - West Des Moines, IA _(Simplify)_
+
 ## Oct 30, 06:35 PM ET
 
 - **Amazon**: [Software Engineer Intern - Machine Learning/Automated Reasoning](https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) - Boston, MA / Seattle, WA / Austin, TX / Irvine, CA / Arlington County, Arlington, VA / NYC / Bellevue, WA / Sunnyvale, CA / San Diego, CA _(Simplify)_
