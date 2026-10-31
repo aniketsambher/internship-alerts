@@ -1,5 +1,20 @@
 # New internships, newest first
 
+## Oct 31, 03:05 AM ET
+
+- **Intercontinental Exchange**: [Software Engineer Intern](https://ice.jibeapply.com/jobs/14077?icims=1) - Jacksonville, FL _(Simplify)_
+- **Intercontinental Exchange**: [Software Engineer Intern - Java](https://ice.jibeapply.com/jobs/14078?icims=1) - Jacksonville, FL _(Simplify)_
+- **Intercontinental Exchange**: [Regulatory Products Intern](https://ice.jibeapply.com/jobs/14101?icims=1) - NYC _(Simplify)_
+- **Intercontinental Exchange**: [Trading System Development Intern](https://ice.jibeapply.com/jobs/14102?icims=1) - NYC _(Simplify)_
+- **Intercontinental Exchange**: [Software Engineer Intern](https://ice.jibeapply.com/jobs/14105?icims=1) - NYC _(Simplify)_
+- **Intercontinental Exchange**: [Integration Intern](https://ice.jibeapply.com/jobs/14071?icims=1) - Jacksonville, FL _(Simplify)_
+- **Intercontinental Exchange**: [Software Engineering Intern](https://ice.jibeapply.com/jobs/14075?icims=1) - Jacksonville, FL _(Simplify)_
+- **Peraton**: [Mission Systems Software and Edge Computing Intern](https://peraton.jibeapply.com/jobs/172378?icims=1) - Oklahoma _(Simplify)_
+- **Peraton**: [Software Developer Intern](https://peraton.jibeapply.com/jobs/172061?icims=1) - Topeka, KS _(Simplify)_
+- **Cambridge Consultants**: [Cloud Software Engineer Intern](https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988184101) - United Kingdom _(Simplify)_
+- **Peraton**: [Software Engineering Co-op](https://peraton.jibeapply.com/jobs/171547?icims=1) - San Diego, CA _(Simplify)_
+- **Peraton**: [Software Engineer Intern](https://peraton.jibeapply.com/jobs/169665?icims=1) - Blacksburg, VA / Herndon, VA _(Simplify)_
+
 ## Oct 31, 02:35 AM ET
 
 - **Pretium**: [AI, Data & Innovation Intern](https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002) - NYC _(Simplify)_
