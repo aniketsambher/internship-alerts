@@ -1,5 +1,14 @@
 # New internships, newest first
 
+## Oct 31, 02:35 AM ET
+
+- **Pretium**: [AI, Data & Innovation Intern](https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002) - NYC _(Simplify)_
+- **Publicis Groupe**: [Software Engineer Intern](https://publicisgroupe.jibeapply.com/jobs/172577?icims=1) - Boston, MA _(Simplify)_
+- **Publicis Groupe**: [Software Engineer Intern](https://publicisgroupe.jibeapply.com/jobs/173034?icims=1) - Irving, TX _(Simplify)_
+- **Publicis Groupe**: [Software Engineer Intern](https://publicisgroupe.jibeapply.com/jobs/173032?icims=1) - Chicago, IL _(Simplify)_
+- **Blackhawk Network Holdings**: [Technology Intern](https://blackhawknetwork.jibeapply.com/jobs/26866?icims=1) - Coppell, TX _(Simplify)_
+- **Blackhawk Network Holdings**: [Technology Intern](https://blackhawknetwork.jibeapply.com/jobs/26867?icims=1) - Pleasanton, CA _(Simplify)_
+
 ## Oct 30, 07:05 PM ET
 
 - **Amazon**: [Software Development Engineer Intern](https://amazon.jobs/en/jobs/10593872/software-development-engineer) - Cupertino, CA _(Simplify)_
