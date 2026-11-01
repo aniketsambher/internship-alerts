@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 01, 06:35 AM ET
+
+- **Goldman Sachs**: [Engineer Apprentice](https://higher.gs.com/roles/174815?type=students) - Birmingham, UK _(Simplify)_
+
 ## Oct 31, 05:05 AM ET
 
 - **incident.io**: [Product Engineer New Grad](https://jobs.ashbyhq.com/incident/743b1624-7267-49a9-84a0-6223e414fbf0/application?embed=true) - London, UK _(Simplify)_
