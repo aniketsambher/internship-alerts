@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 01, 06:35 PM ET
+
+- **KnowBe4**: [Software Engineer Intern](https://job-boards.greenhouse.io/knowbe4/jobs/8919280002) - Clearwater, FL _(Simplify)_
+
 ## Nov 01, 10:35 AM ET
 
 - **TRG**: [Full Stack Application Developer Intern](https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US) - Dallas, TX _(Simplify)_
