@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 01, 10:35 AM ET
+
+- **TRG**: [Full Stack Application Developer Intern](https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US) - Dallas, TX _(Simplify)_
+
 ## Nov 01, 06:35 AM ET
 
 - **Goldman Sachs**: [Engineer Apprentice](https://higher.gs.com/roles/174815?type=students) - Birmingham, UK _(Simplify)_
