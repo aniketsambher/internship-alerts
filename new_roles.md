@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Nov 02, 12:25 PM ET
+
+- **IBM**: [Confluent - Software Developer - Intern Conversion](https://careers.ibm.com/careers/JobDetail?jobId=138657) - Austin, US _(careers page)_
+- **IBM**: [Confluent - Software Developer - Intern Conversion](https://careers.ibm.com/careers/JobDetail?jobId=138650) - Multiple Cities _(careers page)_
+- **IBM**: [Confluent - Software Developer - Intern Conversion](https://careers.ibm.com/careers/JobDetail?jobId=138651) - Multiple Cities _(careers page)_
+- **IBM**: [Confluent - Software Developer - Intern Conversion](https://careers.ibm.com/careers/JobDetail?jobId=138648) - Multiple Cities _(careers page)_
+- **IBM**: [Confluent - Software Developer - Intern Conversion](https://careers.ibm.com/careers/JobDetail?jobId=138654) - Austin, US _(careers page)_
+
 ## Nov 02, 11:05 AM ET
 
 - **Barclays**: [Technology Developer Intern](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387) - Glasgow, UK _(Simplify)_
