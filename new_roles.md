@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Nov 02, 10:35 AM ET
+
+- **KION Group**: [Real-Time Software Engineer Intern](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Stockport-United-Kingdom/Campus-visit-Dematic---Placement-student_JR-0082859) - Westhill, UK / Stockport, UK _(Simplify)_
+- **Tecsys**: [Developer Intern](https://apply.workable.com/tecsys/j/D61D5FB9AB/apply) - Montreal, QC, Canada _(Simplify)_
+- **ParetoHealth**: [Software Engineer Intern](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006) - Philadelphia, PA _(Simplify)_
+- **Entrust**: [AI Developer Intern](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397) - Remote in Germany / Shakopee, MN _(Simplify)_
+- **Tyler Technologies**: [Software Development Intern - Summer 2027](https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false) - Yarmouth, ME / Orono, ME / Falmouth, ME _(Simplify)_
+
 ## Nov 02, 03:05 AM ET
 
 - **Microsoft**: [Explore Program Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393556925823) - Redmond, WA _(Simplify)_
