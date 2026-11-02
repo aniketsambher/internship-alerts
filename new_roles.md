@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 02, 02:35 AM ET
+
+- **Roku**: [Software Engineer Intern - AI Engineering](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) - San Jose, CA _(Simplify)_
+
 ## Nov 01, 06:35 PM ET
 
 - **KnowBe4**: [Software Engineer Intern](https://job-boards.greenhouse.io/knowbe4/jobs/8919280002) - Clearwater, FL _(Simplify)_
