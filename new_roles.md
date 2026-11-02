@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 02, 12:30 PM ET
+
+- **IBM**: [Confluent - Software Developer - Intern Conversion](https://careers.ibm.com/careers/JobDetail?jobId=138652) - Multiple Cities _(careers page)_
+
 ## Nov 02, 12:25 PM ET
 
 - **IBM**: [Confluent - Software Developer - Intern Conversion](https://careers.ibm.com/careers/JobDetail?jobId=138657) - Austin, US _(careers page)_
