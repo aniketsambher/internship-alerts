@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 02, 11:05 AM ET
+
+- **Barclays**: [Technology Developer Intern](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387) - Glasgow, UK _(Simplify)_
+- **Barclays**: [Technology Developer Intern](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397) - London, UK _(Simplify)_
+- **Barclays**: [Technology Developer Intern - Programme](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379) - Northampton, UK _(Simplify)_
+
 ## Nov 02, 10:35 AM ET
 
 - **KION Group**: [Real-Time Software Engineer Intern](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Stockport-United-Kingdom/Campus-visit-Dematic---Placement-student_JR-0082859) - Westhill, UK / Stockport, UK _(Simplify)_
