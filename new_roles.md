@@ -1,5 +1,26 @@
 # New internships, newest first
 
+## Nov 02, 06:35 PM ET
+
+- **Staples**: [Software Engineer Intern - Marketplace Platform](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076) - Framingham, MA _(Simplify)_
+- **Paccar**: [AI-Driven Vehicle Definition Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1453573733/?ats=successfactors) - Denton, TX _(Simplify)_
+- **Zebra Technologies**: [Software/AI Engineer Intern - Handheld Mobile Computers](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632) - Holtsville, NY _(Simplify)_
+- **Zebra Technologies**: [Software Engineer Intern - US](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103626) - Holtsville, NY _(Simplify)_
+- **Zebra Technologies**: [Intern - AI](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639) - Lincolnshire, IL _(Simplify)_
+- **KLA Corporation**: [Software Engineer Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineering-Intern_2642004) - Austin, TX _(Simplify)_
+- **KLA Corporation**: [Software Engineer Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Totowa-NJ/Software-Engineer-Intern_2642151) - Totowa, NJ _(Simplify)_
+- **T-Mobile**: [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882) - Philadelphia, PA _(Simplify)_
+- **Sierra Nevada Corporation**: [Software Engineer Intern](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230) - Southern Pines, NC _(Simplify)_
+- **Aries Global**: [Software Engineer Intern](https://jobs.ashbyhq.com/ariesglobal/f5f204ad-8b51-4aee-a269-9a5d2ee7e3b8/application?embed=true) - London, UK _(Simplify)_
+- **T-Mobile**: [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886) - NYC _(Simplify)_
+- **Sierra Nevada Corporation**: [Software Engineer Intern](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031229) - Southern Pines, NC _(Simplify)_
+- **LabCorp**: [Full-Stack Life Sciences Software Engineer Co-op](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083) - Durham, NC / Burlington, NC _(Simplify)_
+- **Cincinnati Children’s Hospital and Medical Center**: [Software Engineering Developer Intern](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--B-_JR226743) - Remote in USA _(Simplify)_
+- **Motorola Solutions**: [Software Engineer Cybersecurity Services Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250) - Salt Lake City, UT / Remote in USA / Chicago, IL / Ashburn, VA / Schaumburg, IL / Plantation, FL _(Simplify)_
+- **Cincinnati Children’s Hospital and Medical Center**: [Software Engineer Intern](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--A-_JR226736) - Remote in USA _(Simplify)_
+- **KLA Corporation**: [Software Engineer Intern](https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1) - Austin, TX _(Simplify)_
+- **Epic Games**: [Tools Programmer Intern - Graphics](https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004) - Cary, NC _(Simplify)_
+
 ## Nov 02, 12:30 PM ET
 
 - **IBM**: [Confluent - Software Developer - Intern Conversion](https://careers.ibm.com/careers/JobDetail?jobId=138652) - Multiple Cities _(careers page)_
