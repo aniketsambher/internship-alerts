@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 02, 03:05 AM ET
+
+- **Microsoft**: [Explore Program Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393556925823) - Redmond, WA _(Simplify)_
+
 ## Nov 02, 02:35 AM ET
 
 - **Roku**: [Software Engineer Intern - AI Engineering](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) - San Jose, CA _(Simplify)_
