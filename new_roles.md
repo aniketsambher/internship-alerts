@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 03, 06:30 PM ET
+
+- **IBM**: [Microarchitecture / Software Intern  2027 - AI Accelerators Research](https://careers.ibm.com/careers/JobDetail?jobId=132416) - Yorktown Heights, US _(careers page)_
+- **IBM**: [Firmware and Systems Developer Intern 2027 -Poughkeepsie, NY](https://careers.ibm.com/careers/JobDetail?jobId=130059) - POUGHKEEPSIE, US _(careers page)_
+
 ## Nov 03, 06:25 PM ET
 
 - **IBM**: [Software Developer Intern/Tucson-AZ](https://careers.ibm.com/careers/JobDetail?jobId=130092) - TUCSON, US _(careers page)_
