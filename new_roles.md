@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 03, 06:35 AM ET
+
+- **KION Group**: [Real-Time Software Engineer Intern](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Stockport-United-Kingdom/Campus-visit-Dematic---Placement-student_JR-0082859-1) - Westhill, UK / Stockport, UK _(Simplify)_
+
 ## Nov 03, 03:05 AM ET
 
 - **Paccar**: [Software Developer Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors) - Denton, TX _(Simplify)_
