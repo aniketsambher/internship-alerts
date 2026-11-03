@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 03, 03:25 PM ET
+
+- **IBM**: [AI Native Systems Research Scientist Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132423) - Yorktown Heights, US _(careers page)_
+
 ## Nov 03, 12:40 PM ET
 
 - **IBM**: [AI Foundations - Technical Product Management - Internship 2027](https://careers.ibm.com/careers/JobDetail?jobId=139968) - Cambridge, US _(careers page)_
