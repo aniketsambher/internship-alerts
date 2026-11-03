@@ -1,5 +1,18 @@
 # New internships, newest first
 
+## Nov 03, 06:35 PM ET
+
+- **Commonwealth Fusion Systems**: [Software Engineer Intern](https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d/apply) - Devens, MA _(Simplify)_
+- **Staples**: [Software Engineer Intern - SDS e-Commerce Team](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133) - Framingham, MA _(Simplify)_
+- **Samsung Research America**: [Agentic AI Solutions Intern](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002) - Mountain View, CA _(Simplify)_
+- **Highmark Health**: [AI Services and Platforms Software Engineer Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322) - New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Connecticut / Texas / Montana / Florida / New Hampshire / Nevada / South Carolina / South Dakota / Georgia / Arizona / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Kentucky / West Virginia / NYC / Maryland / Hawaii / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / New Jersey / Indiana / Louisiana / Alaska / Michigan / Illinois / Alabama / Idaho _(Simplify)_
+- **HP Inc.**: [Software Engineer Intern - Product & Developer Productivity](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803) - SF _(Simplify)_
+- **Arch Capital Group**: [Originations Portal IT Intern](https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135) - Greensboro, NC _(Simplify)_
+- **Zebra Technologies**: [Software Engineer Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638) - Holtsville, NY _(Simplify)_
+- **Blackberry**: [Software Development Co-op](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Development-Student_20260343) - Ottawa, ON, Canada _(Simplify)_
+- **Blackberry**: [Software Developer Student Intern](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Developer-Student_20260342) - Ottawa, ON, Canada _(Simplify)_
+- **Arrowstreet Capital**: [Software Engineer Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Software-Engineer-Intern--Summer-2027_R1561) - Boston, MA _(Simplify)_
+
 ## Nov 03, 06:30 PM ET
 
 - **IBM**: [Microarchitecture / Software Intern  2027 - AI Accelerators Research](https://careers.ibm.com/careers/JobDetail?jobId=132416) - Yorktown Heights, US _(careers page)_
