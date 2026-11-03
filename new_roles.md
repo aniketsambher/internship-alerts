@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 02, 10:05 PM ET
+
+- **GenMD**: [Member of Technical Staff Intern - Applied AI](https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c/application?embed=true) - Palo Alto, CA _(Simplify)_
+
 ## Nov 02, 09:35 PM ET
 
 - **NVIDIA**: [Math Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449) - Canada / Santa Clara, CA / United States _(Simplify)_
