@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 03, 03:05 AM ET
+
+- **Paccar**: [Software Developer Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors) - Denton, TX _(Simplify)_
+- **NVIDIA**: [AI Compiler and Kernel Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) - Austin, TX _(Simplify)_
+
 ## Nov 02, 10:05 PM ET
 
 - **GenMD**: [Member of Technical Staff Intern - Applied AI](https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c/application?embed=true) - Palo Alto, CA _(Simplify)_
