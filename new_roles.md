@@ -1,5 +1,26 @@
 # New internships, newest first
 
+## Nov 02, 07:05 PM ET
+
+- **Microsoft**: [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393557044764) - United States _(Simplify)_
+- **Costco**: [CDS Intern - Innovation](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10998) - Issaquah, WA _(Simplify)_
+- **Costco**: [Software Engineer Intern - International Depot](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10993) - Issaquah, WA _(Simplify)_
+- **Costco**: [CDS Intern - Software Engineer - IT Retail Media](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11013) - Issaquah, WA _(Simplify)_
+- **Costco**: [Costco Digital Services Intern - Infosec AI/ML](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994) - Issaquah, WA _(Simplify)_
+- **Costco**: [CDS Intern - Powerapps Developer - ECM Digital Workflow](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11001) - Issaquah, WA _(Simplify)_
+- **Resideo**: [Mobile Software Engineer Intern](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19816) - Austin, TX _(Simplify)_
+- **Wellmark**: [Software Engineer Intern - AI Platform Team](https://jobs.smartrecruiters.com/WellmarkInc/744000159260670) - Des Moines, IA _(Simplify)_
+- **Tria Federal**: [Growth Operations Intern](https://triafed.com/jobs/?gh_jid=5470246008) - Arlington County, Arlington, VA _(Simplify)_
+- **Merck**: [Future Talent Program Co-op - Patient Data Learning](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Patient-Data-Learning---Co-op_R424526) - Cambridge, MA _(Simplify)_
+- **Northrop Grumman**: [Engineering Intern - Multiple Teams](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848) - Chandler, AZ _(Simplify)_
+- **JM Family**: [Software Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182) - Deerfield Beach, FL _(Simplify)_
+- **Constellation Brands**: [Full Stack Engineer Intern](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--Full-Stack-Engineer_R-41600) - Rochester, NY _(Simplify)_
+- **The Aerospace Corporation**: [Software Engineer Intern - Software Process and Architecture Department - Information Systems and Cyber Division](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102) - El Segundo, CA _(Simplify)_
+- **The Aerospace Corporation**: [Software Engineering Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Grad-Intern_R017101) - El Segundo, CA _(Simplify)_
+- **Costco**: [Software Developer Intern - Software Engineer - Costco Travel](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11021) - Issaquah, WA _(Simplify)_
+- **Costco**: [CDS Intern - ECM Platform Management](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11010) - Issaquah, WA _(Simplify)_
+- **Microsoft**: [Software Engineer Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393556951950) - Redmond, WA _(Simplify)_
+
 ## Nov 02, 06:35 PM ET
 
 - **Staples**: [Software Engineer Intern - Marketplace Platform](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076) - Framingham, MA _(Simplify)_
