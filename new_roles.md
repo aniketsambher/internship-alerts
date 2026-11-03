@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 03, 11:05 AM ET
+
+- **American Express**: [Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722) - Sunnyvale, CA _(Simplify)_
+- **Two Six Technologies**: [Research Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236149004) - Arlington County, Arlington, VA _(Simplify)_
+
 ## Nov 03, 06:35 AM ET
 
 - **KION Group**: [Real-Time Software Engineer Intern](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Stockport-United-Kingdom/Campus-visit-Dematic---Placement-student_JR-0082859-1) - Westhill, UK / Stockport, UK _(Simplify)_
