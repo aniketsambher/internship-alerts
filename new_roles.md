@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 03, 06:25 PM ET
+
+- **IBM**: [Software Developer Intern/Tucson-AZ](https://careers.ibm.com/careers/JobDetail?jobId=130092) - TUCSON, US _(careers page)_
+
 ## Nov 03, 03:25 PM ET
 
 - **IBM**: [AI Native Systems Research Scientist Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=132423) - Yorktown Heights, US _(careers page)_
