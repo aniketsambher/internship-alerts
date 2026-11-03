@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 03, 12:40 PM ET
+
+- **IBM**: [AI Foundations - Technical Product Management - Internship 2027](https://careers.ibm.com/careers/JobDetail?jobId=139968) - Cambridge, US _(careers page)_
+
 ## Nov 03, 11:05 AM ET
 
 - **American Express**: [Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722) - Sunnyvale, CA _(Simplify)_
