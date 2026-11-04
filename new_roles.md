@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 04, 05:35 AM ET
+
+- **William Blair**: [Agentic AI Development Intern](https://www.williamblair.com/Careers/job-description?gh_jid=5242282007) - Chicago, IL _(Simplify)_
+
 ## Nov 04, 04:40 AM ET
 
 - **Saronic**: [Enterprise Technology Intern - AI and Automation](https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1/application?embed=true) - Austin, TX _(Simplify)_
