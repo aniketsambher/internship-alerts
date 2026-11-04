@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 04, 04:40 AM ET
+
+- **Saronic**: [Enterprise Technology Intern - AI and Automation](https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1/application?embed=true) - Austin, TX _(Simplify)_
+
 ## Nov 03, 07:05 PM ET
 
 - **Microsoft**: [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393557037859) - Redmond, WA _(Simplify)_
