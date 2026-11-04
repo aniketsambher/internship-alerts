@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 04, 06:05 AM ET
+
+- **Roku**: [AI Engineering Intern](https://www.weareroku.com/jobs/8345954?gh_jid=8345954) - Manchester, UK _(Simplify)_
+- **Roku**: [AI Engineering Intern](https://www.weareroku.com/jobs/8345947?gh_jid=8345947) - Cambridge, UK _(Simplify)_
+
 ## Nov 04, 05:35 AM ET
 
 - **William Blair**: [Agentic AI Development Intern](https://www.williamblair.com/Careers/job-description?gh_jid=5242282007) - Chicago, IL _(Simplify)_
