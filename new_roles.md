@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 04, 11:05 AM ET
+
+- **Nutanix**: [Software Engineer Intern](https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false) - Cambridge, UK _(Simplify)_
+
 ## Nov 04, 10:35 AM ET
 
 - **Roku**: [Software Engineer Intern](https://www.weareroku.com/jobs/8345967?gh_jid=8345967) - Manchester, UK _(Simplify)_
