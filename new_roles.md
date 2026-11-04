@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Nov 04, 10:35 AM ET
+
+- **Roku**: [Software Engineer Intern](https://www.weareroku.com/jobs/8345967?gh_jid=8345967) - Manchester, UK _(Simplify)_
+- **Roku**: [Software Engineer Intern](https://www.weareroku.com/jobs/8345963?gh_jid=8345963) - Cambridge, UK _(Simplify)_
+- **Northrop Grumman**: [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181) - Roy, UT _(Simplify)_
+- **Zebra Technologies**: [Systems Engineer Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659) - Germantown, MD _(Simplify)_
+- **Zebra Technologies**: [Software Engineer Intern - AI Features & Product Convergence](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636) - Kennesaw, GA _(Simplify)_
+
 ## Nov 04, 06:05 AM ET
 
 - **Roku**: [AI Engineering Intern](https://www.weareroku.com/jobs/8345954?gh_jid=8345954) - Manchester, UK _(Simplify)_
