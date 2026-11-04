@@ -1,5 +1,23 @@
 # New internships, newest first
 
+## Nov 03, 07:05 PM ET
+
+- **Microsoft**: [Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393557037859) - Redmond, WA _(Simplify)_
+- **Electronic Arts**: [Anticheat Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242) - Austin, TX _(Simplify)_
+- **Nex**: [Software Engineer Intern - Sports & Fitness - Game Development](https://job-boards.greenhouse.io/nex/jobs/5421056008) - San Jose, CA _(Simplify)_
+- **Northrop Grumman**: [Ground Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057) - Redondo Beach, CA _(Simplify)_
+- **Northrop Grumman**: [Flight Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032) - Manhattan Beach, CA _(Simplify)_
+- **T-Mobile**: [Software Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652) - Atlanta, GA _(Simplify)_
+- **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446) - West Valley City, UT _(Simplify)_
+- **T-Mobile**: [T-Ads Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234) - Philadelphia, PA _(Simplify)_
+- **HP Inc.**: [Software Engineer Intern - Product & Developer Productivity](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1) - SF _(Simplify)_
+- **JM Family**: [AI Center of Excellence Delivery Team Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176) - Deerfield Beach, FL _(Simplify)_
+- **Trimble**: [AI Developer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/AI-Developer-Intern_R58194) - Dayton, OH / Westminster, CO _(Simplify)_
+- **Trimble**: [AI Developer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Developer-Intern_R58195) - Dayton, OH _(Simplify)_
+- **Engramme**: [Back-End Software Engineer Co-op Intern](https://jobs.ashbyhq.com/engramme/9233d3f9-83d2-4967-ad97-176c11e16696/application?embed=true) - SF _(Simplify)_
+- **Engramme**: [Full-Stack Software Engineer Co-op Intern](https://jobs.ashbyhq.com/engramme/06517730-61e8-4e73-bd95-2816b391a9d2/application?embed=true) - SF _(Simplify)_
+- **Dell Technologies**: [Software Engineer Intern - Client Solutions Group Engineering](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217) - Austin, TX _(Simplify)_
+
 ## Nov 03, 06:35 PM ET
 
 - **Commonwealth Fusion Systems**: [Software Engineer Intern](https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d/apply) - Devens, MA _(Simplify)_
