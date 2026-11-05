@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 05, 04:35 AM ET
+
+- **Susquehanna International Group**: [Technology Co-op](https://careers-sig.icims.com/jobs/11654/job?mobile=true&needsRedirect=false) - Bala Cynwyd, PA _(Simplify)_
+
 ## Nov 05, 04:05 AM ET
 
 - **Constellation Energy**: [Renewable Energy Intern](https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us) - Houston, TX _(Simplify)_
