@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 05, 09:25 AM ET
+
+- **IBM**: [Software Engineer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=140102) - Austin, US _(careers page)_
+
 ## Nov 05, 04:35 AM ET
 
 - **Susquehanna International Group**: [Technology Co-op](https://careers-sig.icims.com/jobs/11654/job?mobile=true&needsRedirect=false) - Bala Cynwyd, PA _(Simplify)_
