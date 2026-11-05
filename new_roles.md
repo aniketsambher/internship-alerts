@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 05, 03:05 AM ET
+
+- **Blackhawk Network Holdings**: [Technology Intern](https://careers-blackhawknetwork.icims.com/jobs/26866/job?mobile=true&needsRedirect=false) - Coppell, TX _(Simplify)_
+
 ## Nov 05, 02:35 AM ET
 
 - **SDSU Research Foundation**: [Computer Science Intern](https://careers-sdsurf.icims.com/jobs/21086/job?mobile=true&needsRedirect=false) - San Diego, CA _(Simplify)_
