@@ -1,5 +1,18 @@
 # New internships, newest first
 
+## Nov 05, 06:35 PM ET
+
+- **Cintas**: [IT Intern – Engineer - Customer Channels](https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/?ats=successfactors) - Mason, OH _(Simplify)_
+- **DwyerOmega**: [Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548) - Westerville, OH _(Simplify)_
+- **Shield AI**: [Software Engineer Co-op Intern](https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply) - Seattle, WA / Washington, DC / Dallas, TX / San Diego, CA _(Simplify)_
+- **Johns Hopkins Applied Physics Laboratory**: [Maritime Software Development Intern - Maritime Software Development - Ocean Systems and Engineering](https://careers.jhuapl.edu/jobs/60820?icims=1&lang=en-us) - Laurel, MD _(Simplify)_
+- **Element Fleet Management**: [Forward Deployed Engineer Intern](https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989) - Toronto, ON, Canada _(Simplify)_
+- **Nooks**: [Software Engineer Intern](https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb/application?embed=true) - SF _(Simplify)_
+- **Riverside Research**: [Software Applications Intern](https://careers-riversideresearch.icims.com/jobs/4461/job?mobile=true&needsRedirect=false) - Fairborn, OH _(Simplify)_
+- **SOTI**: [Software Developer Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655) - Mississauga, ON, Canada _(Simplify)_
+- **SOTI**: [Software Developer Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650) - Mississauga, ON, Canada _(Simplify)_
+- **RTX**: [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646) - Aurora, CO _(Simplify)_
+
 ## Nov 05, 11:16 AM ET
 
 - **JM Family**: [Software Analyst Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187) - Deerfield Beach, FL _(Simplify)_
