@@ -1,5 +1,16 @@
 # New internships, newest first
 
+## Nov 05, 03:35 AM ET
+
+- **General Dynamics Mission Systems**: [Software Engineering Intern](https://careers-gdms.icims.com/jobs/75128/job?mobile=true&needsRedirect=false) - Manassas, VA _(Simplify)_
+- **General Dynamics Mission Systems**: [Software Engineering Intern](https://careers-gdms.icims.com/jobs/75131/job?mobile=true&needsRedirect=false) - Lakewood, OH _(Simplify)_
+- **General Dynamics Mission Systems**: [Software Engineer Intern](https://careers-gdms.icims.com/jobs/75040/job?mobile=true&needsRedirect=false) - Colorado Springs, CO / Huntsville, AL _(Simplify)_
+- **IDeaS**: [Software Developer Intern](https://ideas-sas.icims.com/jobs/42665/job?mobile=true&needsRedirect=false) - Bloomington, MN _(Simplify)_
+- **Alaska Air Group**: [VR Development Intern](https://corporatejobs-alaskaair.icims.com/jobs/21281/job?mobile=true&needsRedirect=false) - Renton, WA _(Simplify)_
+- **Alaska Air Group**: [Software Engineer Intern](https://corporatejobs-alaskaair.icims.com/jobs/21277/job?mobile=true&needsRedirect=false) - SeaTac, WA _(Simplify)_
+- **Wolf & Company**: [AI & Automation Intern](https://career-portal-wolfandco.icims.com/jobs/1599/job?mobile=true&needsRedirect=false) - Boston, MA _(Simplify)_
+- **Barrios**: [Data and Computer Engineering/Computer Science Intern](https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false) - Houston, TX _(Simplify)_
+
 ## Nov 05, 03:05 AM ET
 
 - **Blackhawk Network Holdings**: [Technology Intern](https://careers-blackhawknetwork.icims.com/jobs/26866/job?mobile=true&needsRedirect=false) - Coppell, TX _(Simplify)_
