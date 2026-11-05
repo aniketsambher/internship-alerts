@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 05, 11:16 AM ET
+
+- **JM Family**: [Software Analyst Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187) - Deerfield Beach, FL _(Simplify)_
+- **JM Family**: [Software Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199) - Deerfield Beach, FL _(Simplify)_
+
 ## Nov 05, 10:35 AM ET
 
 - **Hearst**: [Software Engineer Intern](https://job-boards.greenhouse.io/hearst/jobs/4466334009) - Carmel, IN _(Simplify)_
