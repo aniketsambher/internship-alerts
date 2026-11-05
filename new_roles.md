@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Nov 05, 10:35 AM ET
+
+- **Hearst**: [Software Engineer Intern](https://job-boards.greenhouse.io/hearst/jobs/4466334009) - Carmel, IN _(Simplify)_
+- **BiblioCommons**: [Junior Full-Stack Engineer Intern](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72456) - Ontario, Canada _(Simplify)_
+- **BiblioCommons**: [Junior Full-Stack Engineer Intern](https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72454) - Ontario, Canada _(Simplify)_
+- **Markel Group**: [AI Automation Intern](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Woodland-Hills-CA/Markel-AI-Automation-Intern_R0024277) - Woodland Hills, LA _(Simplify)_
+
 ## Nov 05, 09:25 AM ET
 
 - **IBM**: [Software Engineer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=140102) - Austin, US _(careers page)_
