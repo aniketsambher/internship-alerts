@@ -1,5 +1,16 @@
 # New internships, newest first
 
+## Nov 04, 10:05 PM ET
+
+- **PayPal**: [Mobile Engineer Intern](https://paypal.eightfold.ai/careers/job/274922982818) - Austin, TX / San Jose, CA / Chicago, IL / Omaha, NE / Scottsdale, AZ _(Simplify)_
+- **PayPal**: [Software Engineer Intern](https://paypal.eightfold.ai/careers/job/274922982814) - Austin, TX / San Jose, CA / Chicago, IL / Omaha, NE / Scottsdale, AZ _(Simplify)_
+- **Zebra Technologies**: [Software Engineer Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657) - Holtsville, NY _(Simplify)_
+- **Leidos**: [Software Engineering & AI Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220) - Remote in USA / Shiloh, IL / Odenton, MD _(Simplify)_
+- **Parsons**: [Software Engineer Intern](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299) - Huntsville, AL _(Simplify)_
+- **Boston Scientific**: [Software Development Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813567960) - Waltham, MA _(Simplify)_
+- **NCR Voyix**: [Software Engineer Fellow](https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Software-Engineer-Fellow_R0158700) - Florida _(Simplify)_
+- **Smith+Nephew**: [Robotics Software Engineer Intern](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482) - Pittsburgh, PA _(Simplify)_
+
 ## Nov 04, 09:35 PM ET
 
 - **Waymo**: [Depot Automation Intern](https://careers.withwaymo.com/jobs?gh_jid=8350687) - SF _(Simplify)_
