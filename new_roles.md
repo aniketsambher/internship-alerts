@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 05, 02:35 AM ET
+
+- **SDSU Research Foundation**: [Computer Science Intern](https://careers-sdsurf.icims.com/jobs/21086/job?mobile=true&needsRedirect=false) - San Diego, CA _(Simplify)_
+- **Peraton**: [Mission Systems Software and Edge Computing Intern](https://careers-peraton.icims.com/jobs/172378/job?mobile=true&needsRedirect=false) - Oklahoma _(Simplify)_
+
 ## Nov 04, 10:05 PM ET
 
 - **PayPal**: [Mobile Engineer Intern](https://paypal.eightfold.ai/careers/job/274922982818) - Austin, TX / San Jose, CA / Chicago, IL / Omaha, NE / Scottsdale, AZ _(Simplify)_
