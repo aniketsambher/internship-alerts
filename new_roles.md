@@ -1,5 +1,32 @@
 # New internships, newest first
 
+## Nov 05, 04:05 AM ET
+
+- **Constellation Energy**: [Renewable Energy Intern](https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us) - Houston, TX _(Simplify)_
+- **General Dynamics Mission Systems**: [Software Engineer Intern](https://careers-gdms.icims.com/jobs/78349/job?mobile=true&needsRedirect=false) - Port Orchard, WA _(Simplify)_
+- **General Dynamics Mission Systems**: [Software Engineer Intern](https://careers-gdms.icims.com/jobs/75755/job?mobile=true&needsRedirect=false) - Taunton, MA _(Simplify)_
+- **General Dynamics Mission Systems**: [Engineer Intern - Multiple Teams](https://careers-gdms.icims.com/jobs/76785/job?mobile=true&needsRedirect=false) - United States _(Simplify)_
+- **General Dynamics Mission Systems**: [Engineer Intern](https://careers-gdms.icims.com/jobs/75965/job?mobile=true&needsRedirect=false) - Dedham, MA _(Simplify)_
+- **General Dynamics Mission Systems**: [Software Engineer Intern](https://careers-gdms.icims.com/jobs/75626/job?mobile=true&needsRedirect=false) - Scottsdale, AZ _(Simplify)_
+- **General Dynamics Mission Systems**: [Software Engineer Intern](https://careers-gdms.icims.com/jobs/75752/job?mobile=true&needsRedirect=false) - Dedham, MA _(Simplify)_
+- **Intercontinental Exchange**: [Integration Intern](https://careers-ice.icims.com/jobs/14071/job?mobile=true&needsRedirect=false) - Jacksonville, FL _(Simplify)_
+- **Intercontinental Exchange**: [Regulatory Products Intern](https://careers-ice.icims.com/jobs/14101/job?mobile=true&needsRedirect=false) - NYC _(Simplify)_
+- **Intercontinental Exchange**: [Software Engineering Intern](https://careers-ice.icims.com/jobs/14077/job?mobile=true&needsRedirect=false) - Jacksonville, FL _(Simplify)_
+- **Intercontinental Exchange**: [Software Engineer Intern](https://careers-ice.icims.com/jobs/14105/job?mobile=true&needsRedirect=false) - NYC _(Simplify)_
+- **Intercontinental Exchange**: [Trading System Development Intern](https://careers-ice.icims.com/jobs/14102/job?mobile=true&needsRedirect=false) - NYC _(Simplify)_
+- **Intercontinental Exchange**: [Software Engineer Intern - Java](https://careers-ice.icims.com/jobs/14078/job?mobile=true&needsRedirect=false) - Jacksonville, FL _(Simplify)_
+- **Intercontinental Exchange**: [Software Engineer Intern](https://careers-ice.icims.com/jobs/14075/job?mobile=true&needsRedirect=false) - Jacksonville, FL _(Simplify)_
+- **Intercontinental Exchange**: [Software Developer Intern](https://careers-ice.icims.com/jobs/14076/job?mobile=true&needsRedirect=false) - Jacksonville, FL _(Simplify)_
+- **General Dynamics Mission Systems**: [Software Engineer Intern](https://careers-gdms.icims.com/jobs/75775/job?mobile=true&needsRedirect=false) - Scottsdale, AZ _(Simplify)_
+- **General Dynamics Mission Systems**: [Engineer Intern - Multiple Teams](https://careers-gdms.icims.com/jobs/75636/job?mobile=true&needsRedirect=false) - United States _(Simplify)_
+- **General Dynamics Mission Systems**: [Engineer Intern](https://careers-gdms.icims.com/jobs/75533/job?mobile=true&needsRedirect=false) - Pittsfield, MA _(Simplify)_
+- **Docusign**: [Software Engineer Intern](https://careers.docusign.com/jobs/30470?icims=1) - Chicago, IL _(Simplify)_
+- **Docusign**: [Software Engineer Intern](https://careers.docusign.com/jobs/30488?icims=1) - Seattle, WA _(Simplify)_
+- **Docusign**: [Software Engineer Intern](https://careers.docusign.com/jobs/30496?icims=1) - Seattle, WA _(Simplify)_
+- **Constellation Energy**: [IT Development Intern](https://jobs.constellationenergy.com/jobs/140300?icims=1&lang=en-us) - San Diego, CA _(Simplify)_
+- **General Dynamics Mission Systems**: [Software Engineer for Crypto & Cross Domain Solutions Intern](https://careers-gdms.icims.com/jobs/75477/job?mobile=true&needsRedirect=false) - Scottsdale, AZ _(Simplify)_
+- **SimVentions**: [Software Development Intern](https://careers-simventions.icims.com/jobs/1631/job?mobile=true&needsRedirect=false) - Fredericksburg, VA _(Simplify)_
+
 ## Nov 05, 03:35 AM ET
 
 - **General Dynamics Mission Systems**: [Software Engineering Intern](https://careers-gdms.icims.com/jobs/75128/job?mobile=true&needsRedirect=false) - Manassas, VA _(Simplify)_
