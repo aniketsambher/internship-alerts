@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Nov 04, 09:35 PM ET
+
+- **Waymo**: [Depot Automation Intern](https://careers.withwaymo.com/jobs?gh_jid=8350687) - SF _(Simplify)_
+- **Figma**: [PhD Intern - Software Engineer - Interaction Design](https://boards.greenhouse.io/figma/jobs/6241542004) - SF / NYC _(Simplify)_
+- **Wells Fargo**: [Software Engineer Intern](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Internship-Program_R-581607) - London, UK _(Simplify)_
+- **Baird**: [Automation & AI Solutions Intern](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1) - Milwaukee, WI _(Simplify)_
+- **Logiqal**: [Quantum Error Correction and Architecture Intern](https://jobs.ashbyhq.com/logiqal/2ee3439f-b612-408e-ad7c-1012362c640f/application?embed=true) - Princeton, NJ _(Simplify)_
+
 ## Nov 04, 11:05 AM ET
 
 - **Nutanix**: [Software Engineer Intern](https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false) - Cambridge, UK _(Simplify)_
