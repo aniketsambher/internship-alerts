@@ -1,5 +1,19 @@
 # New internships, newest first
 
+## Nov 06, 06:35 PM ET
+
+- **Deeplocal**: [Creative Technology Intern](https://job-boards.greenhouse.io/deeplocal/jobs/8360330) - Pittsburgh, PA _(Simplify)_
+- **Docusign**: [Agentic AI Engineer Intern](https://careers.docusign.com/jobs/30587?icims=1&lang=en-us) - SF _(Simplify)_
+- **The New York Times**: [Backend Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005) - NYC _(Simplify)_
+- **The New York Times**: [Android Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005) - NYC _(Simplify)_
+- **The New York Times**: [Full-Stack Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005) - NYC _(Simplify)_
+- **The New York Times**: [Frontend Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005) - NYC _(Simplify)_
+- **The New York Times**: [iOS Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005) - NYC _(Simplify)_
+- **DataRobot**: [Software Design Engineer Intern](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Software-Design-Engineer-Intern_R-102764) - Boston, MA / Seattle, WA / SF / Ontario, Canada _(Simplify)_
+- **Leidos**: [AI/Automation Development Intern - Assessment & Authorization](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319) - Remote in USA _(Simplify)_
+- **KLA**: [Software Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Intern_2642954) - Milpitas, CA _(Simplify)_
+- **KLA Corporation**: [Software Intern](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Intern_2642954-1) - Milpitas, CA _(Simplify)_
+
 ## Nov 06, 11:30 AM ET
 
 - **Samsara**: [Software Engineering Internship - San Francisco ](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) - San Francisco - SF9 _(careers page)_
