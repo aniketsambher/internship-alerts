@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 06, 06:05 AM ET
+
+- **Ryan**: [Software Engineer Intern](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/North-York/Summer-2027-Intern--Software-Engineering_R0020807-1) - North York, ON, Canada _(Simplify)_
+- **Ryan**: [Software Engineer Intern](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Summer-2027-Intern--Software-Engineering_R0020806-1) - North York, ON, Canada _(Simplify)_
+
 ## Nov 06, 03:05 AM ET
 
 - **ASM International**: [Product Intelligence Engineering Intern - AI/ML](https://www.asm.com/open-vacancies/?gh_jid=5029228101) - Phoenix, AZ _(Simplify)_
