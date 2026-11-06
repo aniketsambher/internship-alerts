@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Nov 06, 11:05 AM ET
+
+- **Waymo**: [Software Engineer Intern](https://careers.withwaymo.com/jobs?gh_jid=8350832) - SF _(Simplify)_
+- **T-Mobile**: [Software Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734) - Overland Park, KS _(Simplify)_
+- **T-Mobile**: [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739) - Overland Park, KS _(Simplify)_
+- **SAS**: [Data Scientist Intern](https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false) - Cary, NC _(Simplify)_
+
 ## Nov 06, 10:35 AM ET
 
 - **Tinder**: [iOS Engineer Intern](https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply) - Palo Alto, CA / LA _(Simplify)_
