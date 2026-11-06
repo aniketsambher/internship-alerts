@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 06, 11:30 AM ET
+
+- **Samsara**: [Software Engineering Internship - San Francisco ](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) - San Francisco - SF9 _(careers page)_
+
 ## Nov 06, 11:05 AM ET
 
 - **Waymo**: [Software Engineer Intern](https://careers.withwaymo.com/jobs?gh_jid=8350832) - SF _(Simplify)_
