@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 06, 03:05 AM ET
+
+- **ASM International**: [Product Intelligence Engineering Intern - AI/ML](https://www.asm.com/open-vacancies/?gh_jid=5029228101) - Phoenix, AZ _(Simplify)_
+
 ## Nov 05, 10:05 PM ET
 
 - **Zoox**: [Software Engineer Intern - Software Systems](https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply) - Foster City, CA _(Simplify)_
