@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Nov 06, 10:35 AM ET
+
+- **Tinder**: [iOS Engineer Intern](https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply) - Palo Alto, CA / LA _(Simplify)_
+- **Tinder**: [Backend Engineer Intern](https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply) - Palo Alto, CA / LA _(Simplify)_
+- **Tinder**: [Android Engineer Intern](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply) - LA _(Simplify)_
+- **The New York Times**: [Interactive News Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005) - NYC _(Simplify)_
+
 ## Nov 06, 06:05 AM ET
 
 - **Ryan**: [Software Engineer Intern](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/North-York/Summer-2027-Intern--Software-Engineering_R0020807-1) - North York, ON, Canada _(Simplify)_
