@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 05, 09:35 PM ET
+
+- **Light & Wonder**: [Software Engineer Intern](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885) - Reno, NV _(Simplify)_
+
 ## Nov 05, 07:05 PM ET
 
 - **Palantir**: [Software Engineer Intern - Sovereign AI Systems](https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312/apply) - NYC _(Simplify)_
