@@ -1,5 +1,15 @@
 # New internships, newest first
 
+## Nov 05, 07:05 PM ET
+
+- **Palantir**: [Software Engineer Intern - Sovereign AI Systems](https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312/apply) - NYC _(Simplify)_
+- **Palantir**: [Software Engineer Intern - Sovereign AI Systems](https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e/apply) - London, UK _(Simplify)_
+- **Lumbermen's**: [Software Developer Intern](https://job-boards.greenhouse.io/lumbermens/jobs/5474346008) - Grand Rapids, MI _(Simplify)_
+- **CrowdStrike**: [Intelligence Intern](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Intern---Summer-2027_R30605) - Arlington County, Arlington, VA _(Simplify)_
+- **Shield AI**: [Software Engineer Intern Co-op](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true) - Dallas, TX _(Simplify)_
+- **T-Mobile**: [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650) - Atlanta, GA _(Simplify)_
+- **Apex**: [Ground Software Intern - Spring or Summer 2027](https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c/application?embed=true) - LA _(Simplify)_
+
 ## Nov 05, 06:35 PM ET
 
 - **Cintas**: [IT Intern – Engineer - Customer Channels](https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/?ats=successfactors) - Mason, OH _(Simplify)_
