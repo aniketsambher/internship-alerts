@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 05, 10:05 PM ET
+
+- **Zoox**: [Software Engineer Intern - Software Systems](https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply) - Foster City, CA _(Simplify)_
+- **Zoox**: [Software Engineer Intern - Software Platforms & Product](https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply) - Foster City, CA _(Simplify)_
+
 ## Nov 05, 09:35 PM ET
 
 - **Light & Wonder**: [Software Engineer Intern](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885) - Reno, NV _(Simplify)_
