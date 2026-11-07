@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 07, 03:05 AM ET
+
+- **Category Labs**: [Research Intern](https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true) - NYC _(Simplify)_
+
 ## Nov 06, 10:05 PM ET
 
 - **Zoox**: [AI Workflows & Safety Decision Making Intern](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1/apply) - Foster City, CA _(Simplify)_
