@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 07, 05:35 AM ET
+
+- **West Monroe**: [Software Engineering Consultant Intern - AI Concentration](https://westmonroe.com/careers/job-details-students?gh_jid=6183029004) - Seattle, WA _(Simplify)_
+
 ## Nov 07, 03:05 AM ET
 
 - **Category Labs**: [Research Intern](https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true) - NYC _(Simplify)_
