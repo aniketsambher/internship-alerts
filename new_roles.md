@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 06, 10:05 PM ET
+
+- **Zoox**: [AI Workflows & Safety Decision Making Intern](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1/apply) - Foster City, CA _(Simplify)_
+
 ## Nov 06, 09:35 PM ET
 
 - **TikTok**: [Software Engineer Intern](https://lifeattiktok.com/search/7705012688944810245) - San Jose, CA _(Simplify)_
