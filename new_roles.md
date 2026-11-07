@@ -1,5 +1,18 @@
 # New internships, newest first
 
+## Nov 06, 07:05 PM ET
+
+- **Enovation Controls**: [Manufacturing Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416) - Tulsa, OK _(Simplify)_
+- **Niural**: [AI Product Operator Intern](https://jobs.ashbyhq.com/niural/0daacf58-a15d-4c6f-bfa0-0fc069e4956e/application?embed=true) - NYC _(Simplify)_
+- **Keysight Technologies**: [Agentic AI PhD Intern - Autonomous AI Agent](https://jobs.keysight.com/jobs/54741?icims=1&lang=en-us) - Santa Rosa, CA / Calabasas, CA _(Simplify)_
+- **L.L.Bean**: [Software Developer Intern](https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1) - Freeport, ME _(Simplify)_
+- **T-Mobile**: [AI Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381198) - Bellevue, WA _(Simplify)_
+- **T-Mobile**: [AI Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765) - Bellevue, WA _(Simplify)_
+- **T-Mobile**: [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917) - Bellevue, WA _(Simplify)_
+- **T-Mobile**: [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768) - Bellevue, WA _(Simplify)_
+- **Notion**: [Software Engineer Intern - Frontend](https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413/application?embed=true) - NYC _(Simplify)_
+- **Notion**: [Software Engineer Intern - iOS](https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947/application?embed=true) - NYC _(Simplify)_
+
 ## Nov 06, 06:35 PM ET
 
 - **Deeplocal**: [Creative Technology Intern](https://job-boards.greenhouse.io/deeplocal/jobs/8360330) - Pittsburgh, PA _(Simplify)_
