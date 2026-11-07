@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 06, 09:35 PM ET
+
+- **TikTok**: [Software Engineer Intern](https://lifeattiktok.com/search/7705012688944810245) - San Jose, CA _(Simplify)_
+
 ## Nov 06, 07:05 PM ET
 
 - **Enovation Controls**: [Manufacturing Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416) - Tulsa, OK _(Simplify)_
