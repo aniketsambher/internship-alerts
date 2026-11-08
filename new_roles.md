@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 08, 06:35 PM ET
+
+- **Shield AI**: [Engineer 2 New Grad - Multiple Teams](https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff/apply) - Washington, DC _(Simplify)_
+
 ## Nov 07, 05:35 AM ET
 
 - **West Monroe**: [Software Engineering Consultant Intern - AI Concentration](https://westmonroe.com/careers/job-details-students?gh_jid=6183029004) - Seattle, WA _(Simplify)_
