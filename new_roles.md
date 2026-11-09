@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 09, 11:06 AM ET
+
+- **Citi**: [Summer Analyst Intern - Application Development](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Technology---Application-Development--Summer-Analyst--United-Kingdom---London--2027_261007037) - London, UK _(Simplify)_
+- **Atrium Hospitality**: [AI & Automation Intern](https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Alpharetta-GA/AI---Automation-Intern_R50811) - Alpharetta, GA _(Simplify)_
+- **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--E2D-IN-1-_01888020) - Sterling, VA _(Simplify)_
+
 ## Nov 09, 10:35 AM ET
 
 - **General Dynamics Mission Systems**: [Full-Stack Application Development Intern](https://careers-gdms.icims.com/jobs/75971/job?mobile=true&needsRedirect=false) - Chantilly, VA / Pittsfield, MA / Scottsdale, AZ _(Simplify)_
