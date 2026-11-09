@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 09, 10:35 AM ET
+
+- **General Dynamics Mission Systems**: [Full-Stack Application Development Intern](https://careers-gdms.icims.com/jobs/75971/job?mobile=true&needsRedirect=false) - Chantilly, VA / Pittsfield, MA / Scottsdale, AZ _(Simplify)_
+- **General Dynamics Mission Systems**: [Full-Stack Software Engineer Intern](https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false) - Chantilly, VA / Pittsfield, MA / Scottsdale, AZ _(Simplify)_
+- **CIBC**: [Associate Technology Leadership Advancement Program Intern](https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-Technology-Leadership-Advancement-Program---Summer-2027_2623078-1) - Toronto, ON, Canada _(Simplify)_
+
 ## Nov 08, 06:35 PM ET
 
 - **Shield AI**: [Engineer 2 New Grad - Multiple Teams](https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff/apply) - Washington, DC _(Simplify)_
