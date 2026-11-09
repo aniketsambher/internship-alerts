@@ -1,5 +1,18 @@
 # New internships, newest first
 
+## Nov 09, 06:35 PM ET
+
+- **Amazon**: [Software Engineer Intern](https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027) - Boston, MA / Seattle, WA / Austin, TX / Arlington County, Arlington, VA / Denver, CO _(Simplify)_
+- **Art of Problem Solving**: [Software Engineer Intern](https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003) - San Diego, CA _(Simplify)_
+- **Lila Sciences**: [Applied AI Platform Engineer Co-op](https://job-boards.greenhouse.io/lilasciences/jobs/4472540009) - SF _(Simplify)_
+- **Biodesix**: [Software Development Intern](https://www.biodesix.com/careers/current-openings?gh_jid=4485410009) - Louisville, CO _(Simplify)_
+- **Biodesix**: [AI Research & Development Intern](https://www.biodesix.com/careers/current-openings?gh_jid=4485306009) - Louisville, CO _(Simplify)_
+- **Jane Street**: [Formal Methods Research and Development Intern](https://www.janestreet.com/join-jane-street/apply/8927083002?gh_jid=8927083002) - NYC _(Simplify)_
+- **Jane Street**: [Formal Methods Research and Development Intern](https://www.janestreet.com/join-jane-street/apply/8927052002?gh_jid=8927052002) - London, UK _(Simplify)_
+- **Ryan**: [Application Development Intern - Application Development](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Burlington/Summer-2027-Intern--Application-Development_R0020810-1) - Burlington, VT _(Simplify)_
+- **Ryan**: [Application Development Intern - Application Development](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Burlington/Summer-2027-Intern--Application-Development_R0020810) - Burlington, VT _(Simplify)_
+- **Zoetis Services**: [AI Assistant Development Intern](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/AI-Assistant-Development-Intern_JR00022012-1) - Parsippany-Troy Hills, NJ _(Simplify)_
+
 ## Nov 09, 06:30 PM ET
 
 - **IBM**: [Cloud Developer Intern - Storage - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131207) - Austin, US _(careers page)_
