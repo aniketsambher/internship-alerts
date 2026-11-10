@@ -1,5 +1,21 @@
 # New internships, newest first
 
+## Nov 09, 07:05 PM ET
+
+- **Cirrus Logic**: [Applied AI Engineering Intern](https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8/apply) - Austin, TX _(Simplify)_
+- **DreamWorks Animation**: [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160659459) - NYC _(Simplify)_
+- **DreamWorks Animation**: [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160659379) - Universal City, LA _(Simplify)_
+- **Scout Motors**: [Digital Products Intern](https://job-boards.greenhouse.io/scoutmotors/jobs/5287137007) - Charlotte, NC _(Simplify)_
+- **DreamWorks Animation**: [Media Tech: Product & Engineering Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160652809) - NYC _(Simplify)_
+- **DreamWorks Animation**: [Digital Transformation AR/VR Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160647460) - Universal City, LA _(Simplify)_
+- **UiPath**: [AI Engineer Intern](https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555/application?embed=true) - Bellevue, WA _(Simplify)_
+- **UiPath**: [Software Engineer Intern](https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04/application?embed=true) - Bellevue, WA _(Simplify)_
+- **General Dynamics Mission Systems**: [Software Engineer Intern](https://careers-gdms.icims.com/jobs/79755/job?mobile=true&needsRedirect=false) - Manassas, VA _(Simplify)_
+- **ASML**: [AI Engineer Co-op Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--AI-Engineer_J-00355628) - San Diego, CA _(Simplify)_
+- **ASML**: [AI Engineer Co-op Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--AI-Engineer_J-00355629) - San Diego, CA _(Simplify)_
+- **Radiance Technologies**: [Software Engineer Intern](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102563) - Beavercreek, OH _(Simplify)_
+- **Radiance Technologies**: [Software Engineer Intern](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102562) - Beavercreek, OH _(Simplify)_
+
 ## Nov 09, 06:35 PM ET
 
 - **Amazon**: [Software Engineer Intern](https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027) - Boston, MA / Seattle, WA / Austin, TX / Arlington County, Arlington, VA / Denver, CO _(Simplify)_
