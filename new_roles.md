@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Nov 10, 11:05 AM ET
+
+- **SOTI**: [Software Developer Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677) - Mississauga, ON, Canada _(Simplify)_
+- **T-Mobile**: [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225) - Philadelphia, PA _(Simplify)_
+- **NVIDIA**: [AI Operations Intern - AI Clouds](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1) - Santa Clara, CA _(Simplify)_
+- **T-Mobile**: [Software Engineer Intern - T-Ads](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219) - Philadelphia, PA _(Simplify)_
+- **General Dynamics Mission Systems**: [Systems and Software Development Intern](https://careers-gdms.icims.com/jobs/76099/job?mobile=true&needsRedirect=false) - San Antonio, TX / Scottsdale, AZ _(Simplify)_
+
 ## Nov 10, 10:35 AM ET
 
 - **Matillion**: [Computer Science Intern - Software Engineering with AI](https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22/apply) - Manchester, UK _(Simplify)_
