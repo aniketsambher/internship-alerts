@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 10, 09:05 AM ET
+
+- **Veterans United**: [Software Engineer Intern](https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249) - Missouri _(Simplify)_
+
 ## Nov 10, 05:35 AM ET
 
 - **Selective Insurance**: [IT Claims Application Delivery Intern](https://jobs.selective.com/jobs/5750?icims=1&lang=en-us) - Charlotte, NC _(Simplify)_
