@@ -1,5 +1,25 @@
 # New internships, newest first
 
+## Nov 10, 06:35 PM ET
+
+- **Texas Instruments**: [Product Marketing Engineer Intern - Marketing](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019924) - Dallas, TX _(Simplify)_
+- **McDonald's**: [Software Development Engineer Intern](https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449046600/?ats=successfactors) - Chicago, IL _(Simplify)_
+- **Apple**: [Virtualisation Software Engineer Intern - Core OS](https://jobs.apple.com/en-us/details/200694316) - London, UK _(Simplify)_
+- **Palantir**: [Software Engineer Intern - Connectivity Platform and Product](https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743/apply) - NYC _(Simplify)_
+- **Palantir**: [Software Engineer Intern - Connectivity Platform - Product](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e/apply) - Denver, CO _(Simplify)_
+- **Palantir**: [Software Engineer Intern - Data Connectors](https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a/apply) - NYC _(Simplify)_
+- **Addepar**: [AI Engineer Intern](https://job-boards.greenhouse.io/addepar1/jobs/8927543002) - NYC _(Simplify)_
+- **Addepar**: [Software Engineer Intern](https://job-boards.greenhouse.io/addepar1/jobs/8927531002) - NYC _(Simplify)_
+- **Addepar**: [Software Engineer Intern](https://job-boards.greenhouse.io/addepar1/jobs/8927507002) - Edinburgh, UK _(Simplify)_
+- **General Motors**: [Software Engineer Intern - Machine Learning Engineer - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034) - Sunnyvale, CA _(Simplify)_
+- **Salesforce**: [Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Kingdom---London/Engineering-Intern_JR367683) - London, UK _(Simplify)_
+- **General Dynamics Mission Systems**: [Software Engineer Intern](https://careers-gdms.icims.com/jobs/75637/job?mobile=true&needsRedirect=false) - Pittsburgh, PA _(Simplify)_
+- **Investissement Québec**: [Automation and Artificial Intelligence Intern](https://investquebec.wd10.myworkdayjobs.com/ext/job/Montral/tudiant---Automatisation-et-intelligence-artificielle--Montral-_R3656) - Montreal, QC, Canada _(Simplify)_
+- **Jabil**: [AI Agent Developer Intern - Supply Chain IT - AI & Enablement](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054) - St. Petersburg, FL _(Simplify)_
+- **Entegris**: [Filtration Portfolio Automation Intern](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Filtration-Portfolio-Automation-Intern_REQ-15840) - Billerica, MA _(Simplify)_
+- **McDonald's**: [Software Engineer Intern](https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors) - Chicago, IL _(Simplify)_
+- **McDonald's**: [Software Development Engineer Intern](https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449058700/?ats=successfactors) - Chicago, IL _(Simplify)_
+
 ## Nov 10, 11:05 AM ET
 
 - **SOTI**: [Software Developer Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677) - Mississauga, ON, Canada _(Simplify)_
