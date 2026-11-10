@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 10, 03:05 AM ET
+
+- **Trilogy Health Services**: [Information Systems Developer of AI and Automated Solutions Intern](https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us) - Louisville, KY _(Simplify)_
+- **Republic Finance**: [React Developer Intern](https://jobs.republicfinance.com/jobs/15411?icims=1&lang=en-us) - Plano, TX _(Simplify)_
+- **Klaviyo**: [AI Engineer Intern](https://jobs.ashbyhq.com/f40d14d9-07f4-403d-802b-37453deccf0a/d1752b32-eebe-4edd-9e51-3ef06a3b75a2/application?embed=true) - Boston, MA _(Simplify)_
+
 ## Nov 10, 02:35 AM ET
 
 - **Auburn University**: [LabVIEW Research Support Assistant Intern](https://jobs.auburn.edu/jobs/10846?icims=1&lang=en-us) - Auburn, AL _(Simplify)_
