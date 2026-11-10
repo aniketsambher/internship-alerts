@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 10, 05:35 AM ET
+
+- **Selective Insurance**: [IT Claims Application Delivery Intern](https://jobs.selective.com/jobs/5750?icims=1&lang=en-us) - Charlotte, NC _(Simplify)_
+- **Selective Insurance**: [IT Commercial Lines Summer Intern](https://jobs.selective.com/jobs/5701?icims=1&lang=en-us) - Charlotte, NC / Hartford, CT _(Simplify)_
+
 ## Nov 10, 03:05 AM ET
 
 - **Trilogy Health Services**: [Information Systems Developer of AI and Automated Solutions Intern](https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us) - Louisville, KY _(Simplify)_
