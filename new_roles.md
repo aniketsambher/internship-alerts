@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Nov 09, 09:35 PM ET
+
+- **Pika**: [Applied AI Engineer Intern - Creative Experiences](https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881/application?embed=true) - Palo Alto, CA _(Simplify)_
+- **FormFactor**: [Software Engineer Intern](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Software-Engineer-Intern_JR101288) - Livermore, CA _(Simplify)_
+- **NVIDIA**: [Systems Research Intern - Observability](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644) - Canada / Santa Clara, CA / United States _(Simplify)_
+- **GE Vernova**: [Energy Optimization Software Engineer Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2) - Bellevue, WA _(Simplify)_
+- **GE Vernova**: [Energy Optimization Software Engineer Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1) - Bellevue, WA _(Simplify)_
+
 ## Nov 09, 07:05 PM ET
 
 - **Cirrus Logic**: [Applied AI Engineering Intern](https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8/apply) - Austin, TX _(Simplify)_
