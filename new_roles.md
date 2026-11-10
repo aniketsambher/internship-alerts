@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 09, 10:05 PM ET
+
+- **REGENT**: [Mission Software Engineering Intern](https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?embed=true) - North Kingstown, RI _(Simplify)_
+- **Altera**: [Software Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03414) - Toronto, ON, Canada _(Simplify)_
+- **Trimble**: [Software Engineer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171) - Portland, OR _(Simplify)_
+
 ## Nov 09, 09:35 PM ET
 
 - **Pika**: [Applied AI Engineer Intern - Creative Experiences](https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881/application?embed=true) - Palo Alto, CA _(Simplify)_
