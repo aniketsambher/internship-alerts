@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 10, 02:35 AM ET
+
+- **Auburn University**: [LabVIEW Research Support Assistant Intern](https://jobs.auburn.edu/jobs/10846?icims=1&lang=en-us) - Auburn, AL _(Simplify)_
+- **Auburn University**: [Information Technology Co-op](https://jobs.auburn.edu/jobs/9874?icims=1&lang=en-us) - Auburn, AL _(Simplify)_
+- **Auburn University**: [Student Web Development Assistant Intern](https://jobs.auburn.edu/jobs/9684?icims=1&lang=en-us) - Alabama _(Simplify)_
+
 ## Nov 09, 10:05 PM ET
 
 - **REGENT**: [Mission Software Engineering Intern](https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?embed=true) - North Kingstown, RI _(Simplify)_
