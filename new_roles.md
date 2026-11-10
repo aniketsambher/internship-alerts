@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 10, 10:35 AM ET
+
+- **Matillion**: [Computer Science Intern - Software Engineering with AI](https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22/apply) - Manchester, UK _(Simplify)_
+- **Veolia**: [Manufacturing Software Engineer Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160896184) - Boulder, CO _(Simplify)_
+- **GSA Capital**: [Software Developer Intern](https://job-boards.greenhouse.io/gsacapital/jobs/8570668002) - London, UK _(Simplify)_
+
 ## Nov 10, 09:05 AM ET
 
 - **Veterans United**: [Software Engineer Intern](https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249) - Missouri _(Simplify)_
