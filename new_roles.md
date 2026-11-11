@@ -1,5 +1,16 @@
 # New internships, newest first
 
+## Nov 10, 07:05 PM ET
+
+- **DwyerOmega**: [Applied AI Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662) - Remote in USA _(Simplify)_
+- **General Dynamics Information Technology**: [AI/ML Business Intelligence Development Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935) - Bossier City, LA _(Simplify)_
+- **Hunt Oil Company**: [Application Developer Intern](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1104) - Dallas, TX _(Simplify)_
+- **Trimble**: [Software Engineer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---TN-Knoxville/Software-Engineering-Intern_R58120) - Knoxville, TN _(Simplify)_
+- **Rambus**: [Forward Deployed Engineer Intern - AI & Enterprise Systems](https://careers-rambus.icims.com/jobs/23109/job?mobile=true&needsRedirect=false) - San Jose, CA _(Simplify)_
+- **JMP Statistical Discovery**: [C++ Software Development Intern](https://jmp-sas.icims.com/jobs/46960/job?mobile=true&needsRedirect=false) - Cary, NC _(Simplify)_
+- **Echo Global Logistics**: [Software Engineer Intern](https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1) - United States _(Simplify)_
+- **Skydio**: [Middleware Software Engineer Intern](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application?embed=true) - San Mateo, CA _(Simplify)_
+
 ## Nov 10, 06:35 PM ET
 
 - **Texas Instruments**: [Product Marketing Engineer Intern - Marketing](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019924) - Dallas, TX _(Simplify)_
