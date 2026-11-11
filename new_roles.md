@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Nov 11, 11:05 AM ET
+
+- **The Marzetti Company**: [AI Solutions Intern - Human Resources](https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us) - Columbus, OH _(Simplify)_
+- **Unisys**: [Software Engineer Intern](https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421) - Eagan, MN _(Simplify)_
+- **DraftKings**: [Software Engineer Intern](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150) - London, UK _(Simplify)_
+- **DraftKings**: [Software Engineer Intern](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1) - London, UK _(Simplify)_
+
 ## Nov 11, 10:35 AM ET
 
 - **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017) - Sterling, VA _(Simplify)_
