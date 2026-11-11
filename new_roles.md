@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 11, 03:05 AM ET
+
+- **SHOPLINE**: [AI Skill Developer Intern](https://shopline.applytojob.com/apply/Ujgi4rGMS1/AI-Skill-Agent-Skill-Builder-Intern) - United States _(Simplify)_
+- **Elire**: [AI Software Developer Intern - Multiple Teams](https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false) - Remote in USA / Minneapolis, MN _(Simplify)_
+
 ## Nov 10, 10:05 PM ET
 
 - **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049) - Richardson, TX _(Simplify)_
