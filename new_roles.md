@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 11, 06:30 AM ET
+
+- **IBM**: [Software Developer Intern](https://careers.ibm.com/careers/JobDetail?jobId=140170) - Multiple Cities _(careers page)_
+
 ## Nov 11, 03:05 AM ET
 
 - **SHOPLINE**: [AI Skill Developer Intern](https://shopline.applytojob.com/apply/Ujgi4rGMS1/AI-Skill-Agent-Skill-Builder-Intern) - United States _(Simplify)_
