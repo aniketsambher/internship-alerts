@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 11, 06:35 AM ET
+
+- **Apple**: [CAD Virtuoso Engineer Intern](https://jobs.apple.com/en-us/details/200693133) - Swindon, UK _(Simplify)_
+
 ## Nov 11, 06:30 AM ET
 
 - **IBM**: [Software Developer Intern](https://careers.ibm.com/careers/JobDetail?jobId=140170) - Multiple Cities _(careers page)_
