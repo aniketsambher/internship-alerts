@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 11, 03:57 PM ET
+
+- **IBM**: [QA/Test Automation Developer Intern - Tucson, AZ](https://careers.ibm.com/careers/JobDetail?jobId=142564) - TUCSON, US _(careers page)_
+
 ## Nov 11, 11:05 AM ET
 
 - **The Marzetti Company**: [AI Solutions Intern - Human Resources](https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us) - Columbus, OH _(Simplify)_
