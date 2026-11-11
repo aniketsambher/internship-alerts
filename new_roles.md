@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 10, 10:05 PM ET
+
+- **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01888049) - Richardson, TX _(Simplify)_
+- **Formulary Financial**: [Software Engineer Intern](https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?embed=true) - NYC _(Simplify)_
+
 ## Nov 10, 09:35 PM ET
 
 - **Tesla**: [Software Developer Intern - IT Apps](https://www.tesla.com/careers/search/job/289683) - Fremont, CA _(Simplify)_
