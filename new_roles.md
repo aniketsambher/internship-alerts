@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Nov 10, 09:35 PM ET
+
+- **Tesla**: [Software Developer Intern - IT Apps](https://www.tesla.com/careers/search/job/289683) - Fremont, CA _(Simplify)_
+- **Shield AI**: [Software Engineer Intern](https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true) - San Diego, CA _(Simplify)_
+- **Shield AI**: [Software Engineer Intern Co-op](https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true) - Dallas, TX _(Simplify)_
+- **Shield AI**: [Software Engineer Intern](https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true) - San Diego, CA _(Simplify)_
+
 ## Nov 10, 07:05 PM ET
 
 - **DwyerOmega**: [Applied AI Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662) - Remote in USA _(Simplify)_
