@@ -1,5 +1,20 @@
 # New internships, newest first
 
+## Nov 11, 06:35 PM ET
+
+- **McDonald's**: [Global Tech Infrastructure & Operations Intern](https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors) - Chicago, IL _(Simplify)_
+- **Bask Health**: [Product Engineering Intern](https://apply.workable.com/bask-health-1/j/1C108B16E2/apply) - Remote in USA _(Simplify)_
+- **Bask Health**: [Backend Engineer Intern - Backend Engineering](https://apply.workable.com/bask-health-1/j/98DB106D88/apply) - Remote in USA _(Simplify)_
+- **Bask Health**: [Software Engineer Intern](https://apply.workable.com/bask-health-1/j/E81C7F7D3B/apply) - Remote in USA _(Simplify)_
+- **WEP Clinical**: [IT Intern - AI & Transformation](https://jobs.lever.co/wepclinical/8d3a77c2-5606-4d32-8532-7dbb1abde1d2/apply) - London, UK _(Simplify)_
+- **NBCUniversal**: [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529) - Universal City, LA _(Simplify)_
+- **Brex**: [Software Engineer Intern](https://www.brex.com/careers/8936403002?gh_jid=8936403002) - SF _(Simplify)_
+- **Formlabs**: [Manufacturing Test Software Intern - Manufacturing](https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598) - Somerville, MA _(Simplify)_
+- **Gordon Food Service**: [Software Engineer Intern - Low Code](https://gfs.wd5.myworkdayjobs.com/usprivate-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375-2) - Wyoming, MI _(Simplify)_
+- **Rockwell Automation**: [Software Developer/Engineering Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-1) - Mequon, WI _(Simplify)_
+- **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055) - Cedar Rapids, IA _(Simplify)_
+- **RTX**: [Aftermarket & Sustainment Engineering Methods Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01887864) - East Hartford, CT _(Simplify)_
+
 ## Nov 11, 03:57 PM ET
 
 - **IBM**: [QA/Test Automation Developer Intern - Tucson, AZ](https://careers.ibm.com/careers/JobDetail?jobId=142564) - TUCSON, US _(careers page)_
