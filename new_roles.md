@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 11, 10:35 AM ET
+
+- **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017) - Sterling, VA _(Simplify)_
+- **Rockwell Automation**: [Software Developer/Engineering Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2) - Mequon, WI _(Simplify)_
+- **GM financial**: [Software Development Engineer Intern](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260818) - Arlington, TX _(Simplify)_
+
 ## Nov 11, 06:35 AM ET
 
 - **Apple**: [CAD Virtuoso Engineer Intern](https://jobs.apple.com/en-us/details/200693133) - Swindon, UK _(Simplify)_
