@@ -1,5 +1,15 @@
 # New internships, newest first
 
+## Nov 12, 06:35 PM ET
+
+- **Muon Space**: [Software Engineer Intern - Information Systems](https://job-boards.greenhouse.io/muonspace/jobs/5293973007) - San Jose, CA _(Simplify)_
+- **Lightmatter**: [Data & AI Platform Intern](https://boards.greenhouse.io/lightmatter/jobs/5474807008) - Boston, MA _(Simplify)_
+- **General Dynamics Information Technology**: [Programmer Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NC-Raleigh/Professional-Programmer---Intern_RQ232030) - Raleigh, NC _(Simplify)_
+- **CrowdStrike**: [Intelligence Launch Intern](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Reading/Intelligence-Launch-Intern---Summer-2027_R30500) - London, UK / Reading, UK _(Simplify)_
+- **Motorola Solutions**: [Systems Engineering Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657) - Chicago, IL _(Simplify)_
+- **Leidos**: [Junior Software Engineer / Data Scientist Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510) - Tucson, AZ _(Simplify)_
+- **Wolters Kluwer**: [Product Software Engineer Intern](https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Waltham-MA/Product-Software-Engineer_R0061394) - Waltham, MA _(Simplify)_
+
 ## Nov 12, 06:30 PM ET
 
 - **IBM**: [IBM Z Engineering System Test QA/Test Developer Intern - Poughkeepsie, NY - 2027](https://careers.ibm.com/careers/JobDetail?jobId=129927) - POUGHKEEPSIE, US _(careers page)_
