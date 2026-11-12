@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 12, 05:35 AM ET
+
+- **Hudson River Trading**: [Software Engineer Intern - C++ or Python](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) - Austin, TX / Chicago, IL / NYC _(Simplify)_
+
 ## Nov 12, 05:05 AM ET
 
 - **Conveo.ai**: [Engineer Intern](https://jobs.ashbyhq.com/conveo/00915c85-373b-4094-b17e-1dca197e644f/application?embed=true) - London, UK / Antwerp, Belgium _(Simplify)_
