@@ -1,5 +1,15 @@
 # New internships, newest first
 
+## Nov 12, 11:02 AM ET
+
+- **Fresenius Medical Care**: [Agentic AI Analytics Co-op](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797) - Lawrence, MA _(Simplify)_
+- **Chatham Financial**: [Software Engineer Intern](https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348) - Kennett Square, PA _(Simplify)_
+- **Chatham Financial**: [Software Engineer Intern](https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349) - Denver, CO _(Simplify)_
+- **Illinois Tool Works**: [Software Engineer Intern - Application Software](https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Summer-2027-Software-Engineer-Intern--Application-Software-_JR10491-1) - Eden Prairie, MN _(Simplify)_
+- **Illinois Tool Works**: [Software Engineer Intern](https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Software-Engineering-Intern_JR10261) - United States _(Simplify)_
+- **Multimatic**: [Application Engineering Co-op](https://multimatic.wd10.myworkdayjobs.com/MMEC/job/East-Gwillimbury-Ontario/Application-Engineering-Co-op_JR103259) - East Gwillimbury, ON, Canada _(Simplify)_
+- **Illinois Tool Works**: [Software Engineer Intern](https://itw.wd5.myworkdayjobs.com/external/job/Appleton-822-Comm/Software-Engineering-Intern---PWS_JR9516) - Appleton, WI _(Simplify)_
+
 ## Nov 12, 10:35 AM ET
 
 - **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1) - London, UK _(Simplify)_
