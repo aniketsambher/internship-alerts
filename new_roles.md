@@ -1,5 +1,18 @@
 # New internships, newest first
 
+## Nov 12, 03:05 AM ET
+
+- **TikTok**: [Software Engineer Intern - TikTok Search](https://lifeattiktok.com/search/7704696088079010053) - San Jose, CA _(Simplify)_
+- **Apple**: [Framebuffer Driver Engineer Intern](https://jobs.apple.com/en-us/details/200694489) - London, UK _(Simplify)_
+- **Apple**: [Camera Software Intern](https://jobs.apple.com/en-us/details/200694477) - Cambridge, UK _(Simplify)_
+- **Nintendo**: [Software Engineer Intern - Performance Tools](https://careers.nintendo.com/?gh_jid=4473568009) - Redmond, WA _(Simplify)_
+- **Nintendo**: [Software Engineer Intern - Graphics](https://careers.nintendo.com/?gh_jid=4473550009) - Redmond, WA _(Simplify)_
+- **Nintendo**: [Software Engineer Intern - Connectivity](https://careers.nintendo.com/?gh_jid=4472147009) - Redmond, WA _(Simplify)_
+- **Nintendo**: [Software Engineer Intern - Platform Security](https://careers.nintendo.com/?gh_jid=4469778009) - Redmond, WA _(Simplify)_
+- **Nintendo**: [Software Engineer Intern - Audio](https://careers.nintendo.com/?gh_jid=4470048009) - Redmond, WA _(Simplify)_
+- **Nintendo**: [Software Engineer Intern - CPU Profiler](https://careers.nintendo.com/?gh_jid=4469762009) - Redmond, WA _(Simplify)_
+- **Nintendo**: [Software Engineer Intern - CPU Debugger - NTD](https://careers.nintendo.com/?gh_jid=4471972009) - Redmond, WA _(Simplify)_
+
 ## Nov 12, 02:35 AM ET
 
 - **Bask Health**: [Frontend Engineer Intern - Frontend Engineering](https://apply.workable.com/bask-health-1/j/9C2964C7CD/apply) - Remote in USA _(Simplify)_
