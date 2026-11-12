@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 12, 06:30 PM ET
+
+- **IBM**: [IBM Z Engineering System Test QA/Test Developer Intern - Poughkeepsie, NY - 2027](https://careers.ibm.com/careers/JobDetail?jobId=129927) - POUGHKEEPSIE, US _(careers page)_
+
 ## Nov 12, 11:02 AM ET
 
 - **Fresenius Medical Care**: [Agentic AI Analytics Co-op](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797) - Lawrence, MA _(Simplify)_
