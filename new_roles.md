@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Nov 12, 02:35 AM ET
+
+- **Bask Health**: [Frontend Engineer Intern - Frontend Engineering](https://apply.workable.com/bask-health-1/j/9C2964C7CD/apply) - Remote in USA _(Simplify)_
+- **Bask Health**: [Creative Engineering Intern](https://apply.workable.com/bask-health-1/j/24DD93E3BA/apply) - Remote in USA _(Simplify)_
+- **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1) - West Valley City, UT _(Simplify)_
+- **Hewlett Packard Enterprise**: [Systems Architecture Research Associate Intern - Systems Architecture Lab](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Systems-Architecture-Lab-Research-Associate-Intern_1218728) - Milpitas, CA _(Simplify)_
+- **Nasdaq**: [Back End Software Developer Co-op Intern](https://job-boards.greenhouse.io/nasdaq/jobs/4453620009) - Toronto, ON, Canada _(Simplify)_
+
 ## Nov 11, 09:36 PM ET
 
 - **Shield AI**: [Engineer 2 New Grad - Software - Autonomy Capabilities](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true) - United States _(Simplify)_
