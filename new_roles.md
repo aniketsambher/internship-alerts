@@ -1,5 +1,17 @@
 # New internships, newest first
 
+## Nov 12, 10:35 AM ET
+
+- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1) - London, UK _(Simplify)_
+- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1) - Cambridge, UK _(Simplify)_
+- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W-2) - Reading, UK _(Simplify)_
+- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W) - Cambridge, UK _(Simplify)_
+- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W) - Reading, UK _(Simplify)_
+- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W) - London, UK _(Simplify)_
+- **Plusgrade**: [Applied AI Engineer Intern](https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Applied-AI-Engineer-Intern_JR100233) - Toronto, ON, Canada _(Simplify)_
+- **Greystone**: [Full Stack Engineer Intern](https://greyco.wd108.myworkdayjobs.com/GTI/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145) - Warrenton, VA _(Simplify)_
+- **Bracco**: [Software Engineer Intern/Co-op - R&D Sustaining](https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327) - Eden Prairie, MN _(Simplify)_
+
 ## Nov 12, 07:05 AM ET
 
 - **Roche**: [AI & Digitalisation Intern](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/AI---Digitalisation-Intern-Graduate-PSD_202610-127162) - Welwyn, UK _(Simplify)_
