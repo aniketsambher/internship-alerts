@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 12, 07:05 AM ET
+
+- **Roche**: [AI & Digitalisation Intern](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/AI---Digitalisation-Intern-Graduate-PSD_202610-127162) - Welwyn, UK _(Simplify)_
+
 ## Nov 12, 05:35 AM ET
 
 - **Hudson River Trading**: [Software Engineer Intern - C++ or Python](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) - Austin, TX / Chicago, IL / NYC _(Simplify)_
