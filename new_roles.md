@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 11, 09:36 PM ET
+
+- **Shield AI**: [Engineer 2 New Grad - Software - Autonomy Capabilities](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true) - United States _(Simplify)_
+
 ## Nov 11, 07:05 PM ET
 
 - **Shive-Hattery**: [Software Developer Intern - Software Development](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619793) - Iowa City, IA _(Simplify)_
