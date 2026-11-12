@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 12, 05:05 AM ET
+
+- **Conveo.ai**: [Engineer Intern](https://jobs.ashbyhq.com/conveo/00915c85-373b-4094-b17e-1dca197e644f/application?embed=true) - London, UK / Antwerp, Belgium _(Simplify)_
+
 ## Nov 12, 03:05 AM ET
 
 - **TikTok**: [Software Engineer Intern - TikTok Search](https://lifeattiktok.com/search/7704696088079010053) - San Jose, CA _(Simplify)_
