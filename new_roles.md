@@ -1,5 +1,16 @@
 # New internships, newest first
 
+## Nov 11, 07:05 PM ET
+
+- **Shive-Hattery**: [Software Developer Intern - Software Development](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619793) - Iowa City, IA _(Simplify)_
+- **Zotec Partners**: [Software Engineer Intern](https://zotecpartners.applytojob.com/apply/EGGe30UqYo/Software-Engineer-Intern) - Carmel, IN _(Simplify)_
+- **Zotec Partners**: [Software Engineer Intern - Rci](https://zotecpartners.applytojob.com/apply/kZD502wRCY/Software-Engineer-Intern-RCI) - Carmel, IN _(Simplify)_
+- **Riot Games**: [Technical Game Design Intern - League of Legends and Teamfight Tactics](https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525) - LA _(Simplify)_
+- **Arcesium**: [Technology Operations Intern](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007) - NYC _(Simplify)_
+- **PTC**: [Creo Graphics Engineering Intern](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970) - Boston, MA _(Simplify)_
+- **PTC**: [Creo Core Geometry Intern](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Core-Geometry-Intern--Summer-2027-_JR112959) - Boston, MA _(Simplify)_
+- **Shield AI**: [Engineer 2 New Grad - Software - Autonomy Capabilities](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true) - United States _(Simplify)_
+
 ## Nov 11, 06:35 PM ET
 
 - **McDonald's**: [Global Tech Infrastructure & Operations Intern](https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors) - Chicago, IL _(Simplify)_
