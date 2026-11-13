@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 13, 06:35 PM ET
+
+- **FieldPulse**: [AI Intern](https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d) - Dallas, TX _(Simplify)_
+
 ## Nov 13, 02:05 PM ET
 
 - **CrowdStrike**: [Insider Risk Engineering Intern - Summer 2027](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Insider-Risk-Engineering-Intern---Summer-2027_R30718) - 3 Locations _(careers page)_
