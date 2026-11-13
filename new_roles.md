@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 13, 12:36 PM ET
+
+- **IBM**: [Software Developer Intern-Rochester, MN](https://careers.ibm.com/careers/JobDetail?jobId=130103) - ROCHESTER, US _(careers page)_
+
 ## Nov 13, 10:36 AM ET
 
 - **Cantor Fitzgerald**: [Technology Summer Internship - Development](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250537) - London, UK _(Simplify)_
