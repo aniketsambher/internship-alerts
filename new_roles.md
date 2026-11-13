@@ -1,5 +1,19 @@
 # New internships, newest first
 
+## Nov 12, 07:05 PM ET
+
+- **Cintas**: [IT OT Software Engineer Intern](https://careers.cintas.com/job/Mason-IT-Intern-OT-Software-Engineer-OH-45040/1450367200/?ats=successfactors) - Mason, OH _(Simplify)_
+- **Bask Health**: [AI Engineering Intern](https://apply.workable.com/bask-health-1/j/F0E122E877/apply) - Remote in USA _(Simplify)_
+- **Octant Bio**: [Software Engineering Intern](https://www.octant.bio/jobs?gh_jid=6260895004) - Emeryville, CA _(Simplify)_
+- **General Dynamics Mission Systems**: [Software/Systems Engineering Intern](https://careers-gdms.icims.com/jobs/75808/job?mobile=true&needsRedirect=false) - Middletown, RI _(Simplify)_
+- **Vital Lyfe**: [Software Engineer Intern](https://jobs.ashbyhq.com/vital-lyfe/5b5e7e6d-d59e-410b-9a7f-619717c3c942/application?embed=true) - Torrance, CA _(Simplify)_
+- **CareSource**: [Software Engineer Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136) - Remote in USA _(Simplify)_
+- **Cardinal Health**: [Technology Intern](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Technology-Internship--Summer-2027-_20189610-1) - Dublin, OH _(Simplify)_
+- **Atalanta**: [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/atalanta/732425ff-3461-49e6-9022-5b0cd732e6c1/application?embed=true) - Washington, DC _(Simplify)_
+- **Atalanta**: [Software Engineer Intern](https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335/application?embed=true) - Washington, DC _(Simplify)_
+- **Carlisle Companies**: [AI & Data Science Intern](https://jobs.smartrecruiters.com/Carlisle/3743990016774046) - Carlisle, PA _(Simplify)_
+- **CME Group**: [Software Engineering Fellow](https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Fellowship---Summer-2027_34824) - Chicago, IL _(Simplify)_
+
 ## Nov 12, 06:35 PM ET
 
 - **Muon Space**: [Software Engineer Intern - Information Systems](https://job-boards.greenhouse.io/muonspace/jobs/5293973007) - San Jose, CA _(Simplify)_
