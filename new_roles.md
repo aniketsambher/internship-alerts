@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 13, 06:05 AM ET
+
+- **Shield AI**: [Human Machine Teaming Intern](https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30/apply) - Washington, DC _(Simplify)_
+
 ## Nov 13, 03:05 AM ET
 
 - **Samsung**: [Compiler Engineer Intern](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003) - San Jose, CA _(Simplify)_
