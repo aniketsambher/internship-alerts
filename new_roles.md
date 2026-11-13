@@ -1,5 +1,16 @@
 # New internships, newest first
 
+## Nov 12, 10:05 PM ET
+
+- **Huawei**: [Researcher Intern - Multimodal AI & Interaction](https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-ai-interaction) - Markham, ON, Canada _(Simplify)_
+- **Huawei**: [Engineer Co-op - Openjiuwen AI Agent Platform](https://huaweicanada.recruitee.com/o/co-op-engineer-openjiuwen-ai-agent-platform) - Markham, ON, Canada _(Simplify)_
+- **Huawei**: [Engineer Co-op - Intelligent Real-Time Operating System](https://huaweicanada.recruitee.com/o/co-op-engineer-intelligent-real-time-operating-system) - Ottawa, ON, Canada _(Simplify)_
+- **Huawei**: [Engineer Distributed Agent System Co-op](https://huaweicanada.recruitee.com/o/co-op-engineer-distributed-agent-system-1) - Markham, ON, Canada _(Simplify)_
+- **Huawei**: [Software Engineer Co-op - AI Software Engineering](https://huaweicanada.recruitee.com/o/co-op-engineer-ai-software-engineering) - Markham, ON, Canada _(Simplify)_
+- **Huawei**: [Engineer Co-op - Compiler](https://huaweicanada.recruitee.com/o/co-op-engineer-compiler-7) - Markham, ON, Canada _(Simplify)_
+- **Huawei**: [Intern Engineer - Game Engine System](https://huaweicanada.recruitee.com/o/intern-engineer-game-engine-system) - Edmonton, AB, Canada _(Simplify)_
+- **Huawei**: [Engineer-Mobile AI Co-op](https://huaweicanada.recruitee.com/o/co-op-engineer-mobile-ai) - Markham, ON, Canada _(Simplify)_
+
 ## Nov 12, 07:05 PM ET
 
 - **Cintas**: [IT OT Software Engineer Intern](https://careers.cintas.com/job/Mason-IT-Intern-OT-Software-Engineer-OH-45040/1450367200/?ats=successfactors) - Mason, OH _(Simplify)_
