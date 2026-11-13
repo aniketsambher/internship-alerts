@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 13, 09:40 AM ET
+
+- **IBM**: [Applied AI Research Intern - R&D Internship – 2027 - YORKTOWN HEIGHTS](https://careers.ibm.com/careers/JobDetail?jobId=143000) - Yorktown Heights, US _(careers page)_
+
 ## Nov 13, 06:05 AM ET
 
 - **Shield AI**: [Human Machine Teaming Intern](https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30/apply) - Washington, DC _(Simplify)_
