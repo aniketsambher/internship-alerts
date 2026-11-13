@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 13, 03:05 AM ET
+
+- **Samsung**: [Compiler Engineer Intern](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003) - San Jose, CA _(Simplify)_
+- **Aurora Innovation**: [Software Engineer Intern - Vehicle Platforms](https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true) - Mountain View, CA _(Simplify)_
+
 ## Nov 12, 10:05 PM ET
 
 - **Huawei**: [Researcher Intern - Multimodal AI & Interaction](https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-ai-interaction) - Markham, ON, Canada _(Simplify)_
