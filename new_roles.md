@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 13, 02:05 PM ET
+
+- **CrowdStrike**: [Insider Risk Engineering Intern - Summer 2027](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Insider-Risk-Engineering-Intern---Summer-2027_R30718) - 3 Locations _(careers page)_
+
 ## Nov 13, 12:36 PM ET
 
 - **IBM**: [Software Developer Intern-Rochester, MN](https://careers.ibm.com/careers/JobDetail?jobId=130103) - ROCHESTER, US _(careers page)_
