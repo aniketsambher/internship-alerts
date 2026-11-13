@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 13, 10:36 AM ET
+
+- **Cantor Fitzgerald**: [Technology Summer Internship - Development](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250537) - London, UK _(Simplify)_
+- **Valeo**: [Software Engineer Intern](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794) - Troy, MI _(Simplify)_
+
 ## Nov 13, 09:40 AM ET
 
 - **IBM**: [Applied AI Research Intern - R&D Internship – 2027 - YORKTOWN HEIGHTS](https://careers.ibm.com/careers/JobDetail?jobId=143000) - Yorktown Heights, US _(careers page)_
