@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 14, 03:05 AM ET
+
+- **Carnegie Mellon University**: [Enabling Mission Capability at Scale Intern](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1) - Pittsburgh, PA _(Simplify)_
+
 ## Nov 13, 07:06 PM ET
 
 - **Microsoft**: [Research Intern - Microsoft Research Software-Hardware Co-design](https://apply.careers.microsoft.com/careers/job/1970393557073455) - Redmond, WA _(Simplify)_
