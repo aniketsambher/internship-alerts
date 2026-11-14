@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 14, 11:05 AM ET
+
+- **SAS**: [Software Developer Intern - Go/Golang Experience](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false) - Cary, NC _(Simplify)_
+- **Martin Marietta**: [Software Data Integration Engineer Intern](https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146) - Raleigh, NC _(Simplify)_
+- **Camping World**: [Software Engineer Intern](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080) - Chicago, IL _(Simplify)_
+
 ## Nov 14, 06:05 AM ET
 
 - **Shield AI**: [Engineer 1 New Grad - Software](https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true) - Arlington County, Arlington, VA _(Simplify)_
