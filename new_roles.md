@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 14, 05:35 AM ET
+
+- **Shield AI**: [Engineer 1 New Grad - Software](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true) - Arlington County, Arlington, VA _(Simplify)_
+
 ## Nov 14, 03:05 AM ET
 
 - **Carnegie Mellon University**: [Enabling Mission Capability at Scale Intern](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1) - Pittsburgh, PA _(Simplify)_
