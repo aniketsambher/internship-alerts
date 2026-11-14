@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 14, 06:35 PM ET
+
+- **USAA**: [Technology Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Technology-Intern_R0120133) - Plano, TX / San Antonio, TX / Phoenix, AZ _(Simplify)_
+
 ## Nov 14, 11:05 AM ET
 
 - **SAS**: [Software Developer Intern - Go/Golang Experience](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false) - Cary, NC _(Simplify)_
