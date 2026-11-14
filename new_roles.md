@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Nov 13, 07:06 PM ET
+
+- **Microsoft**: [Research Intern - Microsoft Research Software-Hardware Co-design](https://apply.careers.microsoft.com/careers/job/1970393557073455) - Redmond, WA _(Simplify)_
+- **NextEra Energy**: [Software Engineering Intern - Technical](https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors) - St Paul, MN _(Simplify)_
+- **Capital Group**: [Global Technology Summer Associate Intern](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Irvine/CAMPUS-Global-Technology-Summer-Associate--2027-_JR7798) - Irvine, CA _(Simplify)_
+- **TC Energy**: [Intelligent Operations Technology Intern](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Spokane-Washington/Intern--Intelligent-Operations-Technology_JR-10919) - Spokane, WA _(Simplify)_
+
 ## Nov 13, 06:35 PM ET
 
 - **FieldPulse**: [AI Intern](https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d) - Dallas, TX _(Simplify)_
