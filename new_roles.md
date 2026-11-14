@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 14, 06:05 AM ET
+
+- **Shield AI**: [Engineer 1 New Grad - Software](https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true) - Arlington County, Arlington, VA _(Simplify)_
+
 ## Nov 14, 05:35 AM ET
 
 - **Shield AI**: [Engineer 1 New Grad - Software](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true) - Arlington County, Arlington, VA _(Simplify)_
