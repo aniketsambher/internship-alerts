@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 15, 03:05 AM ET
+
+- **Blizzard Entertainment**: [Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350) - Irvine, CA _(Simplify)_
+- **Genesys**: [Web Software Developer Intern - WFM](https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3) - Toronto, ON, Canada _(Simplify)_
+
 ## Nov 14, 07:05 PM ET
 
 - **RTX**: [Software Engineering Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404) - Richardson, TX _(Simplify)_
