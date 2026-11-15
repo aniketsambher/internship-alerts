@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 15, 06:35 AM ET
+
+- **NCR Atleos**: [Software Engineer Intern](https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942) - Dundee, UK _(Simplify)_
+
 ## Nov 15, 03:05 AM ET
 
 - **Blizzard Entertainment**: [Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350) - Irvine, CA _(Simplify)_
