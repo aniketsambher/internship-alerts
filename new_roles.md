@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 15, 11:05 AM ET
+
+- **Carnegie Mellon University**: [Enabling Mission Capability at Scale Intern](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300) - Pittsburgh, PA _(Simplify)_
+
 ## Nov 15, 06:35 AM ET
 
 - **NCR Atleos**: [Software Engineer Intern](https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942) - Dundee, UK _(Simplify)_
