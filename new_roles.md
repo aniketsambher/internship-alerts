@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 14, 07:05 PM ET
+
+- **RTX**: [Software Engineering Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404) - Richardson, TX _(Simplify)_
+
 ## Nov 14, 06:35 PM ET
 
 - **USAA**: [Technology Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Technology-Intern_R0120133) - Plano, TX / San Antonio, TX / Phoenix, AZ _(Simplify)_
