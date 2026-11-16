@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 16, 07:55 AM ET
+
+- **Shopify**: [Applied Machine Learning Engineering Internships Summer 2027](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) _(careers page)_
+- **Shopify**: [Data Internships Summer 2027](https://www.shopify.com/careers/data-internships-summer-2027_33763bbb-341b-4d78-be50-4076570e5e95) _(careers page)_
+
 ## Nov 16, 05:40 AM ET
 
 - **Instil Software Ltd**: [Software Engineer Placement Intern](https://jobs.ashbyhq.com/instil/b1be07e8-60de-432c-82ff-6ffb220ce563/application?embed=true) - Belfast, UK _(Simplify)_
