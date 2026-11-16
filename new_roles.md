@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 16, 05:40 AM ET
+
+- **Instil Software Ltd**: [Software Engineer Placement Intern](https://jobs.ashbyhq.com/instil/b1be07e8-60de-432c-82ff-6ffb220ce563/application?embed=true) - Belfast, UK _(Simplify)_
+
 ## Nov 15, 11:05 AM ET
 
 - **Carnegie Mellon University**: [Enabling Mission Capability at Scale Intern](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300) - Pittsburgh, PA _(Simplify)_
