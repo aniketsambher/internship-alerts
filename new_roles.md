@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Nov 16, 06:35 PM ET
+
+- **Quest Analytics**: [Software Engineer Intern - C# - ASP.NET](https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply) - Overland Park, KS _(Simplify)_
+- **TikTok**: [Client Security & Data Foundation Machine Learning Engineer Intern](https://lifeattiktok.com/search/7708750900450134325) - San Jose, CA _(Simplify)_
+- **SAS**: [Optimization Intern](https://careers-sas.icims.com/jobs/42754/job?mobile=true&needsRedirect=false) - Cary, NC _(Simplify)_
+- **SRI International**: [Software Engineering/Full Stack Development Co-op](https://careers-sri.icims.com/jobs/6541/job?mobile=true&needsRedirect=false) - Princeton, NJ _(Simplify)_
+- **Keyrock**: [Innovation Quant Developer Intern - DeFi/Corporate Development](https://jobs.ashbyhq.com/keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd/application?embed=true) - London, UK / Brussels, Belgium _(Simplify)_
+
 ## Nov 16, 06:16 PM ET
 
 - **LinkedIn**: [Systems & Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA)](https://jobs.smartrecruiters.com/LinkedIn3/744000161930950) - Mountain View, CA, United States _(careers page)_
