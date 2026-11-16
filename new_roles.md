@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 16, 06:16 PM ET
+
+- **LinkedIn**: [Systems & Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA)](https://jobs.smartrecruiters.com/LinkedIn3/744000161930950) - Mountain View, CA, United States _(careers page)_
+
 ## Nov 16, 11:05 AM ET
 
 - **Boston Scientific**: [AI Acceleration Intern](https://bostonscientific.eightfold.ai/careers/job/563602813862390) - Marlborough, MA _(Simplify)_
