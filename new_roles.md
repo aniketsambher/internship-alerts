@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Nov 16, 11:05 AM ET
+
+- **Boston Scientific**: [AI Acceleration Intern](https://bostonscientific.eightfold.ai/careers/job/563602813862390) - Marlborough, MA _(Simplify)_
+- **Boston Scientific**: [AI Engineer Intern - Generative & Agentic AI](https://bostonscientific.eightfold.ai/careers/job/563602813827837) - Marlborough, MA / Maple Grove, MN / Arden Hills, MN _(Simplify)_
+- **Qualcomm**: [GPU Compiler Intern](https://qualcomm.eightfold.ai/careers/job/446722152489) - Cambridge, UK _(Simplify)_
+- **Shopify**: [Software Engineer Intern](https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a) - Montreal, QC, Canada / Toronto, ON, Canada / Ottawa, ON, Canada _(Simplify)_
+
 ## Nov 16, 07:55 AM ET
 
 - **Shopify**: [Applied Machine Learning Engineering Internships Summer 2027](https://www.shopify.com/careers/applied-machine-learning-engineering-internships-summer-2027_1d6b9bb9-a132-4ad9-b33f-3e55d2cfc536) _(careers page)_
