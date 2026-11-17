@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 17, 04:56 PM ET
+
+- **CrowdStrike**: [AI Research Launch Intern](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/AI-Research-Launch-Intern_R30599) - 4 Locations _(careers page)_
+
 ## Nov 17, 04:41 PM ET
 
 - **Oracle**: [OCI Intern Conversion - Undergrad Software Engineer Full-Time  - Nashville, TN - February 2027](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821) - Nashville, TN, United States _(careers page)_
