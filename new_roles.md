@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 17, 05:06 AM ET
+
+- **Terranova**: [AI Intern](https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942/application?embed=true) - Berkeley, CA _(Simplify)_
+
 ## Nov 17, 04:35 AM ET
 
 - **Remanence**: [Engineer Intern](https://jobs.ashbyhq.com/remanence/07fc4962-bf28-4255-a7d4-3f5d52a4c525/application?embed=true) - London, UK / Paris, France _(Simplify)_
