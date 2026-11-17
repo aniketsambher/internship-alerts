@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 17, 04:35 AM ET
+
+- **Remanence**: [Engineer Intern](https://jobs.ashbyhq.com/remanence/07fc4962-bf28-4255-a7d4-3f5d52a4c525/application?embed=true) - London, UK / Paris, France _(Simplify)_
+
 ## Nov 17, 03:05 AM ET
 
 - **Critical Environment Technologies**: [Computer Science Co-op](https://cetci.bamboohr.com/careers/92/) - Delta, BC, Canada _(Simplify)_
