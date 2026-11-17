@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 16, 10:06 PM ET
+
+- **Punchcut**: [Design Engineer Intern](https://punchcut.bamboohr.com/careers/65/) - SF _(Simplify)_
+- **Soros Fund Management**: [Trading Intern - Middle and Back Office Dev](https://job-boards.greenhouse.io/familyoffice/jobs/8202862003) - NYC _(Simplify)_
+
 ## Nov 16, 09:36 PM ET
 
 - **HexArmor**: [Software Engineer Intern](https://job-boards.greenhouse.io/hexarmor/jobs/8206200003) - Atlanta, GA _(Simplify)_
