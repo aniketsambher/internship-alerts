@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Nov 17, 02:35 AM ET
+
+- **ECM Tek**: [Developer Intern - Python Development](https://ecmtek.bamboohr.com/careers/51/) - Nashville, TN _(Simplify)_
+- **Birdseye Security Solutions**: [Software Developer Intern](https://birdseyeaccount.bamboohr.com/careers/286/) - Mississauga, ON, Canada _(Simplify)_
+- **IPConfigure**: [Software Development for Video Surveillance Software Intern](https://ipconfigure.bamboohr.com/careers/71/) - Norfolk, VA _(Simplify)_
+- **SecurityMetrics**: [Software Engineer Intern](https://securitymetrics.bamboohr.com/careers/215/) - Orem, UT _(Simplify)_
+
 ## Nov 16, 10:06 PM ET
 
 - **Punchcut**: [Design Engineer Intern](https://punchcut.bamboohr.com/careers/65/) - SF _(Simplify)_
