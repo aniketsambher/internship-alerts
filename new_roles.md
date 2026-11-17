@@ -1,5 +1,18 @@
 # New internships, newest first
 
+## Nov 16, 07:05 PM ET
+
+- **Bound**: [Engineering Intern](https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd) - Ames, IA _(Simplify)_
+- **ServiceNow**: [Associate Forward Deployed Solution Engineer Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161936128) - Santa Clara, CA / NYC _(Simplify)_
+- **ServiceNow**: [Forward Deployed Solution Engineer Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161936020) - Santa Clara, CA / NYC _(Simplify)_
+- **Forterra**: [Software Engineer Intern](https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395) - Winter Park, FL / Durham, NC / East Palo Alto, CA / Clarksburg, MD / Arlington County, Arlington, VA _(Simplify)_
+- **Minitab**: [Software Engineer Intern](https://job-boards.greenhouse.io/minitab/jobs/8200708003) - State College, PA _(Simplify)_
+- **JMP Statistical Discovery**: [JMP Core User Interface Team R&D Intern - Master's/PhD](https://jmp-sas.icims.com/jobs/47455/job?mobile=true&needsRedirect=false) - Cary, NC _(Simplify)_
+- **Atalanta**: [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/atalanta/f7625af9-5408-44bd-a707-7f4519ca41d8/application?embed=true) - Washington, DC _(Simplify)_
+- **Reliable Robotics**: [Displays Software Engineer Intern](https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9/application?embed=true) - Mountain View, CA _(Simplify)_
+- **Federal Home Loan Bank of Des Moines**: [IT Back Office Co-op](https://wd5.myworkdaysite.com/recruiting/vhr_fhlbdm/careers/job/Des-Moines/IT-Back-Office-Co-Op_REQ00697) - Des Moines, IA _(Simplify)_
+- **Federal Home Loan Bank of Des Moines**: [Application Development Co-op](https://wd5.myworkdaysite.com/recruiting/vhr_fhlbdm/careers/job/Des-Moines/Application-Development-Co-Op_REQ00683) - Des Moines, IA _(Simplify)_
+
 ## Nov 16, 06:35 PM ET
 
 - **Quest Analytics**: [Software Engineer Intern - C# - ASP.NET](https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply) - Overland Park, KS _(Simplify)_
