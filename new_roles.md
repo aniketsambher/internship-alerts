@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Nov 17, 06:36 PM ET
+
+- **Raptor Maps**: [Software Engineer Intern](https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a) - Somerville, MA _(Simplify)_
+- **Starwood Capital Group**: [Agentic Engineering Intern](https://jobs.jobvite.com/starwoodcapitalgroup/job/okzWAfw9?nl=1&nl=1&fr=false) - NYC _(Simplify)_
+- **Lean TECHniques**: [Software Engineer Intern](https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862/application?embed=true) - Johnston, IA _(Simplify)_
+- **Akuna Capital University**: [Software Engineer Intern - Python](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) - Chicago, IL _(Simplify)_
+
 ## Nov 17, 04:56 PM ET
 
 - **CrowdStrike**: [AI Research Launch Intern](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/AI-Research-Launch-Intern_R30599) - 4 Locations _(careers page)_
