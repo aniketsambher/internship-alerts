@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 17, 05:36 AM ET
+
+- **Sedaro**: [Software Engineer Intern](https://sedarotech.bamboohr.com/careers/97/) - Arlington County, Arlington, VA _(Simplify)_
+- **Sedaro**: [Compiler Intern - Simulator](https://sedarotech.bamboohr.com/careers/95/) - Arlington County, Arlington, VA _(Simplify)_
+
 ## Nov 17, 05:06 AM ET
 
 - **Terranova**: [AI Intern](https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942/application?embed=true) - Berkeley, CA _(Simplify)_
