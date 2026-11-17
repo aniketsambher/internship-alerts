@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 17, 10:35 AM ET
+
+- **Emerson Electric**: [Software Engineer Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013632) - Austin, TX _(Simplify)_
+- **Prometheus Group**: [Web Development Intern](https://prometheusgroup.bamboohr.com/careers/97/) - Raleigh, NC _(Simplify)_
+- **Robert Bosch Venture Capital**: [AI Application Intern](https://jobs.smartrecruiters.com/BoschGroup/744000162076254) - Farmington Hills, MI _(Simplify)_
+
 ## Nov 17, 06:05 AM ET
 
 - **FSP**: [Placement Software Developer Intern](https://fsp.bamboohr.com/careers/323/) - Glasgow, UK / Reading, UK _(Simplify)_
