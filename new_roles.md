@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 17, 04:41 PM ET
+
+- **Oracle**: [OCI Intern Conversion - Undergrad Software Engineer Full-Time  - Nashville, TN - February 2027](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821) - Nashville, TN, United States _(careers page)_
+
 ## Nov 17, 10:35 AM ET
 
 - **Emerson Electric**: [Software Engineer Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013632) - Austin, TX _(Simplify)_
