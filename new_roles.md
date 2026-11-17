@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 16, 09:36 PM ET
+
+- **HexArmor**: [Software Engineer Intern](https://job-boards.greenhouse.io/hexarmor/jobs/8206200003) - Atlanta, GA _(Simplify)_
+
 ## Nov 16, 07:05 PM ET
 
 - **Bound**: [Engineering Intern](https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd) - Ames, IA _(Simplify)_
