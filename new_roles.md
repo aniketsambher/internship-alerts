@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 17, 06:05 AM ET
+
+- **FSP**: [Placement Software Developer Intern](https://fsp.bamboohr.com/careers/323/) - Glasgow, UK / Reading, UK _(Simplify)_
+
 ## Nov 17, 05:36 AM ET
 
 - **Sedaro**: [Software Engineer Intern](https://sedarotech.bamboohr.com/careers/97/) - Arlington County, Arlington, VA _(Simplify)_
