@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 17, 03:05 AM ET
+
+- **Critical Environment Technologies**: [Computer Science Co-op](https://cetci.bamboohr.com/careers/92/) - Delta, BC, Canada _(Simplify)_
+
 ## Nov 17, 02:35 AM ET
 
 - **ECM Tek**: [Developer Intern - Python Development](https://ecmtek.bamboohr.com/careers/51/) - Nashville, TN _(Simplify)_
