@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 18, 06:35 PM ET
+
+- **Qualcomm**: [GPU Compiler Development Intern - Interim Engineering Intern - HW](https://qualcomm.eightfold.ai/careers/job/446722198182) - Markham, ON, Canada _(Simplify)_
+
 ## Nov 18, 12:26 PM ET
 
 - **CrowdStrike**: [Product Engineering Intern - Falcon Guardian](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Falcon-Guardian_R30622) - 2 Locations _(careers page)_
