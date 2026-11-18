@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 17, 09:35 PM ET
+
+- **Sallie Mae**: [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623) - Indianapolis, IN _(Simplify)_
+- **Sallie Mae**: [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633) - Indianapolis, IN _(Simplify)_
+
 ## Nov 17, 07:05 PM ET
 
 - **GEI Consultants**: [Web Developer Intern](https://jobs.jobvite.com/gei-consultants/job/ogR5zfwv?nl=1&nl=1&fr=false) - Rancho Cordova, CA _(Simplify)_
