@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 18, 10:36 AM ET
+
+- **Trainline**: [Engineer Intern](https://jobs.ashbyhq.com/trainline/b0174860-8a94-4bd3-a307-373eeab586dd/application?embed=true) - London, UK _(Simplify)_
+- **Cerence**: [Student Worker Intern](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0006047) - Remote in UK _(Simplify)_
+
 ## Nov 18, 02:35 AM ET
 
 - **SSI**: [Software Developer Co-op](https://ssicorporate.bamboohr.com/careers/101/) - Victoria, BC, Canada _(Simplify)_
