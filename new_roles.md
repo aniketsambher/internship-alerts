@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 18, 11:06 AM ET
+
+- **DriveWealth**: [AI Consulting Associate Program People Analytics Intern](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true) - Chicago, IL / NYC _(Simplify)_
+- **Sallie Mae**: [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000625) - Indianapolis, IN _(Simplify)_
+- **General Dynamics Information Technology**: [Engineering Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323) - Falls Church, VA / Gaithersburg, MD _(Simplify)_
+
 ## Nov 18, 10:36 AM ET
 
 - **Trainline**: [Engineer Intern](https://jobs.ashbyhq.com/trainline/b0174860-8a94-4bd3-a307-373eeab586dd/application?embed=true) - London, UK _(Simplify)_
