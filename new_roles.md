@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Nov 17, 07:05 PM ET
+
+- **GEI Consultants**: [Web Developer Intern](https://jobs.jobvite.com/gei-consultants/job/ogR5zfwv?nl=1&nl=1&fr=false) - Rancho Cordova, CA _(Simplify)_
+- **Constellation Energy**: [IT Software Developer Intern](https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us) - San Diego, CA _(Simplify)_
+- **Bissell**: [AI & Automation Intern](https://careers.bissell.com/jobs/9995?icims=1&lang=en-us) - Grand Rapids, MI _(Simplify)_
+- **SRI International**: [Software Engineering Co-op](https://careers-sri.icims.com/jobs/6540/job?mobile=true&needsRedirect=false) - Princeton, NJ _(Simplify)_
+- **Textron**: [Software Engineer Intern - Electronic Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688) - Hunt Valley, Cockeysville, MD _(Simplify)_
+
 ## Nov 17, 06:36 PM ET
 
 - **Raptor Maps**: [Software Engineer Intern](https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a) - Somerville, MA _(Simplify)_
