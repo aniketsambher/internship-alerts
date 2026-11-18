@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 18, 12:26 PM ET
+
+- **CrowdStrike**: [Product Engineering Intern - Falcon Guardian](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Falcon-Guardian_R30622) - 2 Locations _(careers page)_
+
 ## Nov 18, 11:06 AM ET
 
 - **DriveWealth**: [AI Consulting Associate Program People Analytics Intern](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true) - Chicago, IL / NYC _(Simplify)_
