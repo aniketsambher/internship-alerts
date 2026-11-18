@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 18, 02:35 AM ET
+
+- **SSI**: [Software Developer Co-op](https://ssicorporate.bamboohr.com/careers/101/) - Victoria, BC, Canada _(Simplify)_
+
 ## Nov 18, 12:01 AM ET
 
 - **Airbnb**: [Software Engineering Intern (BS/MS)](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) - San Francisco, California _(careers page)_
