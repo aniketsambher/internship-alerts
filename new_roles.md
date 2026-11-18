@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 18, 12:01 AM ET
+
+- **Airbnb**: [Software Engineering Intern (BS/MS)](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) - San Francisco, California _(careers page)_
+
 ## Nov 17, 09:35 PM ET
 
 - **Sallie Mae**: [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623) - Indianapolis, IN _(Simplify)_
