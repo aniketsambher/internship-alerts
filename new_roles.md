@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Nov 19, 06:35 PM ET
+
+- **Ralliant**: [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153) - Beaverton, OR _(Simplify)_
+- **Veolia**: [Manufacturing Software Engineer Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162593839) - Boulder, CO _(Simplify)_
+- **Horizon Trading Solutions**: [Java Developer Intern](https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011271101) - Montreal, QC, Canada _(Simplify)_
+- **Horizon Trading Solutions**: [Java Developer Intern](https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011266101) - Montreal, QC, Canada / Paris, France / Nantes, France / Rennes, France / Hong Kong _(Simplify)_
+
 ## Nov 19, 04:40 PM ET
 
 - **Snowflake**: [Software Engineer Intern (AI / ML) - Summer 2027](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907) - US-CA-Menlo Park _(careers page)_
