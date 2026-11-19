@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 19, 04:40 PM ET
+
+- **Snowflake**: [Software Engineer Intern (AI / ML) - Summer 2027](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907) - US-CA-Menlo Park _(careers page)_
+- **Snowflake**: [Software Engineer Intern (Database Engineering) - Summer 2027](https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d) - US-CA-Menlo Park _(careers page)_
+- **Snowflake**: [Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897) - US-CA-Menlo Park _(careers page)_
+
 ## Nov 19, 10:36 AM ET
 
 - **Space Dynamics Laboratory**: [Software Engineering Assistant Intern](https://spacedynamicslaboratory.applytojob.com/apply/qi2jNoCwKX/Student-Software-Engineering-Assistant) - Logan, UT _(Simplify)_
