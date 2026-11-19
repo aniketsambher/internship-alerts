@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 19, 10:36 AM ET
+
+- **Space Dynamics Laboratory**: [Software Engineering Assistant Intern](https://spacedynamicslaboratory.applytojob.com/apply/qi2jNoCwKX/Student-Software-Engineering-Assistant) - Logan, UT _(Simplify)_
+
 ## Nov 18, 09:35 PM ET
 
 - **Workstream**: [Full Stack Engineer Intern](https://job-boards.greenhouse.io/workstream/jobs/6265872004) - Vancouver, BC, Canada _(Simplify)_
