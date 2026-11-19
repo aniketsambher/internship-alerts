@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 18, 09:35 PM ET
+
+- **Workstream**: [Full Stack Engineer Intern](https://job-boards.greenhouse.io/workstream/jobs/6265872004) - Vancouver, BC, Canada _(Simplify)_
+- **Mytra**: [Software Engineer Intern](https://ats.rippling.com/mytra/jobs/5e479468-c622-4d2b-8789-89fbc14f3292) - Brisbane, CA _(Simplify)_
+
 ## Nov 18, 07:05 PM ET
 
 - **Goldman Sachs**: [Summer Analyst Intern - Multiple Teams](https://higher.gs.com/roles/189373?type=students) - Albany, NY _(Simplify)_
