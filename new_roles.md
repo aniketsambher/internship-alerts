@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 18, 07:05 PM ET
+
+- **Goldman Sachs**: [Summer Analyst Intern - Multiple Teams](https://higher.gs.com/roles/189373?type=students) - Albany, NY _(Simplify)_
+- **Roblox**: [Software Engineer Intern - Engine](https://careers.roblox.com/jobs/8386080?gh_jid=8386080) - Vancouver, BC, Canada _(Simplify)_
+- **Anduril**: [Business Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5300647007) - Costa Mesa, CA _(Simplify)_
+
 ## Nov 18, 06:35 PM ET
 
 - **Qualcomm**: [GPU Compiler Development Intern - Interim Engineering Intern - HW](https://qualcomm.eightfold.ai/careers/job/446722198182) - Markham, ON, Canada _(Simplify)_
