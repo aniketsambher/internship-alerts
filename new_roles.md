@@ -1,5 +1,14 @@
 # New internships, newest first
 
+## Nov 19, 07:05 PM ET
+
+- **Blue Cross Blue Shield of Michigan**: [Object Oriented Programming Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160) - Detroit, MI _(Simplify)_
+- **Meta**: [Research Scientist Intern - AI Agents for Autonomous Laboratories](https://www.metacareers.com/jobs/29481973694788756) - Redmond, WA _(Simplify)_
+- **Vertiv**: [AI Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620) - Westerville, OH / Fort Lauderdale, FL / Huntsville, AL _(Simplify)_
+- **Vertiv**: [AI Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621) - Westerville, OH / Fort Lauderdale, FL / Huntsville, AL _(Simplify)_
+- **Deliveroo**: [Software Engineer Intern](https://job-boards.greenhouse.io/deliveroo/jobs/8398982) - London, UK _(Simplify)_
+- **Amperity**: [Software Development Engineer Intern](https://amperity.com/careers?gh_jid=8393990#openpositions) - Seattle, WA _(Simplify)_
+
 ## Nov 19, 06:35 PM ET
 
 - **Ralliant**: [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153) - Beaverton, OR _(Simplify)_
@@ -1491,12 +1500,3 @@
 - **Baker Hughes**: [Software Engineer Intern](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R170942) - Cramlington, UK _(Simplify)_
 - **General Dynamics Information Technology**: [AI and Estimation Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646) - Falls Church, VA _(Simplify)_
 - **ICF International**: [Full-Stack Developer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570) - Remote in USA _(Simplify)_
-- **ICF International**: [Seasonal Associate Intern - Full Stack Developer](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603571) - Remote in USA _(Simplify)_
-- **Hitachi**: [Software Engineering Co-op](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733) - Greenville, SC _(Simplify)_
-- **Expedia Group**: [Mobile Engineer Intern](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545-1) - London, UK _(Simplify)_
-- **Expedia Group**: [Software Development Engineer Intern](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineering-Intern---2027---London_R-110551) - London, UK _(Simplify)_
-- **GeoSpectrum Technologies**: [Software Developer Co-op](https://geospectrum.bamboohr.com/careers/286/) - Dartmouth, NS, Canada _(Simplify)_
-- **Newell Brands**: [Sales AI & Analytics Developer Intern](https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors) - Huntersville, NC _(Simplify)_
-- **Waymo**: [Software Engineering Intern - Maneuvering Tech](https://careers.withwaymo.com/jobs?gh_jid=8203200) - SF _(Simplify)_
-- **Lunar Outpost**: [Ground Software Engineer Intern - Summer 2027](https://lunaroutpost.bamboohr.com/careers/398/) - Golden, CO _(Simplify)_
-
