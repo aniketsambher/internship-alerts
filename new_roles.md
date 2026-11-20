@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 19, 07:51 PM ET
+
+- **LinkedIn**: [AI/ML Engineer Intern – Generative AI, PhD – Summer 2027 (Mountain View, CA)](https://jobs.smartrecruiters.com/LinkedIn3/744000162623639) - Mountain View, CA, United States _(careers page)_
+
 ## Nov 19, 07:46 PM ET
 
 - **LinkedIn**: [AI/ML Engineer Intern – Search and Recommender Systems, PhD – Summer 2027 (Mountain View, CA)](https://jobs.smartrecruiters.com/LinkedIn3/744000162623368) - Mountain View, CA, United States _(careers page)_
@@ -1496,7 +1500,3 @@
 
 - **ManTech**: [AI Workflow Intern](https://mantech.avature.net/en_US/careers/JobDetail/66705) - Remote in USA / Stafford, VA _(Simplify)_
 - **Walrus**: [Full Stack Developer Intern](https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5/application?embed=true) - NYC _(Simplify)_
-- **NOX METALS**: [Factory Deployed Intern](https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true) - Detroit, MI _(Simplify)_
-- **John Deere**: [Software Engineer Student Intern - Product Engineering](https://johndeere.eightfold.ai/careers/job/137483990019) - Cary, NC _(Simplify)_
-- **Verisk**: [Software Engineer Intern](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4997) - Manchester, UK _(Simplify)_
-- **Aon**: [IT / AI Engineer Intern](https://jobs.aon.com/jobs/110099?icims=1) - Chicago, IL _(Simplify)_
