@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 19, 07:36 PM ET
+
+- **Ford Motor Company**: [Vehicle Access System Engineering Intern - Advanced EV](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74636) - Allen Park, MI _(Simplify)_
+
 ## Nov 19, 07:05 PM ET
 
 - **Blue Cross Blue Shield of Michigan**: [Object Oriented Programming Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160) - Detroit, MI _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **Anduril**: [Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007) - Ashville, OH / Costa Mesa, CA _(Simplify)_
 - **Zillow**: [Software Development Engineer Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630) - Seattle, WA / Remote in USA _(Simplify)_
 - **GlobalFoundries**: [Software Engineer Intern - Cloud Platform](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034) - Santa Clara, CA _(Simplify)_
-- **GlobalFoundries**: [Systems/Process Engineering Intern - Tapeout Operations](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924) - Malta, NY _(Simplify)_
-- **Baker Hughes**: [Software Engineer Intern](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R170942) - Cramlington, UK _(Simplify)_
-- **General Dynamics Information Technology**: [AI and Estimation Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646) - Falls Church, VA _(Simplify)_
-- **ICF International**: [Full-Stack Developer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570) - Remote in USA _(Simplify)_
