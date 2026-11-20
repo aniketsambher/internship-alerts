@@ -1,5 +1,17 @@
 # New internships, newest first
 
+## Nov 20, 03:05 AM ET
+
+- **CAS**: [Technology Intern - Software Engineering](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f9b67716-a1c1-489e-8c95-ed52ab2ca846) - Columbus, OH _(Simplify)_
+- **CAS**: [Technology Intern - Databases](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=8b5cdf5c-af19-431d-b135-9f2c62c4d002) - Columbus, OH _(Simplify)_
+- **CAS**: [Technology Intern - Application Technology](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=78caa2c6-394a-4c51-b7bd-224461099eda) - Columbus, OH _(Simplify)_
+- **CAS**: [Cheminformatics Scientist Intern](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=2225e962-d694-4585-a937-82c9c01b6337) - Columbus, OH _(Simplify)_
+- **iA**: [Software Development Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1) - Binghamton, NY _(Simplify)_
+- **Marias Technology**: [Software Developer Intern](https://mariastechnology.bamboohr.com/careers/27/) - Covington, OH _(Simplify)_
+- **Honeywell Aerospace**: [Software Engineer Intern](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119821) - United States _(Simplify)_
+- **Honeywell Aerospace**: [Software Engineer Intern](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119718) - United States _(Simplify)_
+- **Massey Services**: [Software Engineer Intern](https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR104566) - Orlando, FL _(Simplify)_
+
 ## Nov 20, 02:35 AM ET
 
 - **Melaleuca**: [Software Development Intern](https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf) - Idaho Falls, ID _(Simplify)_
@@ -1488,15 +1500,3 @@
 ## Oct 23, 09:35 AM ET
 
 - **LSEG**: [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389-1) - London, UK _(Simplify)_
-
-## Oct 23, 09:05 AM ET
-
-- **Aramco Americas**: [Research and Development Intern - Boston Research Center - 2027 Summer Student Program](https://aramcoservices.applytojob.com/apply/rnpFdnTdYb/Research-And-Development-Boston-Research-Center-2027-Summer-Student-Program) - Cambridge, MA _(Simplify)_
-
-## Oct 23, 08:35 AM ET
-
-- **Ernst & Young**: [Vector Capitalization Intern - Multiple Teams](https://eyglobal.yello.co/jobs/LBmQQDFgzrEW53QwXVMXLw?job_board_id=c1riT--B2O-KySgYWsZO1Q) - Houston, TX / Dallas, TX / Atlanta, GA _(Simplify)_
-
-## Oct 23, 08:05 AM ET
-
-- **JP Morgan Chase**: [Software Engineer Intern - Immersion Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813) - Glasgow, UK _(Simplify)_
