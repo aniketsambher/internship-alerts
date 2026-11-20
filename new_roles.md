@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 20, 02:35 AM ET
+
+- **Melaleuca**: [Software Development Intern](https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf) - Idaho Falls, ID _(Simplify)_
+
 ## Nov 19, 09:36 PM ET
 
 - **Pathlabs**: [Software and AI Engineer Intern](https://pathlabs.applytojob.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern) - Missoula, MT _(Simplify)_
@@ -1496,7 +1500,3 @@
 ## Oct 23, 08:05 AM ET
 
 - **JP Morgan Chase**: [Software Engineer Intern - Immersion Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813) - Glasgow, UK _(Simplify)_
-- **JP Morgan Chase**: [Software Engineer Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738) - London, UK / Glasgow, UK _(Simplify)_
-
-## Oct 23, 05:05 AM ET
-
