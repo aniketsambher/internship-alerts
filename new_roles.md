@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 19, 08:11 PM ET
+
+- **LinkedIn**: [AI/ML Engineer Intern, Master's - Summer 2027 (Mountain View, CA) ](https://jobs.smartrecruiters.com/LinkedIn3/744000162628808) - Mountain View, CA, United States _(careers page)_
+
 ## Nov 19, 07:51 PM ET
 
 - **LinkedIn**: [AI/ML Engineer Intern – Generative AI, PhD – Summer 2027 (Mountain View, CA)](https://jobs.smartrecruiters.com/LinkedIn3/744000162623639) - Mountain View, CA, United States _(careers page)_
@@ -1496,7 +1500,3 @@
 
 - **IBM**: [IBM Research/Research Software - Intern](https://careers.ibm.com/careers/JobDetail?jobId=137471) - Multiple Cities _(careers page)_
 
-## Oct 21, 08:45 PM ET (the batch of 24; 2 Goldman Sachs roles have since closed)
-
-- **ManTech**: [AI Workflow Intern](https://mantech.avature.net/en_US/careers/JobDetail/66705) - Remote in USA / Stafford, VA _(Simplify)_
-- **Walrus**: [Full Stack Developer Intern](https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5/application?embed=true) - NYC _(Simplify)_
