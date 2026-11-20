@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 20, 11:10 AM ET
+
+- **IBM**: [Software Developer Intern 2027 - Austin](https://careers.ibm.com/careers/JobDetail?jobId=133131) - Austin, US _(careers page)_
+
 ## Nov 20, 11:05 AM ET
 
 - **The SilverLogic**: [AI Engineer/Consultant Intern](https://silverlogic.bamboohr.com/careers/36/) - Boca Raton, FL _(Simplify)_
@@ -1495,8 +1499,4 @@
 - **CACI**: [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999) - Remote in USA / Sterling, VA / Denver, CO _(Simplify)_
 
 ## Oct 23, 10:31 AM ET
-
-- **IBM**: [Data Scientist Intern: 2027](https://careers.ibm.com/careers/JobDetail?jobId=138202) - Armonk, US _(careers page)_
-
-## Oct 23, 10:05 AM ET
 
