@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 20, 03:35 AM ET
+
+- **REXA**: [Software Engineer Intern](https://rexa.bamboohr.com/careers/134/) - Middleborough, MA _(Simplify)_
+
 ## Nov 20, 03:05 AM ET
 
 - **CAS**: [Technology Intern - Software Engineering](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f9b67716-a1c1-489e-8c95-ed52ab2ca846) - Columbus, OH _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **LSEG**: [Engineering Intern](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569) - NYC _(Simplify)_
 - **LSEG**: [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-2) - Boston, MA _(Simplify)_
 - **CoStar Group**: [Associate Software Engineer Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736) - Irvine, CA _(Simplify)_
-
-## Oct 23, 09:35 AM ET
-
-- **LSEG**: [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme_R0123389-1) - London, UK _(Simplify)_
