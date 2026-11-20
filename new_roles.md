@@ -1,5 +1,18 @@
 # New internships, newest first
 
+## Nov 20, 06:35 PM ET
+
+- **GCI**: [Software Developer Intern](https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=561ce011-a9e5-4635-b991-2c8abd3d88bf) - Virginia _(Simplify)_
+- **Southwest Power Pool**: [Operations Developer Intern](https://recruiting2.ultipro.com/SOU1052SPPI/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=51168e8a-cd42-4169-9c50-0019367a9d83) - Little Rock, AR _(Simplify)_
+- **Baltimore Aircoil Company**: [HRIS Intern](https://recruiting2.ultipro.com/AMS1003AMSII/JobBoard/15976ef7-7f1f-4b2f-8a0c-0e0ac1193dd8/OpportunityDetail?opportunityId=8cf02ccb-59d2-4585-a3d9-4aee8218f42f) - Jessup, MD _(Simplify)_
+- **Ralliant**: [Software Engineering Intern - AI Building](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324) - Beaverton, OR _(Simplify)_
+- **AFL**: [Web Design/Development Intern](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80) - Duncan, SC _(Simplify)_
+- **Apple**: [Software Engineer Intern - App Intelligence Experience](https://jobs.apple.com/en-us/details/200696199) - Cambridge, UK _(Simplify)_
+- **NOV**: [Forward Deployed Engineer Intern](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45321) - Houston, TX _(Simplify)_
+- **Encore**: [IT Application Development Intern - Summer 2027](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=542e34a6-1977-4fcb-a173-6f32705efcb8) - Schiller Park, IL _(Simplify)_
+- **Axon**: [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/8159006003) - London, UK _(Simplify)_
+- **DocuSign**: [Software Engineer Intern](https://careers.docusign.com/jobs/30480?icims=1) - Seattle, WA _(Simplify)_
+
 ## Nov 20, 11:15 AM ET
 
 - **IBM**: [QA/Test Developer ELH - Return Intern](https://careers.ibm.com/careers/JobDetail?jobId=141093) - Multiple Cities _(careers page)_
@@ -1487,16 +1500,3 @@
 
 ## Oct 23, 01:05 PM ET
 
-- **Adobe**: [AI & Architecture Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) - San Jose, CA _(Simplify)_
-
-## Oct 23, 12:35 PM ET
-
-- **Walgreens**: [Mobile App Developer Intern](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1950723) - Deerfield, IL _(Simplify)_
-
-## Oct 23, 10:35 AM ET
-
-- **Waymo**: [Depot Automation Intern](https://careers.withwaymo.com/jobs?gh_jid=8234553) - SF _(Simplify)_
-- **NatWest Group**: [Engineering Intern](https://rbs.wd3.myworkdayjobs.com/rbs/job/Manchester/Engineering----Internship_R-00285731) - Manchester, UK _(Simplify)_
-- **NatWest Group**: [Engineering Intern](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Engineering----Internship_R-00285734) - London, UK _(Simplify)_
-- **NatWest Group**: [Engineering Intern](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bristol/Engineering----Internship_R-00285732) - Bristol, UK _(Simplify)_
-- **Astranis**: [Software Developer Associate - Network Software](https://job-boards.greenhouse.io/astranis/jobs/4705617006) - SF _(Simplify)_
