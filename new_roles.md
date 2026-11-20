@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 19, 07:46 PM ET
+
+- **LinkedIn**: [AI/ML Engineer Intern – Search and Recommender Systems, PhD – Summer 2027 (Mountain View, CA)](https://jobs.smartrecruiters.com/LinkedIn3/744000162623368) - Mountain View, CA, United States _(careers page)_
+
 ## Nov 19, 07:36 PM ET
 
 - **Ford Motor Company**: [Vehicle Access System Engineering Intern - Advanced EV](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74636) - Allen Park, MI _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **John Deere**: [Software Engineer Student Intern - Product Engineering](https://johndeere.eightfold.ai/careers/job/137483990019) - Cary, NC _(Simplify)_
 - **Verisk**: [Software Engineer Intern](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4997) - Manchester, UK _(Simplify)_
 - **Aon**: [IT / AI Engineer Intern](https://jobs.aon.com/jobs/110099?icims=1) - Chicago, IL _(Simplify)_
-- **Metalenz**: [Camera Software Intern](https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6/application?embed=true) - Boston, MA _(Simplify)_
-- **Anduril**: [Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007) - Ashville, OH / Costa Mesa, CA _(Simplify)_
-- **Zillow**: [Software Development Engineer Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630) - Seattle, WA / Remote in USA _(Simplify)_
-- **GlobalFoundries**: [Software Engineer Intern - Cloud Platform](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034) - Santa Clara, CA _(Simplify)_
