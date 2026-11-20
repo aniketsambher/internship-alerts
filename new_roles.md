@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 20, 11:15 AM ET
+
+- **IBM**: [QA/Test Developer ELH - Return Intern](https://careers.ibm.com/careers/JobDetail?jobId=141093) - Multiple Cities _(careers page)_
+- **IBM**: [Manufacturing Quality Engineer Intern](https://careers.ibm.com/careers/JobDetail?jobId=145318) - POUGHKEEPSIE, US _(careers page)_
+
 ## Nov 20, 11:10 AM ET
 
 - **IBM**: [Software Developer Intern 2027 - Austin](https://careers.ibm.com/careers/JobDetail?jobId=133131) - Austin, US _(careers page)_
@@ -1495,8 +1500,3 @@
 - **NatWest Group**: [Engineering Intern](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Engineering----Internship_R-00285734) - London, UK _(Simplify)_
 - **NatWest Group**: [Engineering Intern](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bristol/Engineering----Internship_R-00285732) - Bristol, UK _(Simplify)_
 - **Astranis**: [Software Developer Associate - Network Software](https://job-boards.greenhouse.io/astranis/jobs/4705617006) - SF _(Simplify)_
-- **Synchrony Financial**: [Digital Technology Center Intern](https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661) - Stamford, CT _(Simplify)_
-- **CACI**: [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999) - Remote in USA / Sterling, VA / Denver, CO _(Simplify)_
-
-## Oct 23, 10:31 AM ET
-
