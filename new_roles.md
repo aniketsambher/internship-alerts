@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 19, 09:36 PM ET
+
+- **Pathlabs**: [Software and AI Engineer Intern](https://pathlabs.applytojob.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern) - Missoula, MT _(Simplify)_
+- **Lucid Motors**: [Infotainment Software Intern](https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007) - Newark, CA _(Simplify)_
+- **Formlabs**: [API & Automation Intern](https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855) - Somerville, MA _(Simplify)_
+
 ## Nov 19, 08:11 PM ET
 
 - **LinkedIn**: [AI/ML Engineer Intern, Master's - Summer 2027 (Mountain View, CA) ](https://jobs.smartrecruiters.com/LinkedIn3/744000162628808) - Mountain View, CA, United States _(careers page)_
@@ -1493,10 +1499,4 @@
 - **JP Morgan Chase**: [Software Engineer Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738) - London, UK / Glasgow, UK _(Simplify)_
 
 ## Oct 23, 05:05 AM ET
-
-- **Appian**: [Software Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8041237) - McLean, VA _(Simplify)_
-
-## Oct 23, 01:30 AM ET
-
-- **IBM**: [IBM Research/Research Software - Intern](https://careers.ibm.com/careers/JobDetail?jobId=137471) - Multiple Cities _(careers page)_
 
