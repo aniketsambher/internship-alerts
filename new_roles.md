@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 20, 10:35 AM ET
+
+- **Symbotic**: [Software Engineer Intern - Front-End](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1) - Austin, TX _(Simplify)_
+
 ## Nov 20, 03:35 AM ET
 
 - **REXA**: [Software Engineer Intern](https://rexa.bamboohr.com/careers/134/) - Middleborough, MA _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **CAE**: [Software Developer Intern - Operating System Image & Configuration](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-055---Dveloppeur-Logiciel--Systme-d-exploitation---Configuration--_123657-1) - Montreal, QC, Canada _(Simplify)_
 - **ACI Worldwide**: [Technology Intern](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19943) - Norcross, GA _(Simplify)_
 - **LSEG**: [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-1) - Boston, MA _(Simplify)_
-- **LSEG**: [Engineering Intern](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569-1) - NYC _(Simplify)_
-- **LSEG**: [Engineering Intern](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569) - NYC _(Simplify)_
-- **LSEG**: [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-2) - Boston, MA _(Simplify)_
-- **CoStar Group**: [Associate Software Engineer Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736) - Irvine, CA _(Simplify)_
