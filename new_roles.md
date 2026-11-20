@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 20, 11:05 AM ET
+
+- **The SilverLogic**: [AI Engineer/Consultant Intern](https://silverlogic.bamboohr.com/careers/36/) - Boca Raton, FL _(Simplify)_
+
 ## Nov 20, 10:35 AM ET
 
 - **Symbotic**: [Software Engineer Intern - Front-End](https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1) - Austin, TX _(Simplify)_
@@ -1496,7 +1500,3 @@
 
 ## Oct 23, 10:05 AM ET
 
-- **Macy's**: [Summer Internship - Technology](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92293) - Johns Creek, GA _(Simplify)_
-- **CAE**: [Software Developer Intern - Operating System Image & Configuration](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-055---Dveloppeur-Logiciel--Systme-d-exploitation---Configuration--_123657-1) - Montreal, QC, Canada _(Simplify)_
-- **ACI Worldwide**: [Technology Intern](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19943) - Norcross, GA _(Simplify)_
-- **LSEG**: [Engineering Intern - Multiple Teams](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-1) - Boston, MA _(Simplify)_
