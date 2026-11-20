@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 20, 06:45 PM ET
+
+- **IBM**: [Intern Data Scientist 2027 – AI & Data Analytics](https://careers.ibm.com/careers/JobDetail?jobId=128613) - Dallas, US _(careers page)_
+
 ## Nov 20, 06:35 PM ET
 
 - **GCI**: [Software Developer Intern](https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=561ce011-a9e5-4635-b991-2c8abd3d88bf) - Virginia _(Simplify)_
@@ -1496,7 +1500,3 @@
 ## Oct 23, 01:35 PM ET
 
 - **MongoDB**: [Software Engineer Intern](https://www.mongodb.com/careers/job/?gh_jid=8209134) - Palo Alto, CA / Seattle, WA / SF / Austin, TX / NYC _(Simplify)_
-- **Citi**: [Technology Placement Analyst Intern - Application Development](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology---Application-Development--Placement-Analyst--Belfast-2027_261002927) - Belfast, UK _(Simplify)_
-
-## Oct 23, 01:05 PM ET
-
