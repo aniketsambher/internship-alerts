@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 21, 05:05 AM ET
+
+- **Trajectory**: [Member of Technical Staff Generalist Engineer Intern](https://jobs.ashbyhq.com/trajectory/ceee0ea0-195d-4c58-8b57-4013c81e373c/application?embed=true) - SF _(Simplify)_
+
 ## Nov 21, 03:05 AM ET
 
 - **Convverge**: [Junior Developer Co-op](https://convverge.bamboohr.com/careers/31/) - Calgary, AB, Canada _(Simplify)_
@@ -1496,7 +1500,3 @@
 ## Oct 23, 10:05 PM ET
 
 - **Goldman Sachs**: [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/171553?type=students) - Dallas, TX _(Simplify)_
-
-## Oct 23, 09:35 PM ET
-
-- **Aptiv**: [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693010) - Kanata, Ottawa, ON, Canada _(Simplify)_
