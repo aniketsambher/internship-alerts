@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 21, 10:35 AM ET
+
+- **Woodward Governor**: [AI Intern](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291) - Niles, IL / Fort Collins, CO _(Simplify)_
+
 ## Nov 21, 05:05 AM ET
 
 - **Trajectory**: [Member of Technical Staff Generalist Engineer Intern](https://jobs.ashbyhq.com/trajectory/ceee0ea0-195d-4c58-8b57-4013c81e373c/application?embed=true) - SF _(Simplify)_
@@ -1496,7 +1500,3 @@
 ## Oct 24, 05:05 AM ET
 
 - **KRAFTON**: [UI Programming Intern](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002) - Montreal, QC, Canada _(Simplify)_
-
-## Oct 23, 10:05 PM ET
-
-- **Goldman Sachs**: [Summer Analyst Intern - Engineering](https://higher.gs.com/roles/171553?type=students) - Dallas, TX _(Simplify)_
