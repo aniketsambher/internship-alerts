@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 21, 11:05 AM ET
+
+- **Cadence Design Systems**: [Software Engineer Intern - Circuit Simulation infrastructure](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254) - San Jose, CA _(Simplify)_
+- **Ribbon**: [Software Developer Co-op - Common Cloud Services](https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Quebec-Montreal/Software-Developer---Common-Cloud-Services--Co-Op-_REQ-2026-3079) - Canada _(Simplify)_
+- **Delta Dental**: [Application Development Intern](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR101534) - Okemos, MI _(Simplify)_
+
 ## Nov 21, 10:35 AM ET
 
 - **Woodward Governor**: [AI Intern](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291) - Niles, IL / Fort Collins, CO _(Simplify)_
@@ -1494,9 +1500,3 @@
 - **Leidos**: [Business Systems AI Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327) - Remote in USA _(Simplify)_
 
 ## Oct 24, 06:05 AM ET
-
-- **Electronic Arts**: [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251) - Orlando, FL _(Simplify)_
-
-## Oct 24, 05:05 AM ET
-
-- **KRAFTON**: [UI Programming Intern](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002) - Montreal, QC, Canada _(Simplify)_
