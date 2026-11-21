@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 21, 03:05 AM ET
+
+- **Convverge**: [Junior Developer Co-op](https://convverge.bamboohr.com/careers/31/) - Calgary, AB, Canada _(Simplify)_
+
 ## Nov 20, 10:05 PM ET
 
 - **Gorbel**: [Front-End Web Developer Co-op](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1) - Victor, NY _(Simplify)_
@@ -1496,7 +1500,3 @@
 ## Oct 23, 09:35 PM ET
 
 - **Aptiv**: [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693010) - Kanata, Ottawa, ON, Canada _(Simplify)_
-- **Sardine**: [Engineering Intern](https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application?embed=true) - Remote in USA / Remote in Canada _(Simplify)_
-
-## Oct 23, 07:05 PM ET
-
