@@ -1,5 +1,24 @@
 # New internships, newest first
 
+## Nov 20, 07:05 PM ET
+
+- **Bennett Thrasher**: [IT AI & Automation Intern](https://btcpa.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2/OpportunityDetail?opportunityId=4d519358-fb57-46be-8018-838c26e1bf4a) - Atlanta, GA _(Simplify)_
+- **Pason Systems**: [Software Developer Intern - Datahub](https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8) - Calgary, AB, Canada _(Simplify)_
+- **TCOM**: [Software Engineer Intern](https://recruiting.ultipro.com/TCO1001TCOM/JobBoard/74e57e92-4355-44d7-8471-3c6eecfda9ef/OpportunityDetail?opportunityId=e8df2c4d-5bfd-4b2c-9dc2-d1f4713497f5) - Sioux Falls, SD _(Simplify)_
+- **Qualcomm**: [Software Systems Engineer Intern - Systems Engineering Team - Data Center Group](https://qualcomm.eightfold.ai/careers/job/446722247294) - Cambridge, UK _(Simplify)_
+- **EP Wealth Advisors**: [Data AI Engineer Intern](https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b/apply) - Austin, TX / Torrance, CA _(Simplify)_
+- **VT Industries**: [Software Development Intern](https://vtindustries.rec.pro.ukg.net/VTI1500VTIN/JobBoard/674339ab-9285-4ba2-80bd-aa3503cae1b2/OpportunityDetail?opportunityId=c6ed6034-a946-447b-bc0f-46cf40fe4367) - Holstein, IA _(Simplify)_
+- **Werner Electric Supply**: [AI Intern](https://recruiting2.ultipro.com/WER1000WERE/JobBoard/9cc9fbca-288f-4c69-99d7-b81d31b89844/OpportunityDetail?opportunityId=48ee1836-bd71-4533-a83a-a5170a0e984d) - Appleton, WI _(Simplify)_
+- **HME**: [Development Intern](https://hmeukg.rec.pro.ukg.net/HME1500HMEN/JobBoard/616b8ff0-9933-405d-9892-26f121d3a657/OpportunityDetail?opportunityId=85e04b3e-3362-406f-8d3e-b46fe7b5590f) - St-Bruno-de-Montarville, QC, Canada _(Simplify)_
+- **Applied Research Associates**: [Software Engineer Intern](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=0e5ea52f-9c4b-45f8-9a60-86678d8e3fd8) - Baton Rouge, LA _(Simplify)_
+- **Mesirow**: [Software Developer Intern - IT](https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=fff73393-2657-4159-86d3-5a04f5767214) - Chicago, IL _(Simplify)_
+- **Southern Farm Bureau Life Insurance**: [Applications Development Co-op](https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=c3ad5eba-757e-447a-957b-a5ab8fb34c7b) - Jackson, MS _(Simplify)_
+- **Calamos Investments**: [Information Technology Research Development Intern](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=8ba1e4ff-1ee1-46ab-b93f-9a4e4b6eb487) - Naperville, IL _(Simplify)_
+- **Calamos Investments**: [IT Architecture & Sales Systems Intern](https://recruiting2.ultipro.com/cal1001cala/JobBoard/46b96419-fba6-4dd0-a5fa-715bdfcf845b/OpportunityDetail?opportunityId=d9cbb719-b68a-42b7-b40d-d8bf44caec64) - Naperville, IL _(Simplify)_
+- **ServiceNow**: [Security Software Engineer Intern](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) - Kirkland, WA _(Simplify)_
+- **Method**: [Engineering Resident Intern](https://job-boards.greenhouse.io/method/jobs/8208724003) - Remote in USA / Santa Clara, CA / Charlotte, NC / NYC / Remote in Canada _(Simplify)_
+- **SAS**: [Quantum Research & Development Intern](https://careers-sas.icims.com/jobs/42752/job?mobile=true&needsRedirect=false) - Cary, NC _(Simplify)_
+
 ## Nov 20, 06:45 PM ET
 
 - **IBM**: [Intern Data Scientist 2027 – AI & Data Analytics](https://careers.ibm.com/careers/JobDetail?jobId=128613) - Dallas, US _(careers page)_
@@ -1481,22 +1500,3 @@
 - **Citi**: [Technology Summer Analyst Intern - Application Development](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288) - Irving, TX _(Simplify)_
 - **Citi**: [Technology Summer Analyst Intern - Application Development](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395) - Tampa, FL _(Simplify)_
 
-## Oct 23, 06:35 PM ET
-
-- **American Express**: [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552) - Toronto, ON, Canada _(Simplify)_
-- **Amazon**: [Software Engineer Intern](https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) - Redmond, WA _(Simplify)_
-- **Multiply Labs**: [Software Intern](https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b/apply) - SF _(Simplify)_
-- **Epic Games**: [Tools Programmer Intern - Graphics](https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004) - Cary, NC _(Simplify)_
-- **KLA**: [Software Engineer Intern - AI/ML for Diagnostics & Calibration](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1) - Milpitas, CA _(Simplify)_
-- **KLA Corporation**: [Software Engineer Intern - AI/ML for Diagnostics & Calibration](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129) - Milpitas, CA _(Simplify)_
-- **KLA Corporation**: [Software Engineer Intern - C++ - Linux](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878) - Milpitas, CA _(Simplify)_
-- **TELUS Digital**: [Software Engineering Intern Co-op](https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application?embed=true) - Vancouver, BC, Canada _(Simplify)_
-- **American Family Insurance Group**: [AI Platform Engineering Intern](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462) - Madison, WI _(Simplify)_
-- **Copart**: [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111861) - Dallas, TX _(Simplify)_
-- **Thales**: [Tools and Process Development Intern](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-en-dveloppement-outils---processus-outill_R0343987-1) - Montreal, QC, Canada _(Simplify)_
-- **Sun Life**: [Software Engineer Co-op](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Software-Engineer--Winter-2027-_JR00127612) - Waterloo, ON, Canada _(Simplify)_
-- **Goldman Sachs**: [Summer Analyst Intern - Americas - Engineering](https://higher.gs.com/roles/171565?type=students) - Salt Lake City, UT _(Simplify)_
-
-## Oct 23, 01:35 PM ET
-
-- **MongoDB**: [Software Engineer Intern](https://www.mongodb.com/careers/job/?gh_jid=8209134) - Palo Alto, CA / Seattle, WA / SF / Austin, TX / NYC _(Simplify)_
