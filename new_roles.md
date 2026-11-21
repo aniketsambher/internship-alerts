@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 20, 09:35 PM ET
+
+- **Lucid Motors**: [ADAS Platform Tools Intern](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) - Newark, CA _(Simplify)_
+
 ## Nov 20, 07:35 PM ET
 
 - **Acuity Insurance**: [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217) - Remote in USA / Sheboygan, WI _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **Siemens**: [Python Backend Developer Intern - Energy Flexibility Platform](https://siemens.avature.net/en_US/externaljobs/JobDetail/526984) - Princeton, NJ _(Simplify)_
 - **Linkup**: [Member of Technical Staff Intern](https://jobs.ashbyhq.com/linkup/d6bc7da0-9b4e-47d1-bd2c-de6ef71e8bff/application?embed=true) - NYC _(Simplify)_
 - **Carrier Global**: [Software Engineer Intern](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588) - East Syracuse, NY _(Simplify)_
-- **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineering-Intern---Summer-2027-_01884375) - Cedar Rapids, IA _(Simplify)_
-- **Citi**: [Technology Summer Analyst Intern - Application Development](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378) - Jersey City, NJ / NYC _(Simplify)_
-- **Citi**: [Technology Analyst Intern - Application Development](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301) - Mississauga, ON, Canada _(Simplify)_
-- **Citi**: [Technology Analyst Intern - Application Development](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418) - Jacksonville, FL _(Simplify)_
