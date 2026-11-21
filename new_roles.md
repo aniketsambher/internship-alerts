@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 20, 10:05 PM ET
+
+- **Gorbel**: [Front-End Web Developer Co-op](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1) - Victor, NY _(Simplify)_
+
 ## Nov 20, 09:35 PM ET
 
 - **Lucid Motors**: [ADAS Platform Tools Intern](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) - Newark, CA _(Simplify)_
@@ -1496,7 +1500,3 @@
 
 ## Oct 23, 07:05 PM ET
 
-- **Microsoft**: [Software Engineer Intern - Security & Identity](https://apply.careers.microsoft.com/careers/job/1970393557044771) - United States _(Simplify)_
-- **Siemens**: [Python Backend Developer Intern - Energy Flexibility Platform](https://siemens.avature.net/en_US/externaljobs/JobDetail/526984) - Princeton, NJ _(Simplify)_
-- **Linkup**: [Member of Technical Staff Intern](https://jobs.ashbyhq.com/linkup/d6bc7da0-9b4e-47d1-bd2c-de6ef71e8bff/application?embed=true) - NYC _(Simplify)_
-- **Carrier Global**: [Software Engineer Intern](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588) - East Syracuse, NY _(Simplify)_
