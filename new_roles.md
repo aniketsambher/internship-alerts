@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 20, 07:35 PM ET
+
+- **Acuity Insurance**: [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217) - Remote in USA / Sheboygan, WI _(Simplify)_
+
 ## Nov 20, 07:05 PM ET
 
 - **Bennett Thrasher**: [IT AI & Automation Intern](https://btcpa.rec.pro.ukg.net/BEN1022BTLL/JobBoard/702a70c1-c1f7-4971-8626-bb99571a35a2/OpportunityDetail?opportunityId=4d519358-fb57-46be-8018-838c26e1bf4a) - Atlanta, GA _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **Citi**: [Technology Summer Analyst Intern - Application Development](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378) - Jersey City, NJ / NYC _(Simplify)_
 - **Citi**: [Technology Analyst Intern - Application Development](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301) - Mississauga, ON, Canada _(Simplify)_
 - **Citi**: [Technology Analyst Intern - Application Development](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418) - Jacksonville, FL _(Simplify)_
-- **Citi**: [Technology Summer Analyst Intern - Production Support](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Production-Support--Summer-Analyst--Tampa---USA--2027_261003298) - Tampa, FL _(Simplify)_
-- **Citi**: [Technology Summer Analyst Intern - Application Development](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288) - Irving, TX _(Simplify)_
-- **Citi**: [Technology Summer Analyst Intern - Application Development](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395) - Tampa, FL _(Simplify)_
-
