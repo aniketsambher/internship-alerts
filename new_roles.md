@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 21, 07:35 PM ET
+
+- **NVIDIA**: [Technical Marketing Engineer Intern - Digital Biology and Scientific Computing](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793) - Santa Clara, CA _(Simplify)_
+
 ## Nov 21, 07:05 PM ET
 
 - **Lumentum**: [SW Developer Support Intern - Program Management Office](https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729) - San Jose, CA _(Simplify)_
@@ -1496,7 +1500,3 @@
 ## Oct 24, 07:35 AM ET
 
 - **Aptiv**: [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704357) - Kanata, Ottawa, ON, Canada _(Simplify)_
-
-## Oct 24, 07:05 AM ET
-
-- **Aptiv**: [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704367) - Kanata, Ottawa, ON, Canada _(Simplify)_
