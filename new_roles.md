@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 22, 06:05 AM ET
+
+- **AMD**: [BIOS Engineering Co-op](https://careers.amd.com/jobs/90475?icims=1&lang=en-us) - Austin, TX _(Simplify)_
+
 ## Nov 21, 07:35 PM ET
 
 - **NVIDIA**: [Technical Marketing Engineer Intern - Digital Biology and Scientific Computing](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793) - Santa Clara, CA _(Simplify)_
@@ -1496,7 +1500,3 @@
 
 - **Aptiv**: [Cloud Software Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704365) - Kanata, Ottawa, ON, Canada _(Simplify)_
 - **Aptiv**: [Cloud Software Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704364) - Kanata, Ottawa, ON, Canada _(Simplify)_
-
-## Oct 24, 07:35 AM ET
-
-- **Aptiv**: [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704357) - Kanata, Ottawa, ON, Canada _(Simplify)_
