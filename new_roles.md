@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 22, 10:35 AM ET
+
+- **Western Governors University**: [Technical Intern](https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Intern---Technical_JR-026525) - Salt Lake City, UT _(Simplify)_
+
 ## Nov 22, 06:05 AM ET
 
 - **AMD**: [BIOS Engineering Co-op](https://careers.amd.com/jobs/90475?icims=1&lang=en-us) - Austin, TX _(Simplify)_
@@ -1496,7 +1500,3 @@
 
 - **Vigil Labs**: [Software Engineer Intern](https://simplify.jobs/p/4712ce89-b48c-4c1c-9db2-5b03917f8bb2) - Palo Alto, CA _(Simplify)_
 
-## Oct 24, 08:05 AM ET
-
-- **Aptiv**: [Cloud Software Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704365) - Kanata, Ottawa, ON, Canada _(Simplify)_
-- **Aptiv**: [Cloud Software Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704364) - Kanata, Ottawa, ON, Canada _(Simplify)_
