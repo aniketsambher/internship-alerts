@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 23, 11:05 AM ET
+
+- **APEX Analytix**: [Software Engineer Intern - Platform Tooling](https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19) - Greensboro, NC _(Simplify)_
+
 ## Nov 23, 10:35 AM ET
 
 - **Benchling**: [Software Engineer Intern](https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?embed=true) - SF _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **Highmark Health**: [Software Engineer Undergraduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J290027) - Pennsylvania _(Simplify)_
 - **Highmark Health**: [Software Engineer Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812) - Pennsylvania _(Simplify)_
 - **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202) - Calgary, AB, Canada _(Simplify)_
-- **HCSC**: [Product Engineer Intern](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Product-Engineering-Developer-Intern_R0059492) - Chicago, IL / Richardson, TX _(Simplify)_
-- **ICF International**: [Software Developer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002) - Reston, VA _(Simplify)_
-
-## Oct 26, 04:30 PM ET
