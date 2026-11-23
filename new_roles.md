@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 23, 03:05 AM ET
+
+- **First Resonance**: [Software Engineer Intern - Platform](https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true) - LA _(Simplify)_
+
 ## Nov 22, 10:35 PM ET
 
 - **Artefact**: [AI Engineer Intern](https://job-boards.greenhouse.io/artefactnoram/jobs/8958076002) - NYC _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **IBM**: [Software Engineering Intern - Quantum Information Science 2027](https://careers.ibm.com/careers/JobDetail?jobId=137674) - Multiple Cities _(careers page)_
 
 ## Oct 26, 11:05 AM ET
-
-- **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114-1) - Toronto, ON, Canada _(Simplify)_
-- **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199) - Vancouver, BC, Canada _(Simplify)_
-- **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1) - Calgary, AB, Canada _(Simplify)_
