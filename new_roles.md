@@ -1,5 +1,14 @@
 # New internships, newest first
 
+## Nov 23, 06:35 PM ET
+
+- **John Deere**: [Simulation Engineering Student Intern - Product Engineering](https://johndeere.eightfold.ai/careers/job/137484510505) - Urbandale, IA _(Simplify)_
+- **Amazon**: [Software Development Engineer Intern - Artificial General Intelligence](https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027) - Boston, MA / Seattle, WA / Bellevue, WA / Sunnyvale, CA _(Simplify)_
+- **Blueprint AI (Mental Health)**: [Product Engineering Intern](https://apply.workable.com/blueprint-health/j/6C902886A5/apply) - Remote in USA _(Simplify)_
+- **CornerStone Partners**: [AI and Automation Intern](https://csptest2025.applytojob.com/apply/zkjZABQZka/AI-And-Automation-Intern-Summer-2027) - Charlottesville, VA _(Simplify)_
+- **Lifeway**: [Front-End Engineer Intern](https://hq-lifeway.icims.com/jobs/27216/job?mobile=true&needsRedirect=false) - Nashville, TN / Remote in USA _(Simplify)_
+- **Lifeway**: [Software Engineer Intern - Full Stack - Back-End](https://hq-lifeway.icims.com/jobs/27217/job?mobile=true&needsRedirect=false) - Remote in USA _(Simplify)_
+
 ## Nov 23, 03:45 PM ET
 
 - **IBM**: [Back-End Developer Intern 2027 -Tucson, AZ](https://careers.ibm.com/careers/JobDetail?jobId=131072) - TUCSON, US _(careers page)_
@@ -1491,12 +1500,3 @@
 - **Booz Allen**: [Software Developer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274) - Lexington, MA _(Simplify)_
 - **Booz Allen**: [Summer Games Software Developer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Software-Developer-Intern---Royal-Oaks--MI_R0252340) - Detroit, MI _(Simplify)_
 
-## Oct 26, 06:35 PM ET
-
-- **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000187114) - Toronto, ON, Canada _(Simplify)_
-- **Amazon**: [Software Developer Intern - Machine Learning](https://amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk) - United Kingdom _(Simplify)_
-- **Parallel Systems**: [Software Engineer Intern - Multiple Teams](https://boards.greenhouse.io/parallel/jobs/5275690007) - LA _(Simplify)_
-- **Hive Financial Systems**: [Software Engineer Intern](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007) - Atlanta, GA _(Simplify)_
-- **Wise**: [Software Engineer Intern](https://jobs.smartrecruiters.com/Wise/744000157817979) - London, UK _(Simplify)_
-- **Nexstar**: [Programming Intern](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/FL-Tampa/Unpaid-Programming-Intern_REQ-43464) - Tampa, FL _(Simplify)_
-- **Northrop Grumman**: [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656) - Beavercreek, OH _(Simplify)_
