@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 22, 09:35 PM ET
+
+- **Sierra Space**: [Software Engineering Intern - Software Engineering](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1) - Madison, WI / Centennial, CO / Durham, NC / Louisville, CO / Broomfield, CO _(Simplify)_
+
 ## Nov 22, 07:05 PM ET
 
 - **Sallie Mae**: [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Software-Engineering-Intern_R26_000688) - Newark, DE _(Simplify)_
@@ -1496,7 +1500,3 @@
 
 - **PTC**: [Software Engineer Intern](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943) - Boston, MA _(Simplify)_
 - **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2) - Vancouver, BC, Canada _(Simplify)_
-- **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196) - Halifax Regional Municipality, NS, Canada _(Simplify)_
-- **Tencent**: [Game UI Intern - AI Focus](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Game-UI---Tools-Intern--AI-Focus-_R108251) - London, UK _(Simplify)_
-
-## Oct 26, 10:30 AM ET
