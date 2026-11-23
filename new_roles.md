@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 22, 07:05 PM ET
+
+- **Sallie Mae**: [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Software-Engineering-Intern_R26_000688) - Newark, DE _(Simplify)_
+
 ## Nov 22, 11:35 AM ET
 
 - **Allegion**: [Software Engineer Intern - Software Engineering](https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795) - Golden, CO _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **Tencent**: [Game UI Intern - AI Focus](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Game-UI---Tools-Intern--AI-Focus-_R108251) - London, UK _(Simplify)_
 
 ## Oct 26, 10:30 AM ET
-
-- **IBM**: [Back End Developer Intern 2027 - Poughkeepsie](https://careers.ibm.com/careers/JobDetail?jobId=129781) - POUGHKEEPSIE, US _(careers page)_
-- **IBM**: [Back End Developer Intern 2027 - RTP](https://careers.ibm.com/careers/JobDetail?jobId=129782) - Multiple Cities _(careers page)_
-
