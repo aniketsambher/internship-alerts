@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 23, 12:00 PM ET
+
+- **CrowdStrike**: [Product Engineering Intern - Threat Detection](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Threat-Detection_R30621) - 2 Locations _(careers page)_
+
 ## Nov 23, 11:05 AM ET
 
 - **APEX Analytix**: [Software Engineer Intern - Platform Tooling](https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19) - Greensboro, NC _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **Highmark Health**: [Applied Gen AI/Data Scientist Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007) - New Mexico / Washington / Kansas / Pennsylvania / North Dakota / Oregon / Delaware / Iowa / California / Washington, DC / Vermont / Wyoming / Connecticut / Texas / Montana / Florida / New Hampshire / Nevada / South Carolina / South Dakota / Georgia / Arizona / Mississippi / Tennessee / Virginia / Arkansas / Minnesota / Colorado / Nebraska / Rhode Island / Utah / Kentucky / West Virginia / NYC / Maryland / Hawaii / Wisconsin / Maine / Massachusetts / North Carolina / Oklahoma / Missouri / Ohio / New Jersey / Indiana / Louisiana / Alaska / Michigan / Illinois / Alabama / Idaho _(Simplify)_
 - **Highmark Health**: [Provider Delivery Software Engineer Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026) - Remote in USA _(Simplify)_
 - **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193) - Toronto, ON, Canada _(Simplify)_
-- **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206) - Montreal, QC, Canada _(Simplify)_
-- **Highmark Health**: [Software Engineer Undergraduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J290027) - Pennsylvania _(Simplify)_
-- **Highmark Health**: [Software Engineer Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812) - Pennsylvania _(Simplify)_
-- **Royal Bank of Canada**: [Developer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202) - Calgary, AB, Canada _(Simplify)_
