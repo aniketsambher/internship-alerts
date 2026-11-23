@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 23, 10:35 AM ET
+
+- **Benchling**: [Software Engineer Intern](https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099/application?embed=true) - SF _(Simplify)_
+
 ## Nov 23, 03:05 AM ET
 
 - **First Resonance**: [Software Engineer Intern - Platform](https://jobs.ashbyhq.com/first-resonance/0c88b508-432d-442d-aa5f-486e08aaf5a7/application?embed=true) - LA _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **ICF International**: [Software Developer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002) - Reston, VA _(Simplify)_
 
 ## Oct 26, 04:30 PM ET
-
-- **IBM**: [Software Engineering Intern - Quantum Information Science 2027](https://careers.ibm.com/careers/JobDetail?jobId=137674) - Multiple Cities _(careers page)_
-
-## Oct 26, 11:05 AM ET
