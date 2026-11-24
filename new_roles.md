@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 24, 03:05 AM ET
+
+- **Esri**: [Software Engineer Intern](https://job-boards.greenhouse.io/studentprogram/jobs/5286753007) - St. Louis, MO _(Simplify)_
+- **Esri**: [Software Engineer Intern](https://job-boards.greenhouse.io/studentprogram/jobs/5246038007) - Cardiff, UK _(Simplify)_
+- **Esri**: [Software Development Engineer Intern](https://job-boards.greenhouse.io/studentprogram/jobs/5217883007) - Redlands, CA _(Simplify)_
+
 ## Nov 24, 02:35 AM ET
 
 - **Veolia**: [Manufacturing Software Engineer Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969) - Boulder, CO _(Simplify)_
@@ -1494,9 +1500,3 @@
 - **Aurora Innovation**: [Core Autonomy Software Intern - C++](https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12/application?embed=true) - Pittsburgh, PA / Mountain View, CA _(Simplify)_
 - **Aurora Innovation**: [Simulation Engineering Intern](https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd/application?embed=true) - SF / Mountain View, CA _(Simplify)_
 - **Aurora Innovation**: [Full Stack Engineer Intern](https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true) - Pittsburgh, PA / Mountain View, CA _(Simplify)_
-- **GE Vernova**: [Project Engineer Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-2) - Bellevue, WA _(Simplify)_
-
-## Oct 26, 09:35 PM ET
-
-- **Altera**: [Software Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Intern_R03382) - Toronto, ON, Canada _(Simplify)_
-- **Niantic Spatial**: [Software Engineer Intern - Native SDK & Mobile Platforms](https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43/application?embed=true) - SF _(Simplify)_
