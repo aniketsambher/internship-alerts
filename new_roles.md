@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 24, 05:35 AM ET
+
+- **ISO New England**: [Operations Process Automation Developer Intern](https://job-boards.greenhouse.io/studentinternships/jobs/4455610009) - Holyoke, MA _(Simplify)_
+- **ISO New England**: [Market Analysis Tool Intern - Market Analysis Tool](https://job-boards.greenhouse.io/studentinternships/jobs/4456528009) - Holyoke, MA _(Simplify)_
+- **John Deere**: [Application Engineering Intern - JDPS Application Engineering - Product Engineering](https://johndeere.eightfold.ai/careers/job/137483157846) - Waterloo, IA _(Simplify)_
+
 ## Nov 24, 03:05 AM ET
 
 - **Esri**: [Software Engineer Intern](https://job-boards.greenhouse.io/studentprogram/jobs/5286753007) - St. Louis, MO _(Simplify)_
@@ -1494,9 +1500,3 @@
 
 - **IBM**: [Intern Software Engineer / Agent Engineer - EDA - Poughkeepsie 2027](https://careers.ibm.com/careers/JobDetail?jobId=130716) - POUGHKEEPSIE, US _(careers page)_
 
-## Oct 26, 10:05 PM ET
-
-- **Aurora Innovation**: [AI Engineer Intern](https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c/application?embed=true) - Seattle, WA / Pittsburgh, PA / Mountain View, CA _(Simplify)_
-- **Aurora Innovation**: [Core Autonomy Software Intern - C++](https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12/application?embed=true) - Pittsburgh, PA / Mountain View, CA _(Simplify)_
-- **Aurora Innovation**: [Simulation Engineering Intern](https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd/application?embed=true) - SF / Mountain View, CA _(Simplify)_
-- **Aurora Innovation**: [Full Stack Engineer Intern](https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true) - Pittsburgh, PA / Mountain View, CA _(Simplify)_
