@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Nov 23, 07:05 PM ET
+
+- **Illinois Tool Works**: [Software or Computer Engineer Intern](https://careers.itw.com/global/en/job/JR11356) - Fairmont, MN _(Simplify)_
+- **Runna**: [AI Engineer Intern](https://jobs.ashbyhq.com/runna/59bd8bad-51db-4ac3-b557-ff65b6dbb56f/application?embed=true) - London, UK _(Simplify)_
+- **Runna**: [Full Stack Engineer Intern - Growth](https://jobs.ashbyhq.com/runna/0ec22638-34d3-405f-b8d4-418bd9db21a1/application?embed=true) - London, UK _(Simplify)_
+- **Runna**: [Full Stack Engineer Intern - Core App](https://jobs.ashbyhq.com/runna/3639d900-9433-4e57-b9f8-ad74340c4bad/application?embed=true) - London, UK _(Simplify)_
+- **Shield AI**: [Software Engineering Intern](https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503/application?embed=true) - Dallas, TX _(Simplify)_
+
 ## Nov 23, 06:35 PM ET
 
 - **John Deere**: [Simulation Engineering Student Intern - Product Engineering](https://johndeere.eightfold.ai/careers/job/137484510505) - Urbandale, IA _(Simplify)_
@@ -1492,11 +1500,3 @@
 - **SOTI**: [Software Developer Intern - Android](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620) - Mississauga, ON, Canada _(Simplify)_
 - **SOTI**: [Software Developer Intern - Server](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647) - Mississauga, ON, Canada _(Simplify)_
 - **Booz Allen**: [Software Developer Intern - University - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345) - Dayton, OH _(Simplify)_
-- **Booz Allen**: [Software Developer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games-Software-Developer-Intern---Albuquerque--NM_R0252335) - Albuquerque, NM _(Simplify)_
-- **Booz Allen**: [Systems Engineer Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games--Systems-Engineer-Intern---Royal-Oaks--MI_R0252341) - Detroit, MI _(Simplify)_
-- **Booz Allen**: [Systems Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games--Systems-Engineer-Intern---Dayton--OH_R0252342) - Dayton, OH _(Simplify)_
-- **Booz Allen**: [Summer Games Systems Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273) - Lexington, MA _(Simplify)_
-- **Booz Allen**: [Systems Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games--Systems-Engineer-Intern---Albuquerque--NM_R0252337) - Albuquerque, NM _(Simplify)_
-- **Booz Allen**: [Software Developer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274) - Lexington, MA _(Simplify)_
-- **Booz Allen**: [Summer Games Software Developer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Software-Developer-Intern---Royal-Oaks--MI_R0252340) - Detroit, MI _(Simplify)_
-
