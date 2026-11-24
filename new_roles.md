@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 24, 06:35 PM ET
+
+- **Amazon**: [Front-End Engineer Intern](https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us) - Seattle, WA / Chicago, IL / Bellevue, WA _(Simplify)_
+
 ## Nov 24, 11:35 AM ET
 
 - **RF-SMART**: [Software Developer Intern](https://job-boards.greenhouse.io/rfsmart/jobs/5446867008) - Highlands Ranch, CO / Jacksonville, FL _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1) - Austin, TX _(Simplify)_
 - **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1) - Austin, TX _(Simplify)_
 - **Visa**: [Sophomore Program Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1) - Ashburn, VA _(Simplify)_
-- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2) - Bellevue, WA _(Simplify)_
-- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1) - Foster City, CA _(Simplify)_
-- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1) - Foster City, CA _(Simplify)_
-
