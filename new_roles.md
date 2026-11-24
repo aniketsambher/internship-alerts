@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 23, 10:05 PM ET
+
+- **Illumio**: [Engineering Intern - Architecture Platform](https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true) - Sunnyvale, CA _(Simplify)_
+- **Illumio**: [Security Platforms Engineer Intern - Security Platforms](https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45/application?embed=true) - Sunnyvale, CA _(Simplify)_
+
 ## Nov 23, 07:35 PM ET
 
 - **Strava**: [Software Engineer Intern - Server - Next Sports](https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9/application?embed=true) - SF _(Simplify)_
@@ -1495,8 +1500,3 @@
 - **GE Vernova**: [Project Engineer Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-1) - Bellevue, WA _(Simplify)_
 - **LPL Financial Holdings**: [Software Engineer Intern](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921) - Austin, TX / Fort Mill, SC / Charlotte, NC _(Simplify)_
 
-## Oct 26, 07:30 PM ET
-
-- **IBM**: [Firmware Developer Intern - Poughkeepsie - 2027](https://careers.ibm.com/careers/JobDetail?jobId=129907) - POUGHKEEPSIE, US _(careers page)_
-
-## Oct 26, 07:05 PM ET
