@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 24, 11:05 AM ET
+
+- **BEUMER Group**: [AI Development Intern](https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739) - Somerset County, NJ _(Simplify)_
+
 ## Nov 24, 10:35 AM ET
 
 - **iCapital Network**: [SI and Annuities Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8958714002) - NYC _(Simplify)_
@@ -1496,7 +1500,3 @@
 
 - **Mayo Clinic**: [Graduate Engineer Intern - Software Development](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190) - Rochester, MN _(Simplify)_
 - **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W) - Ashburn, VA _(Simplify)_
-- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W) - Austin, TX _(Simplify)_
-- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W) - Austin, TX _(Simplify)_
-- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W) - Foster City, CA _(Simplify)_
-- **NVIDIA**: [Software Engineer Intern - AI Agents and Backend Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939) - Bristol, UK / Belfast, UK / Remote in UK / Reading, UK _(Simplify)_
