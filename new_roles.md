@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Nov 23, 07:35 PM ET
+
+- **Strava**: [Software Engineer Intern - Server - Next Sports](https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9/application?embed=true) - SF _(Simplify)_
+- **Strava**: [Software Engineer Intern - Server - User Lifecycle](https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a/application?embed=true) - SF _(Simplify)_
+- **Strava**: [Software Engineer Intern - Server - Comms](https://jobs.ashbyhq.com/Strava/96968b02-dde9-4e0d-b6a8-d2363f550126/application?embed=true) - SF _(Simplify)_
+- **Strava**: [Software Engineer Intern - Android - Subscriptions](https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c/application?embed=true) - SF _(Simplify)_
+
 ## Nov 23, 07:05 PM ET
 
 - **Illinois Tool Works**: [Software or Computer Engineer Intern](https://careers.itw.com/global/en/job/JR11356) - Fairmont, MN _(Simplify)_
@@ -1493,10 +1500,3 @@
 - **IBM**: [Firmware Developer Intern - Poughkeepsie - 2027](https://careers.ibm.com/careers/JobDetail?jobId=129907) - POUGHKEEPSIE, US _(careers page)_
 
 ## Oct 26, 07:05 PM ET
-
-- **Space Dynamics Laboratory**: [Software Engineer Intern](https://spacedynamicslaboratory.applytojob.com/apply/Xb4whC202X/Student-Software-Engineer) - Logan, UT _(Simplify)_
-- **Cohesity**: [Software Engineer Intern](https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2) - Santa Clara, CA _(Simplify)_
-- **Hiya**: [Engineer Intern](https://jobs.ashbyhq.com/hiya/046212dd-41e3-46e7-a8ba-48cff5a7f947/application?embed=true) - London, UK _(Simplify)_
-- **SOTI**: [Software Developer Intern - Android](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620) - Mississauga, ON, Canada _(Simplify)_
-- **SOTI**: [Software Developer Intern - Server](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647) - Mississauga, ON, Canada _(Simplify)_
-- **Booz Allen**: [Software Developer Intern - University - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345) - Dayton, OH _(Simplify)_
