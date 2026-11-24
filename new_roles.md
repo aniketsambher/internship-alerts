@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 24, 11:35 AM ET
+
+- **RF-SMART**: [Software Developer Intern](https://job-boards.greenhouse.io/rfsmart/jobs/5446867008) - Highlands Ranch, CO / Jacksonville, FL _(Simplify)_
+
 ## Nov 24, 11:05 AM ET
 
 - **BEUMER Group**: [AI Development Intern](https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739) - Somerset County, NJ _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1) - Foster City, CA _(Simplify)_
 - **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1) - Foster City, CA _(Simplify)_
 
-## Oct 27, 10:35 AM ET
-
-- **Mayo Clinic**: [Graduate Engineer Intern - Software Development](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190) - Rochester, MN _(Simplify)_
-- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W) - Ashburn, VA _(Simplify)_
