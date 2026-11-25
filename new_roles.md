@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 24, 08:35 PM ET
+
+- **QinetiQ**: [Software Engineer Intern](https://careers-qinetiqus.icims.com/jobs/12880/job?mobile=true&needsRedirect=false) - Fort Belvoir, VA _(Simplify)_
+
 ## Nov 24, 06:35 PM ET
 
 - **Amazon**: [Front-End Engineer Intern](https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us) - Seattle, WA / Chicago, IL / Bellevue, WA _(Simplify)_
@@ -1496,7 +1500,3 @@
 
 - **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01885074) - Cedar Rapids, IA _(Simplify)_
 - **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1) - Ashburn, VA _(Simplify)_
-- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1) - Denver, CO _(Simplify)_
-- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1) - Austin, TX _(Simplify)_
-- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1) - Austin, TX _(Simplify)_
-- **Visa**: [Sophomore Program Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1) - Ashburn, VA _(Simplify)_
