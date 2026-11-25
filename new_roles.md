@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 25, 10:35 AM ET
+
+- **Waters**: [IT Digital Intern](https://uscareers-waters.icims.com/jobs/30387/job?mobile=true&needsRedirect=false) - Milford, MA _(Simplify)_
+
 ## Nov 25, 06:05 AM ET
 
 - **Artefact**: [AI Builder Intern](https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002) - NYC _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **Keysight Technologies**: [Application Development Intern](https://jobs.keysight.com/jobs/55157?icims=1) - Santa Rosa, CA _(Simplify)_
 - **Salesforce**: [Forward Deployed Engineer Intern - Global Public Sector](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1) - Arkansas / Ohio _(Simplify)_
 - **Micron Technology**: [Product Yield Enhancement Software Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864) - Boise, ID _(Simplify)_
-- **ASML**: [Imaging Product Engineer Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Imaging-product-engineer_J-00355220) - San Jose, CA _(Simplify)_
-- **ASML**: [Frontend Developer Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852) - San Jose, CA _(Simplify)_
-- **Northrop Grumman**: [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803) - Colorado Springs, CO _(Simplify)_
-- **Northrop Grumman**: [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798) - Boulder, CO _(Simplify)_
