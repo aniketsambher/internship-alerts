@@ -1,5 +1,16 @@
 # New internships, newest first
 
+## Nov 24, 10:05 PM ET
+
+- **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414430) - Raleigh, NC _(Simplify)_
+- **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414440) - Raleigh, NC _(Simplify)_
+- **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414426) - Raleigh, NC _(Simplify)_
+- **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414436) - Raleigh, NC _(Simplify)_
+- **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414444) - Raleigh, NC _(Simplify)_
+- **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414452) - Raleigh, NC _(Simplify)_
+- **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414448) - Raleigh, NC _(Simplify)_
+- **SambaNova Systems**: [Runtime Engineer Intern](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004) - Austin, TX / San Jose, CA _(Simplify)_
+
 ## Nov 24, 08:35 PM ET
 
 - **QinetiQ**: [Software Engineer Intern](https://careers-qinetiqus.icims.com/jobs/12880/job?mobile=true&needsRedirect=false) - Fort Belvoir, VA _(Simplify)_
@@ -1489,14 +1500,3 @@
 - **Sikich**: [Intelligence Transformation Intern](https://jobs.jobvite.com/sikichcareers/job/oGOPAfwD?nl=1&nl=1&fr=false) - Remote in USA _(Simplify)_
 
 ## Oct 27, 04:35 PM ET
-
-- **IBM**: [Software and Go-To-Market Strategy Summer Intern](https://careers.ibm.com/careers/JobDetail?jobId=138967) - Cambridge, US _(careers page)_
-
-## Oct 27, 04:30 PM ET
-
-- **IBM**: [QA/Test Engineer Intern-Tucson, AZ](https://careers.ibm.com/careers/JobDetail?jobId=130074) - TUCSON, US _(careers page)_
-
-## Oct 27, 11:06 AM ET
-
-- **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01885074) - Cedar Rapids, IA _(Simplify)_
-- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1) - Ashburn, VA _(Simplify)_
