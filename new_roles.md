@@ -1,5 +1,13 @@
 # New internships, newest first
 
+## Nov 25, 06:35 PM ET
+
+- **ManTech**: [C++ Developer Intern](https://mantech.avature.net/en_US/careers/JobDetail/67268) - Lexington Park, MD _(Simplify)_
+- **Staples**: [Full Stack Software Engineer Intern](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145) - Austin, TX _(Simplify)_
+- **Tecsys**: [Developer Intern](https://apply.workable.com/tecsys/j/B6D2B7128A/apply) - Montreal, QC, Canada _(Simplify)_
+- **Cantor Fitzgerald**: [Technology Summer Intern - Development](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250630) - NYC _(Simplify)_
+- **Starkey**: [Software Engineer Intern](https://recruiting2.ultipro.com/sta1003stark/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=dffb5d69-1f21-45e3-8929-c8a4746e349a) - Eden Prairie, MN _(Simplify)_
+
 ## Nov 25, 10:35 AM ET
 
 - **Waters**: [IT Digital Intern](https://uscareers-waters.icims.com/jobs/30387/job?mobile=true&needsRedirect=false) - Milford, MA _(Simplify)_
@@ -1492,11 +1500,3 @@
 - **Great American Insurance Company**: [Data Application Engineer Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Application-Development-Intern---Summer-2027_R9796) - Cincinnati, OH _(Simplify)_
 - **Salesforce**: [Forward Deployed Engineer Intern - Global Public Sector](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026) - Arkansas / Ohio _(Simplify)_
 
-## Oct 27, 06:35 PM ET
-
-- **Emerson Electric**: [Software Engineer Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010630) - Austin, TX _(Simplify)_
-- **Commonwealth Fusion Systems**: [Scientific Software Engineer Intern](https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619/apply) - Devens, MA _(Simplify)_
-- **Amazon**: [Database Engineer Intern](https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027) - Seattle, WA / East Palo Alto, CA _(Simplify)_
-- **Keysight Technologies**: [Application Development Intern](https://jobs.keysight.com/jobs/55157?icims=1) - Santa Rosa, CA _(Simplify)_
-- **Salesforce**: [Forward Deployed Engineer Intern - Global Public Sector](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1) - Arkansas / Ohio _(Simplify)_
-- **Micron Technology**: [Product Yield Enhancement Software Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864) - Boise, ID _(Simplify)_
