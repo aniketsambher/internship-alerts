@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 25, 06:05 AM ET
+
+- **Artefact**: [AI Builder Intern](https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002) - NYC _(Simplify)_
+- **Artefact**: [AI Builder Intern](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002) - NYC _(Simplify)_
+
 ## Nov 24, 10:05 PM ET
 
 - **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414430) - Raleigh, NC _(Simplify)_
@@ -1495,8 +1500,3 @@
 - **ASML**: [Frontend Developer Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852) - San Jose, CA _(Simplify)_
 - **Northrop Grumman**: [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803) - Colorado Springs, CO _(Simplify)_
 - **Northrop Grumman**: [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798) - Boulder, CO _(Simplify)_
-- **Northrop Grumman**: [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903) - Azusa, CA _(Simplify)_
-- **Texas Instruments**: [Web Marketing Intern - Front-end Developer](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753) - Dallas, TX _(Simplify)_
-- **Sikich**: [Intelligence Transformation Intern](https://jobs.jobvite.com/sikichcareers/job/oGOPAfwD?nl=1&nl=1&fr=false) - Remote in USA _(Simplify)_
-
-## Oct 27, 04:35 PM ET
