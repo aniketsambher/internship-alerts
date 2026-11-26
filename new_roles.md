@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 25, 11:05 PM ET
+
+- **Blizzard Entertainment**: [Tech Art Intern](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383) - Irvine, CA _(Simplify)_
+
 ## Nov 25, 09:35 PM ET
 
 - **OpenSesame**: [Software Engineer Intern](https://boards.greenhouse.io/opensesame/jobs/8418272) - Remote in USA _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **Relling**: [Robotics Software Engineer Intern](https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e/application?embed=true) - SF _(Simplify)_
 
 ## Oct 27, 09:35 PM ET
-
-- **FUTO**: [Software Engineer Intern](https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply) - Austin, TX _(Simplify)_
-- **Paccar**: [Application Developer Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors) - Chillicothe, OH _(Simplify)_
-- **Integrate**: [Software Engineer Intern](https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application?embed=true) - Seattle, WA _(Simplify)_
