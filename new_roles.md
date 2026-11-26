@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 25, 09:35 PM ET
+
+- **OpenSesame**: [Software Engineer Intern](https://boards.greenhouse.io/opensesame/jobs/8418272) - Remote in USA _(Simplify)_
+
 ## Nov 25, 07:05 PM ET
 
 - **Total Quality Logistics**: [Software Development Intern](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19763) - Cincinnati, OH _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **FUTO**: [Software Engineer Intern](https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply) - Austin, TX _(Simplify)_
 - **Paccar**: [Application Developer Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors) - Chillicothe, OH _(Simplify)_
 - **Integrate**: [Software Engineer Intern](https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application?embed=true) - Seattle, WA _(Simplify)_
-- **Powertown**: [Machine Learning Engineer Intern](https://jobs.ashbyhq.com/powertown/754a7189-5505-459d-a7d3-dda2e0eaf38b/application?embed=true) - Boston, MA _(Simplify)_
-- **Powertown**: [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/powertown/642bc3ac-1d1f-400a-975e-a80e745f277b/application?embed=true) - Boston, MA _(Simplify)_
-- **Old Mission**: [Software Engineer Intern](https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6/application?embed=true) - Chicago, IL _(Simplify)_
-
