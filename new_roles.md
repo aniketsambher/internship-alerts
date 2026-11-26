@@ -1,5 +1,15 @@
 # New internships, newest first
 
+## Nov 25, 07:05 PM ET
+
+- **Total Quality Logistics**: [Software Development Intern](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19763) - Cincinnati, OH _(Simplify)_
+- **Best Egg**: [Software Engineer Intern](https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392/apply) - Wilmington, DE _(Simplify)_
+- **Veeva Systems**: [Software Engineer Intern](https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply) - Pleasanton, CA _(Simplify)_
+- **Veeva Systems**: [Software Engineer Intern](https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2/apply) - Boston, MA _(Simplify)_
+- **Apex**: [Software Engineering Operating Systems Intern](https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application?embed=true) - LA _(Simplify)_
+- **Xona Space Systems**: [Software Engineer Intern - Engineering Productivity](https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab/application?embed=true) - Burlingame, CA _(Simplify)_
+- **CodeRabbit**: [Software Engineer Intern](https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9/application?embed=true) - SF _(Simplify)_
+
 ## Nov 25, 06:35 PM ET
 
 - **ManTech**: [C++ Developer Intern](https://mantech.avature.net/en_US/careers/JobDetail/67268) - Lexington Park, MD _(Simplify)_
@@ -1489,14 +1499,4 @@
 - **Powertown**: [Machine Learning Engineer Intern](https://jobs.ashbyhq.com/powertown/754a7189-5505-459d-a7d3-dda2e0eaf38b/application?embed=true) - Boston, MA _(Simplify)_
 - **Powertown**: [Forward Deployed Engineer Intern](https://jobs.ashbyhq.com/powertown/642bc3ac-1d1f-400a-975e-a80e745f277b/application?embed=true) - Boston, MA _(Simplify)_
 - **Old Mission**: [Software Engineer Intern](https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6/application?embed=true) - Chicago, IL _(Simplify)_
-
-## Oct 27, 07:05 PM ET
-
-- **Uber**: [Software Engineer Intern](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178) - Toronto, ON, Canada _(Simplify)_
-- **Nomad GCS**: [Software Engineer Intern](https://nomadgcs.bamboohr.com/careers/506/) - Columbia Falls, MT _(Simplify)_
-- **CACI**: [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618) - Sarasota, FL _(Simplify)_
-- **Delta Dental**: [Application Development Intern - Application Development](https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101510) - Okemos, MI _(Simplify)_
-- **Great American Insurance Company**: [Claims Lab Developer Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803) - Cincinnati, OH _(Simplify)_
-- **Great American Insurance Company**: [Data Application Engineer Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Application-Development-Intern---Summer-2027_R9796) - Cincinnati, OH _(Simplify)_
-- **Salesforce**: [Forward Deployed Engineer Intern - Global Public Sector](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026) - Arkansas / Ohio _(Simplify)_
 
