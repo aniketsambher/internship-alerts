@@ -1,5 +1,12 @@
 # New internships, newest first
 
+## Nov 26, 09:35 PM ET
+
+- **Atoms**: [Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8963704002) - Seattle, WA / SF / LA / NYC / Mountain View, CA _(Simplify)_
+- **PQShield**: [Software Engineer Intern](https://pqshield.com/careers/apply/5049820101?gh_jid=5049820101) - Oxford, UK _(Simplify)_
+- **ICONIQ Capital**: [Engineering Intern](https://job-boards.greenhouse.io/iconiqhandshake/jobs/8394060) - SF _(Simplify)_
+- **ICONIQ Capital**: [AI Engineer Intern](https://job-boards.greenhouse.io/iconiqhandshake/jobs/8386455) - NYC _(Simplify)_
+
 ## Nov 25, 11:05 PM ET
 
 - **Blizzard Entertainment**: [Tech Art Intern](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383) - Irvine, CA _(Simplify)_
@@ -1493,10 +1500,3 @@
 ## Oct 27, 10:05 PM ET
 
 - **NUVACORE**: [CPU Software Intern](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply) - Markham, ON, Canada _(Simplify)_
-- **Perspective Therapeutics**: [AI Innovation Intern](https://perspectivetherapeutics.applytojob.com/apply/W9dIXxB2Qe/AI-Innovation-Intern) - Seattle, WA _(Simplify)_
-- **Samsung**: [Power-Thermal Simulation Software Engineer Intern](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003) - San Jose, CA _(Simplify)_
-- **DriveWealth**: [AI Consulting Associate Program Product Owner Intern](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true) - Chicago, IL _(Simplify)_
-- **DriveWealth**: [AI Consulting Associate Program – AI Engineer Intern](https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true) - Chicago, IL _(Simplify)_
-- **Relling**: [Robotics Software Engineer Intern](https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e/application?embed=true) - SF _(Simplify)_
-
-## Oct 27, 09:35 PM ET
