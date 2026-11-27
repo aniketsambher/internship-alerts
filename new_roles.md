@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 27, 06:35 PM ET
+
+- **Apple**: [Software Engineer Interview Intern - Apple Services](https://jobs.apple.com/en-us/details/200696753) - London, UK _(Simplify)_
+
 ## Nov 26, 09:35 PM ET
 
 - **Atoms**: [Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8963704002) - Seattle, WA / SF / LA / NYC / Mountain View, CA _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **General Magic**: [AI Engineer Co-op](https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6/application?embed=true) - Toronto, ON, Canada _(Simplify)_
 - **Shield AI**: [Software Engineer Intern](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true) - San Diego, CA _(Simplify)_
 - **Laminar**: [Technical Intern](https://jobs.ashbyhq.com/laminar-jobs/b8bf92af-a213-4f50-a22c-4a2413c4ab87/application?embed=true) - SF _(Simplify)_
-
-## Oct 27, 10:05 PM ET
-
-- **NUVACORE**: [CPU Software Intern](https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply) - Markham, ON, Canada _(Simplify)_
