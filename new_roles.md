@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 27, 06:45 PM ET
+
+- **IBM**: [Software Developer Intern (IBM Enterprise AI & Infrastructure) - Poughkeepsie - 2027](https://careers.ibm.com/careers/JobDetail?jobId=146392) - POUGHKEEPSIE, US _(careers page)_
+
 ## Nov 27, 06:35 PM ET
 
 - **Apple**: [Software Engineer Interview Intern - Apple Services](https://jobs.apple.com/en-us/details/200696753) - London, UK _(Simplify)_
@@ -1496,7 +1500,3 @@
 - **Shield AI**: [Software Engineer Intern](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true) - San Diego, CA _(Simplify)_
 - **Ixian Robotics**: [Software Intern](https://jobs.ashbyhq.com/ixianrobotics/23738c13-3881-402e-9919-85683052d233/application?embed=true) - SF _(Simplify)_
 - **General Magic**: [Design Engineer Co-op](https://jobs.ashbyhq.com/generalmagic/5c0e1614-de0c-4a8a-b37a-86af8f92b506/application?embed=true) - Toronto, ON, Canada _(Simplify)_
-- **General Magic**: [Backend Engineer Co-op](https://jobs.ashbyhq.com/generalmagic/76c162b0-9fd6-42bb-93d5-9ab7ad3f569b/application?embed=true) - Toronto, ON, Canada _(Simplify)_
-- **General Magic**: [AI Engineer Co-op](https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6/application?embed=true) - Toronto, ON, Canada _(Simplify)_
-- **Shield AI**: [Software Engineer Intern](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true) - San Diego, CA _(Simplify)_
-- **Laminar**: [Technical Intern](https://jobs.ashbyhq.com/laminar-jobs/b8bf92af-a213-4f50-a22c-4a2413c4ab87/application?embed=true) - SF _(Simplify)_
