@@ -1,5 +1,10 @@
 # New internships, newest first
 
+## Nov 27, 07:35 PM ET
+
+- **General Dynamics Information Technology**: [Artificial Intelligence/Machine Learning Software Development and Engineer Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ233023) - Bossier City, LA _(Simplify)_
+- **Trinzic**: [Defense & Intel Software Engineer Intern](https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Chantilly-Virginia/Defense---Intel--D-I----Software-Engineering-Internship_R3001235) - Orlando, FL / King of Prussia, PA / Colorado Springs, CO / Lexington, MA / Chantilly, VA / Ann Arbor, MI / Lexington Park, MD / Beavercreek, OH / Huntsville, AL / Kihei, HI / El Segundo, CA _(Simplify)_
+
 ## Nov 27, 07:05 PM ET
 
 - **Intercept**: [Solutions Engineer Co-op](https://intercept.bamboohr.com/careers/49/) - Toronto, ON, Canada _(Simplify)_
@@ -1495,8 +1500,3 @@
 ## Oct 28, 03:05 AM ET
 
 - **Certa**: [Frontend Engineer Intern](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true) - London, UK / Remote in India / SF / Jaipur, Rajasthan, India _(Simplify)_
-- **Quadric**: [Deep Learning Compiler Intern](https://jobs.ashbyhq.com/quadric/3f972411-63a7-4b94-869b-85012cc10d52/application?embed=true) - Burlingame, CA _(Simplify)_
-
-## Oct 28, 02:35 AM ET
-
-- **VSP Vision**: [Software Engineer Intern - Technology Innovation](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020) - Remote in USA _(Simplify)_
