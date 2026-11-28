@@ -1,5 +1,11 @@
 # New internships, newest first
 
+## Nov 27, 09:35 PM ET
+
+- **Revvity**: [Software Engineer Intern - In Vivo Imaging](https://revvity.wd103.myworkdayjobs.com/External/job/Morrisville/Software-Engineering-Intern--In-Vivo-Imaging_JR-046080) - Morrisville, NC _(Simplify)_
+- **Samsung**: [Software Development Engineer Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Software-Development-Engineer---Intern_R122018) - Mountain View, CA _(Simplify)_
+- **Samsung**: [5G vRAN Automation Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-vRAN-Automation-Intern_R122025) - Plano, TX _(Simplify)_
+
 ## Nov 27, 09:05 PM ET
 
 - **The Home Depot**: [Product & Engineering Co-op](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Product---Engineering-Co-Op_Req199629) - Atlanta, GA _(Simplify)_
@@ -1494,9 +1500,3 @@
 ## Oct 29, 04:35 AM ET
 
 - **Philips**: [AI & Analytics Analyst Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012) - Nashville, TN _(Simplify)_
-- **Booz Allen**: [Software Developer Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138) - Atlanta, GA _(Simplify)_
-
-## Oct 29, 02:35 AM ET
-
-- **Boston Scientific**: [AI Solutions Engineering Intern](https://bostonscientific.eightfold.ai/careers/job/563602813547675) - Arden Hills, MN _(Simplify)_
-- **HP Inc.**: [Software Engineer Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806) - SF _(Simplify)_
