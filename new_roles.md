@@ -1,5 +1,44 @@
 # New internships, newest first
 
+## Nov 27, 08:05 PM ET
+
+- **State Street**: [Software Engineer Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801504) - Boston, MA _(Simplify)_
+- **T-Mobile**: [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Intern_REQ381315) - Overland Park, KS _(Simplify)_
+- **T-Mobile**: [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineer-Internship_REQ381357) - Overland Park, KS _(Simplify)_
+- **NVIDIA**: [AI and Quant Devtech Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517) - Canada / Santa Clara, CA / United States _(Simplify)_
+- **NVIDIA**: [Software Engineer Intern - Simulation Technology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531) - Canada / Santa Clara, CA / United States _(Simplify)_
+- **NVIDIA**: [Finance AI Engineer Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131) - Canada / Santa Clara, CA / United States _(Simplify)_
+- **NVIDIA**: [Accounting AI Solution Engineer Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1) - Canada / Santa Clara, CA / United States _(Simplify)_
+- **First PREMIER Bank**: [IT Architecture Intern](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-IT-Architecture-Internship_R-547) - Sioux Falls, SD _(Simplify)_
+- **SOTI**: [Software Developer Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10735) - Mississauga, ON, Canada _(Simplify)_
+- **T-Mobile**: [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ382091) - Bellevue, WA _(Simplify)_
+- **T-Mobile**: [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ382100) - Bellevue, WA _(Simplify)_
+- **Micron Technology**: [Advanced Modeling and AI Solutions Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Advanced-Modeling-and-AI-Solutions_JR118093) - Boise, ID _(Simplify)_
+- **Jabil**: [IT Programmer Analyst Intern](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/IT-Programmer-Analyst-Intern_J2472386) - Florence, KY _(Simplify)_
+- **SOTI**: [Software Developer Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10703-2) - Mississauga, ON, Canada _(Simplify)_
+- **Illinois Tool Works**: [Software Engineer Intern](https://itw.wd5.myworkdayjobs.com/external/job/Fairmont---56031/Software-or-Computer-Engineer-Intern---Summer-2027_JR11356) - Fairmont, MN _(Simplify)_
+- **Cadence Design Systems**: [Software Engineer Intern - Circuit Simulation](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Software-Engineering-Intern---Circuit-Simulation_R57251) - Austin, TX _(Simplify)_
+- **T-Mobile**: [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ380511) - Bellevue, WA _(Simplify)_
+- **T-Mobile**: [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380459) - Frisco, TX / Bellevue, WA / Overland Park, KS _(Simplify)_
+- **KLA**: [Software Engineer Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2642953) - Milpitas, CA _(Simplify)_
+- **SOTI**: [Software Developer Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10718) - Mississauga, ON, Canada _(Simplify)_
+- **State Street**: [Software Engineer Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801269-1) - Boston, MA _(Simplify)_
+- **State Street**: [Agentic AI Engineering Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Agentic-AI-Engineering--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801282) - Quincy, MA / Burlington, MA _(Simplify)_
+- **State Street**: [Software Engineer Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801272) - Boston, MA _(Simplify)_
+- **State Street**: [AI Engineer Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/AI-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801273) - Cambridge, MA _(Simplify)_
+- **State Street**: [Agentic AI Engineer Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Agentic-AI-Engineering--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801277) - Quincy, MA / Burlington, MA _(Simplify)_
+- **T.D. Williamson**: [Software Engineer Intern](https://tdwilliamson.wd1.myworkdayjobs.com/en-US/TDWCareers/job/USA-OK-Tulsa/Engineering-Intern---Summer-2027_REQ-04014) - Tulsa, OK _(Simplify)_
+- **Marvell**: [AI Infrastructure Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Infrastructure-Engineer-Intern--MS---Summer-2027_2604829) - Santa Clara, CA _(Simplify)_
+- **State Street**: [Software Engineer Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801238) - Quincy, MA _(Simplify)_
+- **State Street**: [Software Engineer Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801235) - Quincy, MA _(Simplify)_
+- **State Street**: [Full Stack Development Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Full-Stack-Development-Intern--Full-time-Internship--Jan---June-2027-_R-801232) - Quincy, MA _(Simplify)_
+- **State Street**: [Software Engineer Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801241) - Quincy, MA _(Simplify)_
+- **State Street**: [Software Engineer Intern - Jan - June 2027](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801237) - Quincy, MA _(Simplify)_
+- **State Street**: [Software Engineer Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801236) - Quincy, MA _(Simplify)_
+- **State Street**: [Software Engineer Intern - Integration Services](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineer--Intergration-Services----Full-time-Internship--Jan---June-2027-_R-801234) - Quincy, MA _(Simplify)_
+- **Bloomberg Industry Group**: [Engineering Intern](https://bloomberg.wd1.myworkdayjobs.com/Bloombergindustrygroup_External_Career_Site/job/Arlington-VA---1801-S-Bell-INDG/Engineering-Intern_145703) - Arlington County, Arlington, VA _(Simplify)_
+- **Leonardo**: [Software Engineer Intern](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283) - Basildon, UK _(Simplify)_
+
 ## Nov 27, 07:35 PM ET
 
 - **General Dynamics Information Technology**: [Artificial Intelligence/Machine Learning Software Development and Engineer Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ233023) - Bossier City, LA _(Simplify)_
@@ -1461,42 +1500,3 @@
 ## Oct 28, 11:05 AM ET
 
 - **Autodesk**: [Software Engineer Intern - Javascript](https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--Javascript----12-months_26WD101691-2) - Sheffield, UK _(Simplify)_
-- **RTX**: [Software Engineer Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371) - Marlborough, MA / Tewksbury, MA _(Simplify)_
-- **Ace Hardware**: [IT Associate Software Engineer Intern](https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797) - Oak Brook, IL _(Simplify)_
-- **WebFX**: [Web Developer Intern](https://jobs.ashbyhq.com/webfx/3851a96a-34d2-41df-8da2-0f12ab5c396d/application?embed=true) - Harrisburg, PA _(Simplify)_
-
-## Oct 28, 10:35 AM ET
-
-- **Infleqtion**: [Quantum Software Intern - Quantum Software](https://apply.workable.com/coldquanta/j/EB77DE8198/apply) - Chicago, IL _(Simplify)_
-- **Allegion**: [Software Systems Engineering Intern](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1) - Golden, CO _(Simplify)_
-
-## Oct 28, 10:30 AM ET
-
-- **IBM**: [Site Reliability Engineer Intern - OneIT - Rochester, MN](https://careers.ibm.com/careers/JobDetail?jobId=132822) - ROCHESTER, US _(careers page)_
-
-## Oct 28, 10:25 AM ET
-
-- **IBM**: [SW Developer Intern | AI Center of Excellence - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131176) - Austin, US _(careers page)_
-
-## Oct 28, 08:35 AM ET
-
-- **VSP Vision**: [Software Engineer Intern](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046) - Remote in USA _(Simplify)_
-
-## Oct 28, 08:05 AM ET
-
-- **VSP Vision**: [Software Engineer Intern](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071) - Remote in USA _(Simplify)_
-
-## Oct 28, 06:05 AM ET
-
-- **RosaicLabs**: [Software Engineering Intern](https://jobs.lever.co/rosaiclabs/740b53d3-dd36-41fb-b49c-ab7f97505aa8/apply) - Austin, TX / Santa Clara, CA _(Simplify)_
-- **Axiom Math**: [Member of Technical Staff Intern](https://jobs.ashbyhq.com/axiommath/bc494f2d-64d0-4f8e-a18a-3c9059d5940e/application?embed=true) - Palo Alto, CA / London, UK _(Simplify)_
-- **Sycamore**: [Engineer Intern](https://jobs.ashbyhq.com/sycamore/20c06fdf-9aa4-44b0-9cd1-4e21707a16f3/application?embed=true) - Palo Alto, CA _(Simplify)_
-- **Latent Defense**: [Software Engineer Intern](https://jobs.ashbyhq.com/latent%20defense/54841e7d-d80a-4c2f-8c44-d492fe8eb487/application?embed=true) - NYC _(Simplify)_
-
-## Oct 28, 04:05 AM ET
-
-- **Serval**: [Software Engineer Intern](https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b/application?embed=true) - SF _(Simplify)_
-
-## Oct 28, 03:05 AM ET
-
-- **Certa**: [Frontend Engineer Intern](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true) - London, UK / Remote in India / SF / Jaipur, Rajasthan, India _(Simplify)_
