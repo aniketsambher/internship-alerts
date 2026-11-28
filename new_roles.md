@@ -1,5 +1,36 @@
 # New internships, newest first
 
+## Nov 27, 09:05 PM ET
+
+- **The Home Depot**: [Product & Engineering Co-op](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Product---Engineering-Co-Op_Req199629) - Atlanta, GA _(Simplify)_
+- **Genentech**: [Clinical Pharmacology Intern](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Clinical-Pharmacology_202611-129678) - South SF _(Simplify)_
+- **Cadence Design Systems**: [Software Engineer Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern-Software-Engineer--Summer-2027--Three-Month-Duration-_R57246) - Edinburgh, UK _(Simplify)_
+- **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01890983) - Fort Wayne, IN _(Simplify)_
+- **Motorola Solutions**: [Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Salt-Lake-City-UT-UT17/Software-Engineering-Intern---2027-Internship-Program_R70950) - Salt Lake City, UT _(Simplify)_
+- **Rockwell Automation**: [Software Engineer Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineer_R26-5303-1) - Milwaukee, WI _(Simplify)_
+- **Cadence Design Systems**: [Software Engineer Intern - Circuit Simulation](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Engineering-Intern---Circuit-Simulation_R57251-1) - Austin, TX _(Simplify)_
+- **ZOLL Medical**: [Software Engineer Intern](https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Engineering-Intern_R20923) - Chelmsford, MA _(Simplify)_
+- **GlobalFoundries**: [AI-Enabled PDK Development Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enabled-PDK-Development-Intern--Summer-2027-_JR-2604440) - Malta, NY _(Simplify)_
+- **GlobalFoundries**: [Fab Systems Setup & Routing Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Electrical-Test-Engineering-Intern--Summer-2027-_JR-2604641) - Essex Junction, VT _(Simplify)_
+- **PTC**: [Full-Stack Engineer Intern - Cloud Data Management - CAD](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Software-Engineering-Intern--Summer-2027-_JR113015) - Boston, MA _(Simplify)_
+- **Elevance Health**: [Innovation Intern](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Innovation-Intern--Summer-2027_JR210979) - Indianapolis, IN _(Simplify)_
+- **Cadence Design Systems**: [Software Engineer Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern-Software-Engineer--Summer-2027--Three-Month-Duration----_R57170) - Edinburgh, UK _(Simplify)_
+- **Cadence Design Systems**: [Software Engineer Intern - Circuit Simulation infrastructure](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254-1) - San Jose, CA _(Simplify)_
+- **Cadence Design Systems**: [Software Engineer Intern](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern-Software-Engineer--Summer-2027--Three-Month-Duration-_R57171-1) - Edinburgh, UK _(Simplify)_
+- **Leidos**: [Software Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Software-Developer-Intern_R-00197399-1) - Fort Belvoir, VA _(Simplify)_
+- **Hewlett Packard Enterprise**: [AI Engineering Technical Intern](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California/AI-Engineering-Technical-Intern_1218702) - Sunnyvale, CA _(Simplify)_
+- **Copart**: [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR112072-1) - Dallas, TX _(Simplify)_
+- **Copart**: [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR112593) - Dallas, TX _(Simplify)_
+- **Unum Group**: [IT Intern](http://unum.wd1.myworkdayjobs.com/External/job/Chattanooga-Tennessee-USA/IT-Intern--Summer-2027-_836795) - Chattanooga, TN / Columbia, SC / Portland, ME _(Simplify)_
+- **Nelnet**: [IT Software Engineer Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer--Summer-2027-_R23352) - Lincoln, NE _(Simplify)_
+- **AVEVA**: [Software Developer Intern](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Software-Developer-Intern---UK_R015082) - Cambridge, UK _(Simplify)_
+- **AVEVA**: [Software Developer Intern](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Software-Developer-Intern--Core-AI----UK_R015084) - Cambridge, UK _(Simplify)_
+- **PTC**: [Performance Engineer Intern](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Onshape-Performance-Engineering-Intern--Summer-2027-_JR112929) - Boston, MA _(Simplify)_
+- **Colliers**: [Information Technology/Application Development Intern](https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Minneapolis-Minnesota-United-States-of-America/Information-Technology-Application-Development-Internship_JR18838) - Minneapolis, MN _(Simplify)_
+- **Michaels Stores**: [Software Engineer Intern](https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Intern---Software-Engineering_R00328731) - Irving, TX _(Simplify)_
+- **Michaels Stores**: [Digital Software Engineer Intern](https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Intern---Digital-eCommerce-Engineering_R00328727) - Irving, TX _(Simplify)_
+- **GlobalFoundries**: [Tapeout Engineering Business Products & Engineer Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Tapeout-Engineering-Business-Products---Engineering-Intern--Summer-2027-_JR-2604926) - Austin, TX _(Simplify)_
+
 ## Nov 27, 08:35 PM ET
 
 - **Baker Hughes**: [Software Developer Intern](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Developer---2027_R173441) - Cramlington, UK _(Simplify)_
@@ -1469,34 +1500,3 @@
 
 - **Boston Scientific**: [AI Solutions Engineering Intern](https://bostonscientific.eightfold.ai/careers/job/563602813547675) - Arden Hills, MN _(Simplify)_
 - **HP Inc.**: [Software Engineer Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806) - SF _(Simplify)_
-
-## Oct 28, 10:05 PM ET
-
-- **HP Inc.**: [Software Quality Assurance Intern](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1) - SF _(Simplify)_
-- **HP Inc.**: [Software Systems Intern - IQ](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801-1) - SF _(Simplify)_
-- **HP Inc.**: [Software Engineer Intern](https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1) - SF _(Simplify)_
-- **HPS Investment Partners**: [Technology Intern - App Dev](https://job-boards.greenhouse.io/hpsinterns/jobs/4739898005) - NYC _(Simplify)_
-- **General Dynamics Information Technology**: [AI/ML Software Development and Engineering Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939) - Bossier City, LA _(Simplify)_
-
-## Oct 28, 09:35 PM ET
-
-- **HP Inc.**: [Software Quality Assurance Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802) - SF _(Simplify)_
-- **HP Inc.**: [Software Systems Intern - IQ](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801) - SF _(Simplify)_
-- **Graphcore**: [Software Engineer Intern - AI Compute Libraries & Performance](https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902325002) - Bristol, UK _(Simplify)_
-- **Graphcore**: [Software Engineer Intern - Drivers and Utilities](https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902141002) - Bristol, UK _(Simplify)_
-- **New York ISO**: [Software Engineering Co-op - Software Engineering](https://job-boards.greenhouse.io/nyisocoops/jobs/5236034007) - Rensselaer, NY _(Simplify)_
-
-## Oct 28, 07:05 PM ET
-
-- **Javelin Global Commodities**: [Software Engineering Intern](https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/apply) - London, UK _(Simplify)_
-- **Schonfeld**: [AI Enablement Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171694) - NYC _(Simplify)_
-- **AMD**: [Masters AI Training Software & Performance Co-op](https://careers.amd.com/jobs/93476?icims=1) - San Jose, CA _(Simplify)_
-- **Regeneron Pharmaceuticals**: [IT and Systems Intern - Industrial Operations and Product Supply](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-IT---Systems--IOPS-_R51822) - Rensselaer, NY _(Simplify)_
-- **Sonos**: [Software Engineer Intern](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1) - Boston, MA _(Simplify)_
-- **Virtu Financial**: [Frontend Developer Internship](https://job-boards.greenhouse.io/virtu/jobs/8657500002) - NYC _(Simplify)_
-
-## Oct 28, 06:35 PM ET
-
-- **Clean Harbors**: [Software & Field Technology Intern IS](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672) - Deer Park, TX _(Simplify)_
-- **Lila Sciences**: [Finance Co-op](https://job-boards.greenhouse.io/lilasciences/jobs/4469146009) - Cambridge, MA _(Simplify)_
-- **Autodesk**: [Software Engineer Intern - C++/.Net](https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD101693-2) - Sheffield, UK _(Simplify)_
