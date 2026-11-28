@@ -1,5 +1,24 @@
 # New internships, newest first
 
+## Nov 27, 08:35 PM ET
+
+- **Baker Hughes**: [Software Developer Intern](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Developer---2027_R173441) - Cramlington, UK _(Simplify)_
+- **Signet Jewelers**: [Software Engineer Intern - Digital Commerce](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Irving-TX/Software-Engineering-Intern--Digital-Commerce_REQ_84709) - Irving, TX _(Simplify)_
+- **Signet Jewelers**: [Software Engineer Intern - Digital Commerce](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Irving-TX/Software-Engineering-Intern--Digital-Commerce_REQ_84703) - Irving, TX _(Simplify)_
+- **Alexion**: [Business Partner Intern - Business Partner](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Boston---MA/Summer-2027-Intern---Business-Partner_R-264992) - Boston, MA _(Simplify)_
+- **Rockwell Automation**: [Software Engineer Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineer_R26-5303-2) - Milwaukee, WI _(Simplify)_
+- **ASML**: [AI Engineer Co-op Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--AI-Engineer_J-00358475) - San Diego, CA _(Simplify)_
+- **ASML**: [AI Engineer Co-op Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship-Co-Op--AI-Engineer_J-00358477) - San Jose, CA _(Simplify)_
+- **The Aerospace Corporation**: [Software Systems Engineer and Acquisition Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Grad-Intern_R017175) - Chantilly, VA / El Segundo, CA _(Simplify)_
+- **The Aerospace Corporation**: [Software Tools and Assurance Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Grad-Intern_R017260) - El Segundo, CA _(Simplify)_
+- **McKesson**: [CMM Technology Intern](https://mckesson.wd3.myworkdayjobs.com/sourcer_on_req/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0157549) - Columbus, OH _(Simplify)_
+- **The New School**: [Front End Developer & UI/UX Designer Intern](https://newschool.wd1.myworkdayjobs.com/external/job/N---66-Fifth-Avenue/Front-End-Developer---UI-UX-Designer---Student-Assistant-Specialist_JR109390-1) - NYC _(Simplify)_
+- **ASML**: [Artificial Intelligence Intern - Integrate GUI and LLM](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Integrate-GUI-and-LLM_J-00357014) - San Jose, CA _(Simplify)_
+- **Saab**: [Software Engineer Co-op](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1) - East Syracuse, NY _(Simplify)_
+- **Saab**: [Software Engineer Co-op](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1) - East Syracuse, NY _(Simplify)_
+- **Parsons**: [Engineering Internship/Co-op](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Engineering-Internship---Co-Op-Summer-2027_R185683) - Charlotte, NC / Centreville, VA _(Simplify)_
+- **Capital One**: [Technology Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Technology-Summer-Internship_R999269) - Nottingham, UK _(Simplify)_
+
 ## Nov 27, 08:05 PM ET
 
 - **State Street**: [Software Engineer Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801504) - Boston, MA _(Simplify)_
@@ -1481,22 +1500,3 @@
 - **Clean Harbors**: [Software & Field Technology Intern IS](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672) - Deer Park, TX _(Simplify)_
 - **Lila Sciences**: [Finance Co-op](https://job-boards.greenhouse.io/lilasciences/jobs/4469146009) - Cambridge, MA _(Simplify)_
 - **Autodesk**: [Software Engineer Intern - C++/.Net](https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD101693-2) - Sheffield, UK _(Simplify)_
-- **T-Mobile**: [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441) - Overland Park, KS _(Simplify)_
-- **Pennsylvania State University**: [Research and Development Engineer Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000083854-1) - State College, PA _(Simplify)_
-- **Subtotal**: [Software Engineer Intern](https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801/application?embed=true) - Remote in USA _(Simplify)_
-- **TD Bank**: [Technology Intern](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518241) - Belfast, UK _(Simplify)_
-- **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169) - Sterling, VA _(Simplify)_
-- **FormFactor**: [Electrical Design Automation Intern - AI & EDA Automation](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Electrical-Design-Automation-Intern---AI---EDA-Automation_JR101304) - Livermore, CA _(Simplify)_
-- **Genesis Molecular AI**: [Software Engineer Intern](https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99/application?embed=true) - San Mateo, CA / NYC _(Simplify)_
-
-## Oct 28, 05:55 PM ET
-
-- **LinkedIn**: [Software Engineer Intern (First Play)  - Summer 2027 (Mountain View, CA) ](https://jobs.smartrecruiters.com/LinkedIn3/744000158394370) - Mountain View, CA, United States _(careers page)_
-
-## Oct 28, 01:25 PM ET
-
-- **IBM**: [Site Reliability Engineer Intern - OneIT - Poughkeepsie, NY](https://careers.ibm.com/careers/JobDetail?jobId=132880) - POUGHKEEPSIE, US _(careers page)_
-
-## Oct 28, 11:05 AM ET
-
-- **Autodesk**: [Software Engineer Intern - Javascript](https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--Javascript----12-months_26WD101691-2) - Sheffield, UK _(Simplify)_
