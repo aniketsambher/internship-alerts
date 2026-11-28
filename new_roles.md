@@ -1,5 +1,9 @@
 # New internships, newest first
 
+## Nov 27, 07:05 PM ET
+
+- **Intercept**: [Solutions Engineer Co-op](https://intercept.bamboohr.com/careers/49/) - Toronto, ON, Canada _(Simplify)_
+
 ## Nov 27, 06:45 PM ET
 
 - **IBM**: [Software Developer Intern (IBM Enterprise AI & Infrastructure) - Poughkeepsie - 2027](https://careers.ibm.com/careers/JobDetail?jobId=146392) - POUGHKEEPSIE, US _(careers page)_
@@ -1496,7 +1500,3 @@
 ## Oct 28, 02:35 AM ET
 
 - **VSP Vision**: [Software Engineer Intern - Technology Innovation](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020) - Remote in USA _(Simplify)_
-- **VSP Vision**: [Software Engineer Intern](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068) - Remote in USA _(Simplify)_
-- **Shield AI**: [Software Engineer Intern](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true) - San Diego, CA _(Simplify)_
-- **Ixian Robotics**: [Software Intern](https://jobs.ashbyhq.com/ixianrobotics/23738c13-3881-402e-9919-85683052d233/application?embed=true) - SF _(Simplify)_
-- **General Magic**: [Design Engineer Co-op](https://jobs.ashbyhq.com/generalmagic/5c0e1614-de0c-4a8a-b37a-86af8f92b506/application?embed=true) - Toronto, ON, Canada _(Simplify)_
